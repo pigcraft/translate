@@ -1,0 +1,1860 @@
+{
+    "discount": [
+        "{bold}{aqua}Discount {yellow}{arg1}{yellow}%",
+        "{yellow}to 1 Feb!\n{white}only on {pink}{bold}{donate}"
+    ],
+    "discount.title": [
+        "{bold}{br}{gold} DISCOUNTS {yellow}{arg1}{bold}{yellow}%{gold} COUPON {aqua}{arg2} {white}{bl}",
+        "Things to buy with discount {bold}{yellow}{arg3}{yellow}%{reset}, only {aqua}until January 16!",
+        "Privilege {bold}{red}(a Hryunov){reset} for {green}399{reset} rubles",
+        "Privilege {bold}{red}(Again){reset} for {green}699{reset} rubles",
+        "Privilege {bold}{aqua}(Ifrit){reset} for {green}1199{reset} rubles",
+        "To buy on the site {pink}{bold}{donate}"
+    ],
+    "tictac.prefix": "TIC",
+    "tictac.lowmoney": "To play You need {yellow}{arg1} coins!",
+    "tictac.start1": "You join a queue, wait for a second player! (1\/2)",
+    "tictac.start2": "You joined the game the second player! (2\/2)",
+    "tictac.started": "You are already in the queue.",
+    "tictac.start": "The first goes to: {aqua}{arg1}.",
+    "tictac.isgame": "The game is, wait for it to end.",
+    "tictac.nopaste": "It's not Your turn.",
+    "tictac.noclick": "You can't go here, choose somewhere else.",
+    "tictac.click": "You have made progress! Now goes the enemy.",
+    "tictac.youclick": "The enemy went! Now it's Your turn.",
+    "tictac.win": [
+        "Won {aqua}{arg1} and received {yellow}{arg2} coins.",
+        "Want to play TIC-TAC-toe? Write: {aqua}\/ttt"
+    ],
+    "tictac.nobox": [
+        "The players left turns. Draw!",
+        "Players {aqua}{arg1} and {aqua}{arg2} only get {yellow}80% of the rate.",
+        "I want to play too? Write: {aqua}\/ttt"
+    ],
+    "tictac.notime": [
+        "The players got time",
+        "Players {aqua}{arg1} and {aqua}{arg2} only get {yellow}80% of the rate.",
+        "Want to play TIC-TAC-toe? Write: {aqua}\/ttt"
+    ],
+    "tictac.tp": "You have successfully teleported to the game.",
+    "tictac.sign": [
+        "{aqua}{bold}TIC TAC toe",
+        "{white}Value: {yellow}{arg1} {yellow}coins",
+        "",
+        "{green}{bold}to PLAY"
+    ],
+    "duels.prefix": "{aqua}Duel",
+    "duels.join": "Player {yellow} of{arg1} entered the arena.",
+    "duels.quit": "Player {yellow}{arg1} left the arena.",
+    "duels.win": "You {green}has won{reset} and received {yellow}{arg1} coin and {yellow}{arg2} experience",
+    "duels.search": "{aqua}Search arena{arg1}",
+    "duels.find": "Free arena found, teleportation.",
+    "duels.nofind": "All arenas are occupied.",
+    "duels.restart": "The server is preparing for the restart of the duel is not available.",
+    "duels.load.one": "{yellow}the Expectation of the enemy.",
+    "duels.load.more": "{yellow}the expectation of the opponents.",
+    "duels.starting": "{aqua}{arg1} before the start",
+    "duels.start": "The battle began, stay alive! The battle will end in {aqua}{arg1}",
+    "duels.br": "Player {yellow}{arg1} waiting on duels, join team {bold}{aqua}\/duel",
+    "duels.bed": "You {green}successful{reset} left the arena and was {yellow}teleported to{reset} on spawn.",
+    "duels.command": "You {red}can't{reset} use the commands in duels.",
+    "duels.draw": "The battle is over {yellow}in a draw.",
+    "duels.time": "Until the end of the battle there are {aqua}{arg1}",
+    "duels.info": [
+        "You went into the mode {bold}{pink}DUELS {red}{italic}{arg1}",
+        "Map: {yellow}{arg2}"
+    ],
+    "duels.title.draw": [
+        "{bold}{red}Draw",
+        "{white}do You both good!"
+    ],
+    "duels.title.fail": [
+        "{bold}{red}Defeat :(",
+        "will do next time."
+    ],
+    "duels.title.win": [
+        "{bold}{green}You have won!",
+        "{yellow}+{arg1}{yellow}{currency} {aqua}+{arg2}{aqua} experience"
+    ],
+    "duels.title.nofind": [
+        "{bold}{red}no Available arenas",
+        "teleporting to spawn..."
+    ],
+    "duels.title.start": [
+        "{bold}{green}the Battle began",
+        "stay alive"
+    ],
+    "duels.title.bed": [
+        "{bold}{red}You left the arena",
+        "rest up and come back!"
+    ],
+    "duels.npc.exit": "{bold} of{red}Out",
+    "duels.npc.mode": "Mode {bold}{italic}{aqua}{arg1}",
+    "duels.npc.online": "Playing {yellow}{arg1}",
+    "obs.prefix": "{green}Surveillance",
+    "obs.noargs": "Use {green}\/obs see (nick){reset} to begin {yellow}monitor{reset} for player or {red}\/obs off{reset} to {yellow}off{reset} surveillance",
+    "obs.noname": "You have not specified {yellow}name{reset}, which want to start to follow!",
+    "obs.offline": "The player with the name {yellow} of{arg1} not found on server!",
+    "obs.noyou": "You can't track {yellow}of ourselves",
+    "obs.active": "You already follow the player {aqua}{arg1}. Disable shadowing - {red}\/obs off",
+    "obs.endsee": "Player {aqua}{arg1} switched on the surveillance mode, now You {yellow}can't{reset} to follow him.",
+    "obs.see": "You start to follow the player {yellow}{arg1}.",
+    "obs.off": "You turned off the surveillance.",
+    "obs.disconnect": "Player {yellow}{arg1} came from the server, snooping is disabled.",
+    "obs.nocommand": "You may not {yellow}, use{reset} in a Stakeout.",
+    "hack.prefix": "Hack",
+    "hack.opened": "You've tried to kick {red}donut{reset} try {yellow}again{reset} after a reboot.",
+    "hack.br": "PLAYER {aqua}{arg1} KNOCKED {bold}{red}ADMINISTRATOR{reset} TEAM {pink}{bold}\/hack{reset}! LET'S CONGRATULATE HIM!!!",
+    "hack.no": [
+        "You tried their luck and {red}lost to{reset}. Your number is {yellow}{arg1} {yellow}{arg2}",
+        "To {green}to win{reset} You have {gold}to fall{reset} the number {bold}{pink}{arg3}",
+        "The last player knocked out admin: {bold}{aqua}{arg4}"
+    ],
+    "hack": "{bold}{gold}Congratulations!{reset} You got the privilege {pink}administrator{reset} absolutely for free!",
+    "sign.info1": [
+        "",
+        "{white}a List of commands:",
+        "{pink}\/help",
+        ""
+    ],
+    "sign.info2": [
+        "{white}Help",
+        "{white}private:",
+        "{pink}\/rg help",
+        ""
+    ],
+    "sign.info3": [
+        "{white}Information about",
+        "{white}all privileges:",
+        "",
+        "{pink}\/donate"
+    ],
+    "sign.info4": [
+        "",
+        "{white}Open shop:",
+        "{pink}\/shop",
+        ""
+    ],
+    "sign.info5": [
+        "{white}The Group VKontakte:",
+        "{aqua}{group}",
+        "",
+        ""
+    ],
+    "sign.info6": [
+        "",
+        "{white}can Sell private:",
+        "{pink}\/rg sell (amount)",
+        ""
+    ],
+    "sign.info7": [
+        "",
+        "{white}Backpack:",
+        "{pink}\/bp",
+        ""
+    ],
+    "sign.info8": [
+        "",
+        "{white}to Create a clan:",
+        "{pink}\/c create",
+        "{pink}(name)"
+    ],
+    "sign.info9": [
+        "",
+        "{white}the List of jobs:",
+        "{pink}\/job \/ list",
+        ""
+    ],
+    "sign.info10": [
+        "",
+        "{white}Bank:",
+        "{pink}\/tp bank",
+        ""
+    ],
+    "sign.info11": [
+        "{white}Teleport to",
+        "{white}is a random place:",
+        "",
+        "{pink}\/rtp"
+    ],
+    "sign.info12": [
+        "",
+        "{white}Warpy server:",
+        "{pink}\/warp",
+        ""
+    ],
+    "sign.jail": [
+        "{white}out of",
+        "{red}prison"
+    ],
+    "info.clans": [
+        "The server has {pink} of{bold}of CLANS{reset}!",
+        "You can {yellow}create{reset} for {bold}{aqua}500 000 coins.",
+        "Or {yellow}to join{reset} existing: {yellow}\/c join (clan id)"
+    ],
+    "info.effect": "{bold} of{yellow}Free effect",
+    "info.money": "{bold} of{yellow}Free coins",
+    "info.clicker": [
+        "{bold}{pink}Dragon egg",
+        "With each {yellow}kick{reset} the egg",
+        "falls {aqua}is a random number{reset} coins"
+    ],
+    "bonus.chest.prefix": "Bonus",
+    "bonus.chest.title": [
+        "{bold}{yellow}Bonus chest",
+        "Test your luck {pink}every day",
+        "There is a chance to kick {bold}{gold}GOLEM{reset} {bold}{aqua}OCELOT{reset}!"
+    ],
+    "bonus.chest.creative": "To open the bonus chest, enable {yellow}survival mode.",
+    "bonus.chest.game": "The bonus chest is already open...",
+    "bonus.chest.error": "While trying to open a chest, error occurred!",
+    "bonus.chest.win": "You beat of the bonus chest {bold}{aqua}{arg1}! {bold}Congratulations!",
+    "bonus.chest.all": "Player {aqua}{arg1} knocked out of {yellow}bonus chest{reset} privilege {bold}{arg2}! {bold}will Potrivim it!",
+    "bonus.chest.time": "You have opened today, {yellow}bonus chest{reset}, come in {aqua}{arg1}.",
+    "clan.prefix": "Clan",
+    "clan.status.owner": "Chapter",
+    "clan.status.manager": "Co-Director",
+    "clan.status.best": "Warrior",
+    "clan.status.member": "The soklanovcu",
+    "clan.chest.title": [
+        "{bold}{yellow}Clan chest",
+        "Win {bold}{red}clan wars",
+        "And hit {bold}{pink}doublers{reset} {bold}{aqua}Donat cases{reset}!"
+    ],
+    "clan.chest.noopen": "Clan chest is now {red}opens{reset}.",
+    "clan.chest.notime": [
+        "Clan chest you can open for {yellow}days{reset} after {green}win{reset} of clan wars!",
+        "You {yellow}necessarily{reset} must participate in {aqua}points{reset} to your clan, otherwise You {red}will receive{reset} the ability to open the chest!"
+    ],
+    "clan.chest.error": "Error while opening a chest... Let us know about this bug: {aqua}\/bug.",
+    "clan.chest.money": "You knocked {yellow}{arg1} pieces {aqua}doubler coins{reset} now when You will get the coins they will be {yellow}multiply{reset} twice!",
+    "clan.chest.prefix": "You knocked {yellow}{arg1} pieces {aqua}case with the prefixes{reset}. To open write {aqua}\/pr",
+    "clan.chest.case": "You knocked {yellow}free donut case{reset}, it is a rare stroke of luck!",
+    "clan.chest.br": "Player {yellow}{arg1} knocked out of clan chest {aqua}{arg2}!",
+    "clan.nosetlvl": "You didn't specify the {yellow}level{reset}, from which it will be possible to join Your clan..",
+    "clan.setlvlmax": "You have specified too high a level, the maximum ban you can put on {yellow}{arg1} level.",
+    "clan.setlvl": "Now Your clan can join only players with level {yellow}{arg1} and above.",
+    "clan.setlvl.reset": "Now Your clan can enter {yellow}for any player.",
+    "clan.setlvled": "{aqua}{arg1} did limit to join clan {yellow}{arg2} level.",
+    "clan.setlvled.reset": "{aqua}{arg1} has removed the restriction on membership in the clan.",
+    "clan.add": "You have added to your clan another slot.",
+    "clan.added": "{aqua}{arg1} added a single slot in the clan can invite someone to the clan: {yellow}\/c invite nick.",
+    "clan.add.ismax": "Your clan has max slots.",
+    "clan.nokick": "You have not specified the nickname of the player that you want to exclude from the clan.",
+    "clan.nokickme": "You can't kick yourself for this, use {aqua}\/c quit",
+    "clan.player": "The player with the name ' {aqua}{arg1} not found in Your clan..",
+    "clan.kick.status": "You can't kick the clan head.",
+    "clan.kick": "You were kicked out of the clan {aqua}{arg1}.",
+    "clan.kicked": "{aqua}{arg1} kicked from the clan {yellow}{arg2}.",
+    "clan.up.status": "You can't raise the head of the clan.",
+    "clan.up": "You raised the player of the clan {aqua}{arg1}.",
+    "clan.upped": "{aqua}{arg1} increased the player's clan {yellow}{arg2}.",
+    "clan.down.status": "You can't lower the head of the clan.",
+    "clan.down": "You are demoted player of the clan {aqua}{arg1}.",
+    "clan.downed": "{aqua}{arg1} lowered the player's clan {yellow}{arg2}.",
+    "clan.top": "The list {yellow}of clans{reset} this season:\n{arg1}",
+    "clan.nohome": "Your clan is not already installed base.",
+    "clan.home": "You have successfully teleported to the base of the clan.",
+    "clan.sethome": "You have successfully installed a new base clan.",
+    "clan.sethomed": "{aqua}{arg1} established base of the clan. Teleport {yellow}\/c home",
+    "clan.nocash.home": [
+        "Not enough money {yellow}in Treasury{reset} clan to the clan database installation. Cost: {aqua}{arg1} coins.",
+        "To add coins to the Treasury with the command {aqua}\/c addcash number"
+    ],
+    "clan.nocash.descr": [
+        "Not enough money {yellow}in Treasury{reset} clan for installation descriptions. Cost: {aqua}{arg1} coins.",
+        "To add coins to the Treasury with the command {aqua}\/c addcash number"
+    ],
+    "clan.nocash.name": [
+        "Not enough money {yellow}in Treasury{reset} gclan to change the name. Cost: {aqua}{arg1} coins.",
+        "To add coins to the Treasury with the command {aqua}\/c addcash number"
+    ],
+    "clan.nocash.add": [
+        "Not enough money {yellow}in Treasury{reset} of the clan to increase slots. Cost: {aqua}{arg1} coins.",
+        "To add coins to the Treasury with the command {aqua}\/c addcash number"
+    ],
+    "clan.newop": "Player {aqua}{arg1} became the new head of the clan because of his activity, instead of the {yellow}{arg2}.",
+    "clan.noinvites": "You do not have applications for membership in the clan. To invite a player {aqua}\/c invite nick.",
+    "clan.inviteslist": "The list of players who left the request for membership:\n{arg1}",
+    "clan.help": "A list of available commands of the clan:{arg1}",
+    "clan.nomoney": "You can't create a clan! Not enough {aqua}{arg1} coins.",
+    "clan.isset": "You are already in a clan! To create your own or join another, leave sosestausee {aqua}\/c quit",
+    "clan.not": "You are not in the clan! You can create your team {aqua}\/c create (name){reset} or join {aqua}\/c join (clan id)",
+    "clan.noname": "You have not specified the name of your clan.",
+    "clan.no.username": "You have not specified the name of the player from your clan.",
+    "clan.valid.name": "The clan name must consist only of letters and numbers, do not include mats or insult, to be no longer than {yellow} of{arg1} characters.",
+    "clan.valid.descr": "Description of the clan should consist of only letters and numbers, does not contain codes for text colors, mats, or abused, to be no longer than {yellow} of{arg1} characters.",
+    "clan.create": "You have successfully created the clan {aqua}{arg1}. Any player can now join team {yellow}\/c join {arg2}",
+    "clan.remove": "You have successfully uninstalled your clan. The whole part of the clan disbanded...",
+    "clan.info": "Information about {yellow}{bold}{arg1} {reset}{gray}(id: {arg2}{gray}){reset}:\n{arg3}the Treasury: {bold}{yellow}{arg4} {yellow}coins{reset}\nThe restriction on membership: {bold}{yellow}{arg5}\nTrophies: {bold}{aqua}{arg6}\n{reset}{arg7}{reset} Players {gray}{arg8}{reset}\n{arg9}",
+    "clan.war": [
+        "There is a war with {gray}(id: {arg1}{gray}) {yellow}{bold}{arg2}.",
+        "Current account: {aqua}{bold}{arg3}.",
+        "The end of the season using: {aqua}{arg4}"
+    ],
+    "clan.endwar": "The clan war is over, your points okulirovannyh, trophies issued! {yellow}Thanks for playing!",
+    "clan.endwar.title": [
+        "{bold}{red}the end of the season!",
+        "The next season of clan wars {yellow}successfully completed"
+    ],
+    "clan.error": "At run time an error occurred, please report it to us with the command {yellow}\/bug.",
+    "clan.noid": "You didn't specify a room id of the clan, to view the information!",
+    "clan.removed": "Your clan is deleted, You are now without a team...",
+    "clan.noop": "You have no rights Chapter, to execute this command.",
+    "clan.nofound": "The clan {yellow}id:{arg1} not found!",
+    "clan.invites": "Your clan asks players! See the list of applications {aqua}\/c invites.",
+    "clan.rename": "You have successfully changed the clan name to {yellow} of{arg1}.",
+    "clan.renamed": "The clan name was changed to {yellow} of{arg1}.",
+    "clan.redescr": "You have successfully changed the description of the clan {yellow}{arg1}.",
+    "clan.redescred": "Description of the clan was changed to {yellow} of{arg1}.",
+    "clan.nocash": "Specify the number of coins that you want to add to the Treasury.",
+    "clan.addcash": "You have added to the Treasury of the clan {yellow} has{arg1} coins.",
+    "clan.addcashed": "{aqua}{arg1} added to the Treasury of the clan {yellow}{arg2} coins.",
+    "clan.noaddcash": "You have to balance not enough money to {yellow}{arg1} coins.",
+    "clan.nosay": "You did not write the advertisement which you want to send.",
+    "clan.say": "You sent an advertisement to all the soklanovcu online!",
+    "clan.sayed": "Advertisement: {red}{bold}{arg1}.",
+    "clan.noinvite": "You have not specified {yellow}name{reset} that you want to invite.",
+    "clan.inviteisclan": "Player {yellow}{arg1} is already in the clan.",
+    "clan.joinmax": "You can't join this clan, there are no available seats.",
+    "clan.invite": "You invited the player to {aqua} of{arg1} to your clan.",
+    "clan.invited": "Player {yellow}{arg1} invites You to join the clan {yellow}{arg2}! For entry write command {aqua}\/c join {arg3}.",
+    "clan.invitemax": "You can't invite a player to Your clan filled!",
+    "clan.nojoin": "You have not specified a {yellow} (id){reset} of clan who want to join.",
+    "clan.join": "You have sent a request to join, wait for approval.",
+    "clan.joined": "Player {yellow}{arg1} wants to add You to the clan. To accept the request {green}\/c accept {arg1}{reset}. Reject the request {red}\/decline c {arg1}.",
+    "clan.quit": "You left the clan...",
+    "clan.quited": "{yellow}{arg1} left the clan...",
+    "clan.noaccept": "You have not specified the nickname of the player that you want to take in the clan.",
+    "clan.nodecline": "You didn't specify nick of the player, the request you want to reject.",
+    "clan.acceptmax": "You can't accept this player in the clan was not available.",
+    "clan.accept": "You made player {yellow}{arg1} to the clan.",
+    "clan.accepted": "{yellow}{arg1} has joined the clan.",
+    "clan.acceptme": "You took the clan {yellow}{arg1}.",
+    "clan.acceptnolist": "The player {yellow}{arg1} no bids in the clan.",
+    "clan.decline": "Player application {yellow} of{arg1} was rejected.",
+    "clan.declineme": "Your application to join the clan {yellow}{arg1} was rejected.",
+    "arena": [
+        "{bold}{red}PvP Arena",
+        "You wearing a shield on {aqua}5 seconds"
+    ],
+    "arena.shield": "{aqua}the player shield.",
+    "arena.shieldoff": "{red}Your shield is disabled.",
+    "sheep": [
+        "{bold}{yellow}Cases with prefixes",
+        "Become {bold}{italic}{red}to{gold}R{yellow}and{green}with{aqua}on{blue}h{pink}n{red}e{gold}e{reset} other!"
+    ],
+    "villager.prefix": "The wanderer",
+    "villager.title": [
+        "{bold}{yellow}a wanderer from the wilderness",
+        "Don't want to share?"
+    ],
+    "whois.prefix": "Whois",
+    "whois.noargs": "You have not specified {yellow}name{reset} whose information you want to know!",
+    "whois.noplayer": "The player with the name {aqua} of{arg1} is not registered on the server!",
+    "whois.online": [
+        "Information about the player {aqua}{arg1} ({green}online{reset}):.",
+        "Player level: {yellow}{arg2}, experience: {green}{arg3}{gray}\/{dark_green}{arg4} xp",
+        "The privilege of the player: {yellow}{arg5}.",
+        "Installed language: {yellow}{arg6}.",
+        "Device: {yellow}{arg7}.",
+        "IP Address: {yellow}{arg8}.",
+        "In God mode: {yellow}{arg9}.",
+        "Included flight: {yellow}{arg10}.",
+        "Included creative: {yellow}{arg11}"
+    ],
+    "whois.offline": "Information will be available only when the player is {green}online.",
+    "badname": [
+        "Before the game on the server",
+        "go to {yellow}setting{reset} minecraft",
+        "and get yourself a {green}private{reset} nick {red}{italic}(instead of Steve)"
+    ],
+    "rules.prefix": "Rules",
+    "rules": {
+        "1.1": "Registration of nickname, insulting or foul language.",
+        "1.2": "Registration nickname, similar to the nickname of the administrator.",
+        "1.3": "Transfer your account to another player.",
+        "2.1": "Personal injury, Mat.",
+        "2.2": "Inadequate: rude insults, excessive mate.",
+        "2.3": "Harm to relatives.",
+        "2.4": "Advertising third-party resources.",
+        "2.5": "The fuelling conflict, discrimination.",
+        "2.6": "Introduction administration misled.",
+        "3.1": "The use of cheats.",
+        "3.2": "Interference with the normal play of other players (building blocks around the house, annoying teleporting without consent).",
+        "3.3": "Attempt to get the password from the account of the player.",
+        "3.4": "The use of critical bugs.",
+        "3.5": "The manipulation of game currency fraud.",
+        "3.6": "Bullying, blackmail.",
+        "3.7": "Construction of genitals, randomly placed blocks.",
+        "4.1": "Refersto (building traps, luring players to murder \"TP shelter\", etc.).",
+        "4.2": "The distribution of goods in large quantity (more than 64 PCs).",
+        "4.3": "Lock other people's accounts for no reason specified in the rules or the false block.",
+        "4.4": "Unlock account blocked with reason.",
+        "4.5": "Kicked for no good reason.",
+        "4.6": "Mut chat to another player for no reason, spelled out in the rules..",
+        "4.7": "The increased period of the ban (for example, you had ban for 1 day, and ban issued 3 days).",
+        "5.1": "The sale or attempted sale of an account for any currency.",
+        "5.2": "Sell or attempt to sell in-game currency for real money."
+    },
+    "cupon.prefix": "Coupon",
+    "cupon.vipend": [
+        "Time {gold}free benefits ran out.",
+        "You can buy {yellow}{arg1} forever{reset} at the site {aqua}{donate}"
+    ],
+    "cupon.fail": "Specified coupon was not found.. Maybe You got the wrong letter!",
+    "cupon.noargs": "You have not specified the coupon.",
+    "cupon.notime": "Activation time this coupon is already out.",
+    "cupon.taked": "You have already activated the coupon.",
+    "cupon.start": [
+        "Coupon {yellow}{arg1}{reset} successfully acuinova!",
+        "You have the privilege {arg2}{reset} {arg3} days {red}for free.",
+        "And {yellow}{arg4} multiplier coins.",
+        "And {aqua}{arg5} diamond{reset} for rapid development.",
+        "{bold}{gold}have fun :)"
+    ],
+    "cupon.terex": [
+        "Coupon {yellow}{arg1}{reset} successfully acuinova!",
+        "You have the privilege {arg2}{reset} {arg3} days {red}for free.",
+        "And {yellow}{arg4} multiplier coins.",
+        "And {aqua}{arg5} diamond{reset} for rapid development.",
+        "{bold}{gold}have fun :)"
+    ],
+    "cupon.fish": [
+        "Coupon {yellow}{arg1}{reset} successfully acuinova!",
+        "You received {yellow}{arg2}{reset} coins",
+        "And {yellow}{arg3} multiplier experience.",
+        "And {aqua}{arg4} diamond{reset} for rapid development.",
+        "{bold}{gold}have fun :)"
+    ],
+    "kalyan.prefix": "Hookah",
+    "kalyan.nomoney": "To {yellow}to smoke hookah{reset} You have {aqua}{arg1} coins.",
+    "kalyan.activate": [
+        "{bold}{pink}Hookah",
+        "You puffed on the hookah, be careful"
+    ],
+    "bonus.effect": "You received {yellow}random{reset} free effect.",
+    "bonus.money": "You received {yellow}free of {arg1} coins.",
+    "bonus.effect.no": "You can take {yellow}free effect{reset} again in {aqua}{arg1}.",
+    "bonus.money.no": "You can take {yellow}free coins{reset} again in {aqua}{arg1}.",
+    "bonus.effect.title": [
+        "{bold} of{aqua}Free effect",
+        "on {yellow}{arg1}"
+    ],
+    "bonus.money.title": [
+        "{bold} of{aqua}Free coins",
+        "{yellow}+{arg1} coins"
+    ],
+    "cheats": "Not chiteri on the server :)",
+    "reload.info": [
+        "The server will restart in {aqua}{arg1}.",
+        "Can also be {yellow}sudden rebooting of{reset} servers due to server updates."
+    ],
+    "reload.tick": "Server reboot in {aqua}{arg1}.",
+    "reload": "{bold}{yellow}the Server is rebooted...",
+    "maze.prefix": "Robbery",
+    "maze.title": [
+        "{bold}{yellow}Robbery",
+        "You have {aqua}{arg1}{reset}, to find a way out and Rob a Bank!",
+        "Reward {pink}is reduced to{reset} with each attempt",
+        "The maze changes every {yellow}two hours"
+    ],
+    "maze.starting": [
+        "{bold}{green}come on!",
+        "you have {aqua}{arg1} to find the exit"
+    ],
+    "maze.status.true": "The robbery status: {green}successful{reset} Made of attempts: {aqua}{arg1}",
+    "maze.status.false": "The robbery status: {red}not successfully{reset} Made of attempts: {aqua}{arg1}",
+    "maze.nocommands": "During a Bank robbery cannot be {red}to use the commands.",
+    "maze.start": "Robbery! You have {aqua}{arg1}.",
+    "maze.success": "{yellow}Successful robbery{reset}, come back for {aqua}two hours{reset}.",
+    "maze.fail": "{red}Time is up!{reset} the Robbery failed, {aqua}, try{reset} next time...",
+    "maze.fail.title": [
+        "{bold}{red}Time is up!",
+        "Were you teleported back"
+    ],
+    "maze.nogm": "Robbing a Bank is possible only in {green}survival{reset}.",
+    "maze.nostart": "You are already {green}has robbed{reset} the Bank, come through {aqua}two hours{reset} :)",
+    "stop": "Now the server will restart for a few seconds will be sent to the download window.",
+    "time": {
+        "year": [
+            "year",
+            "year",
+            "years"
+        ],
+        "month": [
+            "a month",
+            "months",
+            "months"
+        ],
+        "week": [
+            "week",
+            "weeks",
+            "weeks"
+        ],
+        "day": [
+            "day",
+            "day",
+            "days"
+        ],
+        "hour": [
+            "hour",
+            "hours",
+            "hours"
+        ],
+        "min": [
+            "min",
+            "minutes",
+            "minutes"
+        ],
+        "sec": [
+            "second",
+            "seconds",
+            "seconds"
+        ]
+    },
+    "bug": "Thanks for reported the bug, we will fix it soon :)",
+    "bug.noargs": "You did not write message (bug).",
+    "hide.prefix": "Invisible",
+    "hide": "You {green}has included{reset} stealth mode, no one sees You!",
+    "hide.off": "You {red}off{reset} stealth mode.",
+    "clear.prefix": "Cleaning",
+    "clear.drops": "Deleted {aqua}{arg1} drop on the server.",
+    "op": "You have given the right helper player {aqua}{arg1}.",
+    "op.user": "You have given {green}helper.",
+    "deop": "You took the privilege of the player {aqua}{arg1}.",
+    "deop.user": "You have taken the privilege!",
+    "heal": "You have restored your health.",
+    "heal.you": "You have restored health to {yellow} of{arg1}.",
+    "heal.player": "You have restored the health of player {yellow}{arg1}.",
+    "heal.block": "To restore health to other players, you can privilege {yellow} is{arg1}.",
+    "top": "You have been teleported to the top.",
+    "food": "You have regained their hunger.",
+    "clearchat": "{green}{arg1} cleared the chat.",
+    "tpall": "Admin teleported You to him!",
+    "clear": "Dear {green}{arg1}, Your inventory is completely cleared.",
+    "clear.effect": "Dear {green}{arg1}, You removed all the effects.",
+    "sleep": "You successfully went to sleep.",
+    "ag.prefix": "Anti-grief",
+    "ag": "You {green}has included{reset} mode is anti-grief, changed his nickname to {aqua}{arg1}, nobody will see Your real privilege!",
+    "ag.off": "You {red}off{reset} mode is anti-grief.",
+    "ag.noargs": [
+        "Write {yellow}\/ag on (nick){reset} to hide the privilege and set yourself another nickname.",
+        "And the command {yellow}\/ag off{reset} to turn off antigoiter"
+    ],
+    "ag.valid": "Nick You wrote {red}not{reset} to use on the server!",
+    "dupe": "You have successfully dupoly {aqua}{arg1}.",
+    "dupe.noargs": "Dup items allowed once every {aqua}reboot.",
+    "dupe.block": "The object {red}banned{reset} to dupaty.",
+    "dupe.air": "Take {yellow}in the hand{reset} the object that you want to dupot.",
+    "dupe.creative": "You can use the dup only in {yellow}survival.",
+    "gamemode": "You have successfully changed game mode.",
+    "gamemode.error": "The game mode is incorrect.",
+    "gamemode.info": "You must specify the mode.",
+    "back": "You successfully returned to the place of death!",
+    "back.error": "You haven't died.",
+    "kick.prefix": "Kik",
+    "kick.br": "{green}{arg1} is always(a) player {green}{arg2} over {aqua}{arg3}.",
+    "kick.close": "You kicked {green}{arg1}, reason:\n{red}{arg2}.\n{white}Dear player, unable to reconnect to the server.",
+    "kick.reason": "Enter the reason for kick.",
+    "kick.name": "Specify the nickname of the player.",
+    "kick.ab": "The player {aqua}{arg1} protection from Kika.",
+    "speed.on": "You {green}has included{reset} mode {aqua}super speed!",
+    "speed.off": "You {red}off{reset} mode {aqua}super speed!",
+    "speed.damage": "You started pvp and {aqua}speed{reset} has been disabled!",
+    "gfly.noname": "You have not specified {yellow}is the nick,{reset} whom you want to enable flight.",
+    "gfly.isset": "You are already {yellow}gave a flying{reset} one of the players. Next time will be after reboot.",
+    "gfly.yes": "Player {aqua}{arg1} You turned on airplane mode!",
+    "gfly.set": "You enabled player {aqua}{arg1} flight mode.",
+    "gfly.gm": "Player {aqua}{arg1} already can fly!",
+    "command.console": "This command is only available for player!",
+    "command.noplayer": "Player {aqua}{arg1} not found or offline.",
+    "command.noyou": "You can't use your nickname.",
+    "command.noperm": "This command is available with the privilege {arg1} and above.",
+    "command.noargs": "You sent an empty command, enter {aqua}\/help {arg1}, to learn how to use it.",
+    "command.error": "The command error has occurred! Write us - {aqua}\/bug.",
+    "command.noparams": "Specify the command option {green}on - enable, {red}off off.",
+    "command.noname": "You didn't specify nick of the player!",
+    "warp.prefix": "Warp",
+    "warp.info": "{yellow}\/duel {reset}- teleport to the lobby duels, {yellow}\/pvp {reset}- teleport to the PvP arena {yellow}\/tp shop {reset}- teleport to the store {yellow}\/spawn {reset}- teleport to spawn, {yellow}\/wild {reset}- teleport to a random place {yellow}\/parkour {reset}- teleport to parkour, {yellow} tir {reset}- teleport to Tyr, {yellow}\/mine {reset}- teleport to car-mine, {yellow}\/kliker {reset}- teleport to cliker, {yellow} casino {reset}- teleport to a casino {yellow}\/ruletka {reset}- teleport to the roulette.",
+    "warp.spawn": "Dear {aqua}{arg1}, You have successfully teleported to {yellow}spawn.",
+    "warp.pvp": [
+        "Dear {aqua}{arg1}, You have successfully teleported to {yellow}the PvP arena.",
+        "To return to spawn write {green}\/spawn"
+    ],
+    "warp.mine": "Dear {aqua}{arg1}, You have successfully teleported to {yellow}auto-mine.",
+    "warp.shoot": "Dear {aqua}{arg1}, You have successfully teleported to {yellow}again.",
+    "warp.clicker": "Dear {aqua}{arg1}, You have successfully teleported to {yellow}LIKERO.",
+    "warp.roulette": "Dear {aqua}{arg1}, You have successfully teleported to {yellow}roulette.",
+    "warp.casino": "Dear {aqua}{arg1}, You have successfully teleported to {yellow}casinos.",
+    "warp.wild": "Teleport to {yellow}at random~.",
+    "warp.wild.fail": "Sorry, we are unable to find a suitable place to teleport.. {yellow}Try again!",
+    "warp.wild.load": "Wait, now there is {yellow}search space{reset} for teleportation..",
+    "warp.wild.title": [
+        "{bold} of{aqua}Teleport{arg1}",
+        "{white}in {yellow}at random{reset} on the map"
+    ],
+    "warp.shop": "Dear {aqua}{arg1}, You have successfully teleported to {yellow}the store.",
+    "warp.parkour": "Dear {aqua}{arg1}, You have successfully teleported to {yellow}parkour.",
+    "jail.prefix": "Prison",
+    "jail.user": "Player {aqua}{arg1} put You in jail because: {yellow}{arg2}.",
+    "jail.true": "You put the player {aqua}{arg1} in prison because of: {yellow}{arg2}.",
+    "jail.nouser": "Player {aqua}{arg1} has freed You from prison.",
+    "jail.notrue": "You released player {aqua} of{arg1} out of prison.",
+    "jail.noargs": "You have not specified the nickname of the player that you want to put in jail!",
+    "jail.out": "You have successfully left the prison, do not fall again!",
+    "jail.noout": "You will be able to leave the prison via {aqua}{arg1}.",
+    "jail.sit": "Player {aqua}{arg1} is already in jail.",
+    "jail.unsit": "Player {aqua}{arg1} not in jail.",
+    "jail.nocmd": "You can't {yellow}use the commands in{reset} while sitting in {aqua}prison.",
+    "jail.noreason": "You didn't specify the reason because of which put the player in jail.",
+    "xp.prefix": "Experience",
+    "xp": "You are now {aqua} of{arg1} level experience {green}{arg2}{white}\/{dark_green}{arg3}",
+    "info.prefix": "Profile",
+    "info": [
+        "Your {yellow}statistics{reset}:",
+        "Sent messages: {yellow}{arg1}{reset} PCs",
+        "Simulated time: {yellow}{arg2}{reset}.",
+        "Killed players: {yellow}{arg3}{reset} people",
+        "Deaths: {yellow}{arg4}{reset} time.",
+        "Broken blocks: {yellow}{arg5}{reset} PCs",
+        "Set of blocks: {yellow}{arg6}{reset} PCs"
+    ],
+    "rain.prefix": "Rain",
+    "rain.on": "You have successfully {yellow}set{reset} itself rain\/snow.",
+    "rain.off": "You have successfully {yellow}removed{reset} a rain\/snow.",
+    "rain.noargs": [
+        "Use the command \/rain on to turn the rain\/snow.",
+        "Use the command: \/rain off to disable rain\/snow."
+    ],
+    "skin.prefix": "Skin",
+    "skin.on": "You have successfully {yellow}set{reset} itself the skin of player {aqua}{arg1}.",
+    "skin.off": "You have successfully {yellow}returned{reset} your skin.",
+    "skin.noargs": [
+        "You {yellow}not specified{reset} parameter!",
+        "{aqua}\/skin get nick{reset} - to install someone else's skin.",
+        "{aqua}\/skin off{reset} - to regain your skin"
+    ],
+    "skin.noname": "You have not specified {yellow}name{reset}, skin which you want to install.",
+    "cgame.prefix": "Chat game",
+    "cgame.select": [
+        "Guess a number between {yellow}1 to 10.",
+        "Reward: {aqua}100 coins"
+    ],
+    "cgame.math": [
+        "Decide example {yellow}{arg1}.",
+        "Reward: {aqua}100 coins"
+    ],
+    "cgame.winner": "Player {yellow}{arg1} decided right example and got {aqua}100{reset} coins.",
+    "cgame.win": "You {green}right{reset} replied and got on his account {aqua}100{reset} coins.",
+    "freeze.prefix": "Frost",
+    "freeze.noargs": "You have not specified the nickname of the player that you want to freeze.",
+    "freeze.send": "You have successfully frozen player {aqua}{arg1}.",
+    "freeze.title": [
+        "{bold}{aqua}You have been frozen!",
+        "{white}To defrost enough {yellow}to reconnect to the server."
+    ],
+    "freeze.helper": "You can't freeze the administration",
+    "freeze.pvp": "You can't freeze the player while he's in pvp mode.",
+    "burn.prefix": "Burned",
+    "burn.noargs": "You have not specified the nickname of the player that you want to burn.",
+    "burn.send": "You have successfully set fire to player {aqua}{arg1}.",
+    "burn.title": [
+        "{bold}{aqua}set You on fire!",
+        "{white}You stop {yellow}to burn{reset} in {arg1} seconds."
+    ],
+    "sethomde.prefix": "House",
+    "sethome": "Point home successfully {green}installed.",
+    "sethome.update": "Point home successfully {aqua}updated.",
+    "sethome.spawn": "{red}can't put{reset} point of the house on the spawn!",
+    "sethome.pvp": "{red}can't put{reset} point of the house in the pvp arena!",
+    "home.prefix": "House",
+    "home.on": [
+        "{bold}{aqua}You teleported home",
+        "Home sweet home~"
+    ],
+    "home.off": "You haven't mounted in your home.",
+    "home.open.all": "Now {yellow}for every player {reset}will be able to teleport to visit You!",
+    "home.open.friends": "Now {yellow}Your friends {reset}will be able to teleport to visit You!",
+    "home.open.me": "Now {red}no {reset}will not be able to teleport to visit You!",
+    "home.mode": "Specify one of these parameters - {aqua}me, friends, all.",
+    "home.mode.error": "Specify {yellow}the access parameter{reset} to your home!",
+    "home.tp.me": "The player {aqua}{arg1} building {red}closed{reset} for teleportation!",
+    "home.tp.friends": [
+        "{bold}{aqua}You teleported.",
+        "At a friends {yellow}{arg1}"
+    ],
+    "home.tp.friends.error": "Teleport to player house {aqua}{arg1} available {yellow}friends only{reset}.",
+    "home.tp.all": [
+        "{bold}{aqua}You teleported.",
+        "To visit to player {yellow}{arg1}"
+    ],
+    "home.tp.error": "This player has no home :(.",
+    "lang.prefix": "Language",
+    "lang": [
+        "Set language {aqua}in English.",
+        "Change language {green}\/lang {aqua}(language)"
+    ],
+    "lang.select": "Specify the language You want to install!",
+    "lang.set": "You set {aqua}in English.",
+    "lang.register": [
+        "Set {aqua}English{reset} as standard.",
+        "Change it by entering the command {aqua}\/lang (language)"
+    ],
+    "guard.prefix": "Privat",
+    "guard.spawn": "You can't privacity on the spawn!",
+    "guard.noworld": "In this life privacity!",
+    "guard.list": "A list of Your privates: \n{arg1}",
+    "guard.nolist": "You have no privates! Set the first point with the command {aqua}\/rg pos1",
+    "guard.help": "A list of available commands private:{arg1}",
+    "guard.one": [
+        "You have successfully installed the first point of private!",
+        "{green}Now set the second point of the team {aqua}\/rg pos2"
+    ],
+    "guard.two": [
+        "The second point has been successfully installed!",
+        "{green}can Now save your private team {aqua}\/rg create {blue}(name)"
+    ],
+    "guard.noargs": "On the first point of your Privat {aqua}\/rg pos1",
+    "guard.noparam": "You do not specify command options!",
+    "guard.nocreate": [
+        "You have already established two points of private!",
+        "{green}Save the Privat team {aqua}\/rg create {blue}(name)"
+    ],
+    "guard.noone": [
+        "You have not set the first point on your private!",
+        "{green}will Set the first point of a private team {aqua}\/rg pos1"
+    ],
+    "guard.nodots": [
+        "You have not specified the two points of Your private!",
+        "{green}will Set the first point of a private team {aqua}\/rg pos1"
+    ],
+    "guard.noname": "You have not specified {yellow}name{reset} your region!",
+    "guard.noowner": "You do not have permission {yellow}host{reset} to edit this region!",
+    "guard.no": "You are located in {yellow}without the regions.",
+    "guard.info": [
+        "Information about the private {aqua}{arg1}:",
+        "Hosts: {green}{arg2}.",
+        "Guests: {green}{arg3}.",
+        "Included flags: {yellow}{arg4}"
+    ],
+    "guard.isset": "The region with the name {aqua} of{arg1} already exists! Come up with another name.",
+    "guard.nocorrect": "The region name can only consist of English letters and numbers!",
+    "guard.create": "You have successfully created the private {aqua}{arg1}! To see him again, write {yellow}\/rg show.",
+    "guard.remove": "You have successfully uninstalled your private {aqua}{arg1}.",
+    "guard.nofind": "You provided the name {yellow}does not exist{reset} in the region!",
+    "guard.tp": "You have successfully teleported to the private {yellow}{arg1}",
+    "guard.noisset": "Region not found! You must {yellow}to stand{reset} to your region!",
+    "guard.issetown": "Player {aqua}{arg1} is already {yellow}the master{reset} in this region!",
+    "guard.issetmem": "Player {aqua}{arg1} is already {yellow}PM{reset} in this region!",
+    "guard.noissetown": "Player {aqua}{arg1} is {yellow}the master{reset} in this region!",
+    "guard.noissetmem": "Player {aqua}{arg1} is {yellow}PM{reset} in this region!",
+    "guard.noflag": "You have not specified {yellow}is the name of the flag{reset} that you want to change!",
+    "guard.nomode": "You have not specified {yellow}is the flag argument is{reset} that you want to install! {green}true{reset} - enable \/ {red}is false{reset} off.",
+    "guard.flagisset": "Flag {yellow}{arg1} does not exist!",
+    "guard.rflag": "Flag {aqua}{arg1} is already {red}off.",
+    "guard.sflag": "Flag {aqua}{arg1} is already {green}enabled.",
+    "guard.flagset": "You have successfully {yellow}updated {reset}flags region!",
+    "guard.users": "You have successfully {yellow}updated {reset}users in the region!",
+    "guard.vector": "Your dedicated territory intersects {yellow}stranger{reset} is private.",
+    "guard.maxsize": [
+        "Your privates may be {red}not more {yellow}{arg1}{gold}x{yellow}{arg1} blocks, highlight the area again!",
+        "If you want privacity territory more, will buy the privilege at: {aqua}{donate}"
+    ],
+    "guard.minsize": "Your privates may be {red}not less than {yellow}{arg1}{gold}x{yellow}{arg1} blocks, highlight the area again!",
+    "guard.maxcount": [
+        "You can't create more than {aqua}{arg1} privates!",
+        "If you want privacity more territories, will buy the privilege at: {aqua}{donate}"
+    ],
+    "guard.flag.info": "Banned {yellow}see information{reset} about this region!",
+    "guard.flag.paste": "Banned {yellow}to put the blocks{reset} in this region!",
+    "guard.flag.break": "Banned {yellow}to break the blocks{reset} in this region!",
+    "guard.flag.chat": "Banned {yellow}to im{reset} in this region!",
+    "guard.flag.pvp": "Banned {yellow}to fight{reset} in this region!",
+    "guard.flag.chest": "Banned {yellow}to open the chest{reset} in this region!",
+    "guard.sell": [
+        "You put up for sale your region {aqua}{arg1} costs {green}{arg2} coins.",
+        "If You {yellow}has decided not to sell{reset} territory, just {red}remove the plate at{reset} for purchase.",
+        "The money from the sale will be {red}will be split equally{reset} between {yellow}all the hosts of the{reset} region.",
+        "The money will be credited {green}is not in balance{reset}, and Your {aqua}account at a Bank"
+    ],
+    "guard.buyed": "Player {aqua}{arg1} I bought a Privat {green}{arg2}, You {yellow}Bank account{reset} assessed {green}{arg3} coins.",
+    "guard.buyed.title": [
+        "{bold}{aqua}Successful selling.",
+        "{white}for Region {green}{arg1} I bought the player {yellow}{arg2}"
+    ],
+    "guard.buy": "You have successfully {yellow}bought{reset} and {yellow}are the owner of{reset} Privat {aqua}{arg1} cost {green}{arg2} coins.",
+    "guard.buy.title": [
+        "{bold}{aqua}Successful purchase.",
+        "{white}for Region {green}{arg1} now Your"
+    ],
+    "guard.nobuy": "You can't buy {yellow}at themselves{reset} region.",
+    "guard.sell.remove": "You {yellow}has removed{reset} your region with the sale.",
+    "guard.sell.nomoney": "Insufficient {aqua}{arg1} coins to {yellow}purchase{reset} in this region.",
+    "guard.sell.noparam": "You did not specify the amount for which you want {yellow}to sell{reset} their territory.",
+    "guard.noint": "The specified value {yellow}is{reset} number.",
+    "guard.sell.isset": "This region {yellow}is sold{reset}, to install signs at the new location {red}break the old one.",
+    "guard.blockbreak": "Player {aqua}{arg1} makes changes to your region {yellow}{arg2}.",
+    "list": "Players online ({arg1}):\n{arg2}.",
+    "list.helper": "Online helpers ({arg1}):\n{arg2}.",
+    "list.admin": "Admins online ({arg1}):\n{arg2}.",
+    "list.creative": "Players with creativity online ({arg1}):\n{arg2}.",
+    "list.ag": "Players with false data online ({arg1}):\n{arg2}.",
+    "list.zero": "The server has no players.",
+    "money": "You have the balance of {green}{arg1} coins.",
+    "repair": "You have successfully fixed the thing in the hand!",
+    "friend.prefix": "Friendship",
+    "friend.join": [
+        "{bold}{green}Each network",
+        "{arg1}"
+    ],
+    "friend.error.name": "You didn't specify nick of the player!",
+    "friend.error.you": "You can't add yourself as a friend!",
+    "friend.error.online": "The specified player is not online!",
+    "friend.error.accept": "You have no applications to friends!",
+    "friend.true": "You are player {aqua}{arg1} already friends!",
+    "friend.false": "You are player {aqua} of{arg1} were not friends!",
+    "friend.tp": "You have successfully teleported to the other {aqua} of{arg1}.",
+    "friend.tp.toyou": "You teleported Your friend {aqua}{arg1}.",
+    "friend.send": "The friend request was successfully sent player {aqua}{arg1}.",
+    "friend.send.me": [
+        "Player {aqua}{arg1} wants to add You as a friend!",
+        "To accept the application, write {aqua}\/friend accept"
+    ],
+    "friend.accept": "Player {aqua}{arg1} has accepted your friend request!",
+    "friend.accept.me": "Now player {aqua}{arg1} Your friend :)",
+    "friend.list": "List your friends: {arg1}.",
+    "friend.damage": "You can't {yellow}to fight{reset} other.",
+    "friend.list.not": [
+        "You have no friends.",
+        "Send friend request - {green}\/friend {aqua}nick"
+    ],
+    "friend.remove": "You've removed from friends of the player {aqua}{arg1}.",
+    "friend.remove.me": "You were removed from friends player {aqua}{arg1}.",
+    "mute": "Player {aqua}{arg1} was banned for {arg2} minutes due to: {red}{arg3}.",
+    "mute.noargs": "You have not specified the nickname of the player you want to block the chat.",
+    "mute.noreason": "You did not specify the reason for blocking chat.",
+    "mute.you": "{aqua}{arg1} has blocked You in chat for {yellow}{arg2} for reason: {red}{arg3}.",
+    "mute.time": "Enter the time the Muta {arg1}!",
+    "addmoney": "Specify the name of the player and the number of money.",
+    "addmoney.add": "You give {green}{arg1} coins player {green}{arg2}.",
+    "addmoney.adduser": "To Your account put {green}{arg1} coins.",
+    "addmoney.noargs": "Specify the name of the player and the number of money.",
+    "addmoney.nomoney": "You have not specified the number of money!",
+    "addmoney.noint": "You incorrectly stated the number!",
+    "addmoney.nomax": "On the balance of the player {aqua}{arg1} is already enough coins :)",
+    "addmoney.noadd": "You give too many coins the player {aqua}{arg1}.",
+    "addmoney.max": "You can't lay down on the balance more than {aqua}{arg1} coins.",
+    "addmoney.min": "You cannot specify an amount of less than {aqua}{arg1} coins.",
+    "pay": "You give {green}{arg1} coins player {green}{arg2}.",
+    "pay.you": "Player {green}{arg1} gave You {green}{arg2} coins.",
+    "pay.nomoney": "You can't give {green}{arg1} coins, You only have {aqua}{arg2}.",
+    "pay.min": "You cannot specify an amount of less than {aqua}1{currency}.",
+    "pay.me": "You can't give money to yourself!",
+    "pay.int": "You incorrectly stated the number!",
+    "pay.money": "You have not specified the number of money!",
+    "pay.noargs": "Specify the name of the player and the number of money!",
+    "group.prefix": "{pink}Donat",
+    "group": "You have given the group {aqua} of{arg1} player {green}{arg2}.",
+    "group.noargs": "You do not specify command options.",
+    "group.you": "Congratulations! You've got a group {aqua}{arg1}!",
+    "group.no": "The band does not exist!",
+    "group.noname": "Enter player nickname!",
+    "group.nogroup": "Enter a group name!",
+    "group.get": "The group of the player {aqua}{arg1} - {green}{arg2}.",
+    "group.buy": "Player {yellow}{arg1} bought the privilege of {arg2} for site {aqua}{bold}{donate}",
+    "give.prefix": "Give",
+    "give": "You have given {arg1} ({arg2} EA.) player {aqua}{arg3}.",
+    "give.noargs": "You have not specified {yellow}name{reset}, who want to extradite the subjects.",
+    "give.block": "Today You have given max items.",
+    "give.noid": "Enter the id of the object.",
+    "give.maxsize": "You can't give this item more than {arg1} EA.",
+    "give.offline": "This player is not currently on the server.",
+    "give.tag": "Error tag!",
+    "give.noitem": "The object with such id is not found.",
+    "give.blocked": "This item is prohibited to issue.",
+    "point.prefix": "Point",
+    "point.spawn": "It is impossible to put a point of teleportation {yellow}on the spawn.",
+    "point.noargs": [
+        "Available commands:",
+        "{yellow}\/create point (name) {gray}- {reset}to create a point of teleportation.",
+        "{yellow}\/point remove (name) {gray}- {reset}to remove the point of teleportation.",
+        "{yellow}\/point open (name) {gray}- {reset}to open a spot for everyone.",
+        "{yellow}\/point close (name) {gray}- {reset}exit point from others.",
+        "{yellow}\/point tp (name) {gray}- {reset}to teleport to the specified point.",
+        "{yellow}\/point list {gray}- {reset}a list of your points"
+    ],
+    "point.pvp": "It is impossible to put a point of teleportation to {yellow}pvp arena.",
+    "point.noname": "You have not specified {yellow}is the name of the point.",
+    "point.max": [
+        "You have exceeded {yellow}of maximum{reset} points!",
+        "To create more, buy the privileges to the website {aqua}{donate}.",
+        "Or remove one of your points with team - {green}\/point remove (name)"
+    ],
+    "point.create": [
+        "You have created a new point of teleportation with nazyvaniem {green}{arg1}!",
+        "To allow teleportation to all players, type - {aqua}\/point open {arg1}"
+    ],
+    "point.maxcount": [
+        "You can't create more than {yellow}{arg1} of points of teleportation!",
+        "You can {red}delete{reset} old point or {yellow}to purchase{reset} privilege on the website: {aqua}{donate}"
+    ],
+    "point.isset": "The warp zone with the same name already exists, create another one!",
+    "point.nofind": "Points with the same name does not exist!",
+    "point.isyou": "This point does not belong to You!",
+    "point.null": "You have {yellow}no{reset} of points of teleportation...",
+    "point.list": "Your list of points of teleportation:\n{yellow}{arg1}.",
+    "point.remove": "Point {green} of{arg1} was successfully deleted!",
+    "point.opend": "Point {aqua} of{arg1} is successfully opened {yellow}for all{reset} of players!",
+    "point.closed": "Point {aqua}{arg1} closed on {yellow}from all{reset} of players!",
+    "point.tp": "You have successfully teleported to the point {green} of{arg1}.",
+    "point.tp.closed": "This point is {yellow}locked{reset} for teleportation!",
+    "point.tp.error": "An error occurred! We can't teleport :(.",
+    "size.info": [
+        "To change the size, enter one of the following:.",
+        "{yellow}1 - midget 2 - normal, 3 - giant"
+    ],
+    "size.big": "You set yourself growth {yellow}giant.",
+    "size.norm": "You set yourself to {yellow}normal{reset} growth.",
+    "size.little": "You set yourself growth {yellow}midget.",
+    "report": "Your complaint be sent to the administration, thank you for telling!",
+    "report.noargs": "You have not specified the nickname of the player you want to report.",
+    "report.error": "Enter the reason for the complaint.",
+    "report.you": "You can't report yourself!",
+    "warn": "Your warning sent to player {aqua}{arg1}.",
+    "warn.noargs": "You have not specified the nickname of the player whom you want to send a warning.",
+    "warn.error": "Enter the referee.",
+    "warn.you": "You can't send preduprezdenie yourself!",
+    "warn.title": [
+        "{gold}{bold}Warning:.",
+        "{red}{arg1}"
+    ],
+    "god.prefix": "God",
+    "god.on": "You {green}has included{reset} God mode!",
+    "god.off": "You {red}off{reset} God mode!",
+    "god.damage": "Player {aqua}{arg1} in God mode! You can't beat!",
+    "god.pickup": "You can't find {green}items in God mode!",
+    "god.pvp": "You can't {yellow}to fight{reset} in God mode!",
+    "seemoney": "The player {aqua}{arg1} balance {green}{arg2} coins.",
+    "seemoney.noargs": "You didn't specify nick of the player, the balance of which you want to view.",
+    "setmoney": "You set {aqua}{arg1} coins player {green}{arg2}.",
+    "setmoney.you": "Your balance changed, You now have a balance of {green}{arg1} coins.",
+    "setmoney.noargs": "Specify the name of the player and the number of money!",
+    "setmoney.nomoney": "You have not specified the number of money!",
+    "setmoney.noint": "The number of money must be a number!",
+    "setmoney.max": "You can't set the balance more than {aqua}{arg1} coins.",
+    "setmoney.min": "You cannot specify an amount of less than {aqua}{arg1} coins.",
+    "setmoney.isset": "On the balance of the player {aqua}{arg1} is already enough coins.",
+    "ban.prefix": "Ban",
+    "ban": "Enter the reason for the ban.",
+    "ban.admin": "You can't ban the Creator of the server!",
+    "ban.time": "You have already used ban. Again you can use via {aqua}{arg1}.",
+    "ban.notime": "You did not specify the duration of the ban!",
+    "ban.badtime": "You incorrectly stated the time of the ban!",
+    "ban.noname": "Specify the nickname of the player that you want banned.",
+    "ban.broadcast": "{green}{arg1} banned(a) player {aqua}{arg2} for {aqua}{arg3} to {green}{arg4}.",
+    "ban.close": [
+        "{gold}{bold}[{server}] {aqua}{arg1} ban You to {bold}{red}{arg2}.",
+        "Because: {bold}{green}{arg3}.",
+        "You can buy unbanning on the website: {bold}{pink}{donate}"
+    ],
+    "ban.close.never": "{aqua}{arg1} banned You forever because:\n{red}{arg2}.",
+    "ban.max": "You can't ban more than {aqua}{arg1}",
+    "ban.un": "{green}{arg1} unban(a) player {aqua}{arg2}.",
+    "ban.no": "Player {aqua}{arg1} is already banned!",
+    "ban.no.un": "Player {aqua}{arg1} is not registered!",
+    "ban.ab": "Player {aqua}{arg1} can not be banned, he {yellow}protection from blocking.",
+    "banlist.prefix": "Ban",
+    "banlist": "A list of all banned players:\n{arg1}",
+    "banlist.none": "Banned list of players is empty.",
+    "donate.prefix": "Donat",
+    "donate.amount": "{arg1} - {arg2} of rubles, to see the possibility {aqua}\/donate {arg3}",
+    "donate.exclusive": "{arg1} - {pink}{bold}EXCLUSIVE{reset}, to see the possibility {aqua}\/donate {arg2}",
+    "donate": [
+        "A list of donations, the server:{arg1}",
+        "Any donation can be purchased on the website {aqua}{donate}",
+        "Donat is issued and remains forever after a wipe!"
+    ],
+    "donate.descr": [
+        "The possibility of privilege {arg1}:\n{arg2}",
+        "Any donation can be purchased on the website {aqua}{donate}"
+    ],
+    "me": "Write what You do in a word and it will appear in the chat!",
+    "suicide": "You did suicide. After the suicide, things are not saved.",
+    "kill.prefix": "Penalty",
+    "kill.noargs": "You have not specified the nickname of the player that you want to kill.",
+    "kill.send": "You killed player {green}{arg1}.",
+    "kill.user": "You killed the player {green}{arg1}.",
+    "near": [
+        "Players nearby.",
+        "{white}{arg1}"
+    ],
+    "near.isset": "Players near there.",
+    "tell": "Your message has been sent to {aqua} of{arg1}.",
+    "tell.nomsg": "You have not entered the message you want to send!",
+    "tell.error": "You can't send a message to yourself!",
+    "tell.noargs": "You have not specified the nickname of the player you want to send a message.",
+    "tell.ignore.noargs": "You didn't specify nick of the player you want to block correspondence.",
+    "tell.ignore.error": "You can't block yourself.",
+    "tell.ignore.add": [
+        "You added player {yellow}{arg1}{reset} in the black list. Now you will no longer be able to write!",
+        "To remove him from the blacklist write again {aqua}\/tellignore {arg1}"
+    ],
+    "tell.ignore.remove": "You removed player {yellow}{arg1}{reset} from the blacklist.",
+    "tell.ignore.you": "Player {yellow}{arg1}{reset} has added You to the blacklist.",
+    "time.day": "You have installed on the server day!",
+    "time.night": "You installed it on the server night!",
+    "time.sunset": "You have installed on the server sunset!",
+    "time.error": "Specify the time mode!",
+    "notp.prefix": "Teleport",
+    "notp.on": "You have disabled teleporting to yourself.",
+    "notp.off": "You have enabled teleporting to yourself.",
+    "notp.try": [
+        "The player {aqua}{arg1} on protection from teleportation.",
+        "With the group operator and above{reset}, You can teleport {green}is always{reset} for any player!"
+    ],
+    "notp.parkour": "You can't teleport to player {aqua}{arg1}, it is parkour!",
+    "notp.pvp": "You can't teleport to player {aqua}{arg1}, he fights on pvp!",
+    "notp.maze": "You can't teleport to player {aqua}{arg1}, he's robbing the Bank!",
+    "notp.duel": "You can't teleport to player {aqua}{arg1}, he plays in duels!",
+    "enchant.prefix": "Carolina",
+    "enchant.nogm": "Charit rags things can only be in {yellow}survival.",
+    "enchant.true": "You charmed {arg1}.",
+    "enchant.nomoney": "You are missing {yellow}{arg1} coins for zacara.",
+    "enchant.gold": "You do not have {yellow}{arg1} {yellow}lazuli{reset} for zacara, it can dig underground.",
+    "enchant.noid": "Take a weapon, armor or instrument {yellow}in the hand{reset} for zacara.",
+    "enchant.maxlvl": "You have enchanted this item to {yellow}the maximum.",
+    "anvil.prefix": "Anvil",
+    "anvil.nogm": "Fixing things can only be in {yellow}survival.",
+    "anvil.true": "You have successfully {yellow}fixed{reset} the subject at hand.",
+    "anvil.metal": "You do not have {yellow}{arg1} {yellow}iron bars{reset} for zacara, you can buy them in the store or to get underground.",
+    "anvil.noid": "Take a weapon, armor or instrument {yellow}in the hand{reset} to repair.",
+    "tp.prefix": "Teleport",
+    "tp": "You have successfully {yellow}has teleported to{reset} to player {green}{arg1}.",
+    "tp.noargs": "You have not specified {yellow}name{reset} or {yellow}coordinates{reset} you want to teleport.",
+    "tphere.noargs": "You have not specified {yellow}name{reset} you want to teleport to yourself.",
+    "tphere": "You have successfully {yellow}has teleported to{reset} of player {aqua}{arg1} to itself!",
+    "tphere.me": "Player {aqua}{arg1} teleported You to him!",
+    "tp.error": "You can't {yellow}teleport{reset} to themselves!",
+    "tp.coord": "You have successfully {yellow}has teleported to{reset} on the coordinates {aqua}{arg1}{aqua}, {arg2}{aqua}, {arg3}.",
+    "tp.nocoord": "Coordinate {aqua}{arg1} is not a number!",
+    "tpto": "You teleported player {aqua}{arg1} to player {green}{arg2}.",
+    "tptome": "Player {aqua}{arg1} You have teleported to player {yellow}{arg2}.",
+    "tptoyou": "Player {aqua}{arg1} You have teleported to player {yellow}{arg2}.",
+    "tp.block.player": "To teleport to other players, you can privilege {yellow} is{arg1}.",
+    "tp.block.players": "You can't teleport players to each other.",
+    "xyz": "Your coordinates: {arg1}, {arg2}, {arg3}.",
+    "tpa.prefix": "Teleport",
+    "tpa": "The request is sent to the player {aqua}{arg1}.",
+    "tpa.noargs": "You have not specified the nickname of the player you want to send the request.",
+    "tpa.you": [
+        "Player {green}{arg1} wants to teleport to You.",
+        "Make a request for teleportation - {aqua}\/tpaccept (nick)"
+    ],
+    "tpa.here": [
+        "Player {green}{arg1} wants to teleport You to myself.",
+        "Make a request for teleportation - {aqua}\/tpaccept (nick)"
+    ],
+    "tpa.error": "You can't send the request yourself!",
+    "tpaccept.prefix": "Teleport",
+    "tpaccept": "You made a request for a teleportation {green}{arg1}.",
+    "tpaccept.noargs": "You didn't specify nick of the player, the query which you want to take.",
+    "tpaccept.you": "{green}{arg1} received a request for teleportation.",
+    "tpaccept.error": "You made a mistake, the player {green}{arg1} sent You a request!",
+    "tpaccept.here": "{green}{arg1} received a request to teleport to him.",
+    "fakeop.noargs": "You didn't specify nick of the player.",
+    "fakeop.send": "You have successfully issued the fake OPCW player {green}{arg1}.",
+    "beta.close": "{red}Server is available only to beta testers.",
+    "spawn.prefix": "Server",
+    "spawn.void": "You fell off the map and was teleported to spawn.",
+    "spawn.info.texts": [
+        "{bold}{red}{br} {reset}On our server is {pink}flying texts{bold}{red} {bl}",
+        "They {yellow}disappear{reset} when You {gold}move away",
+        "Themselves {yellow}appears{reset} when You're {gold}come",
+        "{aqua}Made it specially{reset} - to have no lag server :)"
+    ],
+    "spawn.info.lang": [
+        "You have {yellow}the English language",
+        "You can do it by entering the command {aqua}\/lang language"
+    ],
+    "block.color": "Use {yellow}colored text{reset} in the chat and on the plates is possible with the privilege {arg1} and above!",
+    "block.pickup": "To collect the drop can only be {yellow}in survival.",
+    "block.flowing": "The object {yellow}can use{reset} only with the privilege {arg1} and above.",
+    "block.damage.creative": "You can fight {yellow}only in survival.",
+    "block.damage.spawn": "Can't fight {yellow}on the spawn.",
+    "block.spawn": "To begin to build write {aqua}\/wild.",
+    "block.drop.spawn": "You can't throw things to {yellow}on the spawn.",
+    "block.pvp": "You in mode {bold}{red}PvP{reset}, do not exit the game {bold}{aqua}{arg1} seconds.",
+    "block.pvp.commands": "You can't {yellow}use the commands in{reset} during {bold}{red}PvP.",
+    "block.fish": "To fish {yellow}spawned at{reset} is impossible.",
+    "block.arrow": "To stellate archery {yellow}spawned at{reset} is impossible.",
+    "block.snow": "To stellate snowballs {yellow}spawned at{reset} is impossible.",
+    "bottle.spice": "You were thrown {aqua}spice.",
+    "bottle.geroin": "You were thrown {aqua}heroin.",
+    "bottle.amfetamin": "You were thrown {aqua}amphetamine.",
+    "bottle.cocain": "You were thrown {aqua}cocaine.",
+    "bottle.big": "You drank the potion and became the size of a giant!",
+    "bottle.min": "You drank the potion and became tall with a dwarf!",
+    "horse.prefix": "Horse",
+    "horse.title": [
+        "{bold}{br}{gold} NEW! HORSES! {white}{bl}",
+        "Play on server {yellow}three days{reset} and get {bold}{aqua}horse",
+        "{yellow}Let all obzaviduyutsya!",
+        "{bold}<{reset} {green}Team {bold}\/hs{reset}{green} for more details{reset} {bold}>"
+    ],
+    "horse.no": [
+        "To use horses, You need to play on the server {yellow}3 days{reset}.",
+        "You still have {yellow}{arg1}"
+    ],
+    "horse.spawn": [
+        "You have successfully {yellow}Zastavnyi{reset} your horse, can sit and ride into the sunset!",
+        "To sit on a horse {yellow}hold your finger holding down on it{reset} or {yellow}click, right-click on it{reset} if You are with a computer"
+    ],
+    "horse.self": "This is not your horse!",
+    "pig.prefix": "Pig",
+    "pig.title": [
+        "{bold}{br}{gold} NEW! PIGS! {white}{bl}",
+        "Play on server {yellow}week{reset} and get {bold}{aqua}pig",
+        "{yellow}Let all obzaviduyutsya!",
+        "{bold}<{reset} {green}Team {bold}\/pig{reset}{green} for more details{reset} {bold}>"
+    ],
+    "pig.no": [
+        "To use the pigs You need to play on the server {yellow}week{reset}.",
+        "You still have {yellow}{arg1}"
+    ],
+    "pig.spawn": [
+        "You have successfully {yellow}Zastavnyi{reset} my pig, I can sit and ride into the sunset!",
+        "In order to catch the mumps {yellow}hold your finger holding down on it{reset} or {yellow}click, right-click on it{reset} if You are with a computer"
+    ],
+    "pig.self": "It's not your pig!",
+    "chat.prefix": "Chat",
+    "chat.password": "Be careful! You cannot share your password with anyone!",
+    "chat.muted": "You blocked the chat. Unlock via {aqua}{arg1}.",
+    "chat.radius.off": "You {red}off{reset} radius of their communications.",
+    "chat.radius.set": [
+        "You {green}has included{reset} limit {yellow}my message{reset} for the players.",
+        "Now your messages to {yellow}will see{reset} only players in radius {aqua}{arg1} blocks from You"
+    ],
+    "chat.radius.no": "You have incorrectly entered the radius, try again.",
+    "fly.prefix": "Flight",
+    "fly.on": "Airplane mode is enabled!",
+    "fly.off": "Airplane mode is off!",
+    "fly.info": "Specify the action to take on\/off!",
+    "ads.close": [
+        "{red}PR on the server is denied!",
+        "You were kicked for advertising {aqua}{arg1}"
+    ],
+    "kit.prefix": "Whales",
+    "kit.noargs": [
+        "Available commands:",
+        "{yellow}\/kit start {gray}- {reset}the initial set of resources.",
+        "{yellow}\/kit vip {gray}- {reset}VIP set of resources.",
+        "{yellow}\/kit premium {gray}- {reset}premium set of resources."
+    ],
+    "kit.start": "You received {yellow}kit start{reset}, check the inventory :)",
+    "kit.vip": "You received {gold}kit VIP{reset}, check the inventory :)",
+    "kit.premium": "You received {pink}kit premium{reset}, check the inventory :)",
+    "kit.time.start": "You can take {yellow}kit start{reset} again in {aqua}{arg1}.",
+    "kit.time.vip": "You can take {gold}kit VIP{reset} again in {aqua}{arg1}.",
+    "kit.time.premium": "You can take {pink}kit premium{reset} again in {aqua}{arg1}.",
+    "auth.prefix": "Entrance",
+    "auth.title": [
+        "{bold}{pink}{donate} {reset}#{arg1}",
+        "{white}, Welcome to {aqua}{arg2}\n{white}Online {green}{arg3}"
+    ],
+    "auth.login": "{green}{arg1}, this nick is already registered. Enter the account password in chat",
+    "auth.login.on": "You have successfully logged in. Nice game :)",
+    "auth.login.on.ip": "You are automatically logged in. Enjoy the game!",
+    "auth.login.error": "You have entered an incorrect password, try again.",
+    "auth.login.close": "{bold}{red}You have exceeded the number of password attempts.",
+    "auth.login.max": [
+        "{red}You have registered already {bold}{arg1}{red} accounts.",
+        "{yellow}On the project is prohibited to create more than {arg2}{yellow} accounts!"
+    ],
+    "auth.login.title": [
+        "{yellow}Authorization!",
+        "{green}please Enter your password in chat"
+    ],
+    "auth.register": "Dear {green}{arg1}, think of a password and enter it into chat to register.",
+    "auth.register.on": [
+        "\nYou {green}successful{reset} registered on the server!",
+        "Your password is: {red}{arg1}. Don't forget it and never tell anyone!",
+        "To protect skins at: {aqua}\/cid on",
+        "To take {yellow}kit start{reset} and begin to live: {yellow}\/start"
+    ],
+    "auth.register.title": [
+        "{yellow}Sign up!",
+        "{green}Create a password and type it in the chat"
+    ],
+    "auth.register.price": "For registering to the server {yellow}as a gift{reset} You have received {green}{arg1} coin and {aqua}{arg2} experience.\n",
+    "auth.error": "You are not logged in!",
+    "auth.error.cmd": "It is forbidden to use the commands until you log.",
+    "auth.error.simbol": "You have entered invalid characters. Use only English letters and numbers.",
+    "auth.error.count.max": "The password must be no more than {arg1} characters!",
+    "auth.error.count.min": "The password must be at least {arg1} characters!",
+    "auth.error.name": "It is forbidden to use your nickname in the form of a password for security purposes!",
+    "auth.error.lowpass": "You wrote the same password You have at the moment is already set.",
+    "auth.changepass": "You have successfully changed your password on {green}{arg1}!",
+    "auth.changepass.no": "Enter the password you want to set!",
+    "auth.protect": [
+        "{red}the Player is already logged on to the server!",
+        "{aqua}If this is Your account, then just wait."
+    ],
+    "lvl.up": [
+        "{bold}{red}New level!",
+        "You have reached {green}{arg1}{green} level"
+    ],
+    "bank.noargs": [
+        "\/bank info - {green}information about the Bank account",
+        "\/bank set - {green}to put money in the Bank at %",
+        "\/bank tp - {green}teleport to the Bank building"
+    ],
+    "bank.prefix": "The Bank",
+    "bank.get": "You have successfully withdrawn from Bank account {green}{arg1} coins.",
+    "bank.set": "You have successfully put in a Bank account {green}{arg1} coins.",
+    "bank.numeric": "You must specify a number!",
+    "bank.two": "You did not specify the number.",
+    "bank.empty": "Your Bank account is empty.",
+    "bank.empty.get": "You have no in the account {green}{arg1} coins.",
+    "bank.empty.set": "You don't have the balance of {green}{arg1} coins.",
+    "bank.nomoney": "You have the balance of {yellow}no coins.",
+    "bank.all": "You have successfully cashed in his Bank account.",
+    "bank.alls": "You have successfully invested in the Bank {yellow} has{arg1} coins.",
+    "bank.info": "You have in the account the Bank is {green}{arg1} coins.",
+    "bank.death": [
+        "You can put your money deposited in the Bank and not lose {green}{arg1}% after death!",
+        "To put money in the Bank - {aqua}\/bank set (Qty)"
+    ],
+    "bank.title": [
+        "{bold}{pink}Bank",
+        "Keep your money safe!",
+        "Free service! Withdrawal no Commission!"
+    ],
+    "bank.sign.get": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}to Remove",
+        "{aqua}{bold}{arg1}"
+    ],
+    "bank.sign.set": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}to Invest",
+        "{aqua}{bold}{arg1}"
+    ],
+    "bank.sign.getall": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}to Remove all",
+        "{white}your {yellow}account"
+    ],
+    "bank.sign.info": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}to Find the balance",
+        "{white}your {yellow}account"
+    ],
+    "bank.sign.setall": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}to Invest with",
+        "{white}your {yellow}balance"
+    ],
+    "roulette.prefix": "Roulette",
+    "roulette.need": "You must tap the purchased thing.",
+    "roulette.started": "Wait until the roulette dokrutitsya!",
+    "roulette.spin": "Now spinning {yellow}{arg1}, please wait!",
+    "roulette.need.money": "Not enough coins to buy this chips.",
+    "roulette.buy.money": "You have successfully bought a chip for coin-operated roulette tables.",
+    "roulette.buy.item": "You must tap chip.",
+    "roulette.error": "Error! Not found the frame! Inform {yellow}\/bug!",
+    "roulette.start": [
+        "{green}Roulette started!",
+        "wait for it to stop..."
+    ],
+    "roulette.win": "You won {green}{arg1}",
+    "roulette.gamemode": "For Ispoljzovanie roulette you must be in {green}survival",
+    "roulette.sign.item": [
+        "",
+        "{white}Feature {green}items",
+        "{white}Value: {yellow}{arg1}{yellow}{currency}",
+        ""
+    ],
+    "roulette.sign.money": [
+        "",
+        "{white}Feature {green}of money",
+        "{white}Value: {yellow}{arg1}{yellow}{currency}",
+        ""
+    ],
+    "casino.prefix": "Casino",
+    "casino.win": "You beat casino and got {green}+{arg1} coins.",
+    "casino.fail": "You lost the bet and you lost {green}{arg1} coins.",
+    "casino.nomoney": "Insufficient {yellow}{arg1} of coins to bet.",
+    "casino.sign.set": [
+        "",
+        "{white}to place a bet",
+        "{aqua}{bold}{arg1}",
+        ""
+    ],
+    "casino.sign.win": [
+        "",
+        "{white}Try to beat",
+        "{white}our {yellow}casino",
+        ""
+    ],
+    "casino.sign.info": [
+        "{white}Bounce on the subject",
+        "{white}to see",
+        "{white}last",
+        "{yellow}player{white} and {aqua}rate"
+    ],
+    "case.prefix": "Cases",
+    "case.title": "{bold}{yellow}donut case",
+    "case.chance": "{bold}{yellow}the Chances of loss of privileges",
+    "case.lowname": "You may not transfer cases to itself!",
+    "case.info": "You have {green}{arg1} cases!",
+    "case.info.by": "To purchase the cases please visit: {green}{donate}",
+    "case.add": "Successfully issued {green}{arg1} Donat cases the player with the nickname {aqua}{arg2}.",
+    "case.add.br": "Player {green}{arg1} bought {aqua}{arg2} donut cases.",
+    "case.add.nokey": "Enter the amount of donut cases.",
+    "case.add.nocount": "You can't give {aqua}{arg1} donut case, You have only {aqua}{arg2}.",
+    "case.add.nonick": "Specify the nickname of the player whom you wish to transfer your donation cases.",
+    "case.remove": "Successfully taken cases the player with the name {aqua} of{arg1}.",
+    "case.remove.error.key": "Specify the number of pick up cases.",
+    "case.remove.error.nick": "Specify the nickname of someone who have to take cases.",
+    "case.pay": "Player {aqua}{arg1} You translated {yellow}{arg2} their donut cases.",
+    "case.payto": "You transferred {yellow} of{arg2} their donut case player {aqua}{arg1}.",
+    "case.open": "You won the privilege {green}{arg1} with a drop {aqua}{arg2}!",
+    "case.open.min": [
+        "A privilege that You knocked out was less than what You have now.",
+        "Therefore, your old privilege preserved {bold}:)"
+    ],
+    "case.open.no": "You have no case buy them on the website: {aqua}{donate}",
+    "case.prefix.info": "You have {green}{arg1} prefix case!",
+    "case.prefix.info.by": "To by the prefix cases on the site: {green}{donate}",
+    "case.prefix.set": "You knocked the prefix {arg1}! Congratulations :)",
+    "case.prefix.br": "Player {green}{arg1} bought {aqua}{arg2} prefix cases.",
+    "case.prefix.add": "Successfully issued {green}{arg1} prefix cases the player with the nickname {aqua}{arg2}.",
+    "case.prefix.add.nokey": "Specify the prefix number of issued cases.",
+    "case.prefix.add.nocount": "You can't give {aqua}{arg1} prefix case, You have only {aqua}{arg2}.",
+    "case.prefix.add.nonick": "Specify the nickname of the player whom you wish to transfer your prefix cases.",
+    "case.prefix.pay": "Player {aqua}{arg1} You translated {yellow}{arg2} the prefix of its cases.",
+    "case.prefix.payto": "You transferred {yellow} of{arg2} the prefix of its cases player {aqua}{arg1}.",
+    "case.error": "The case now opens {aqua}{arg1}.",
+    "case.error.open": "Case now open!",
+    "case.br": "Player {aqua}{arg1} won Donat {arg2}! {bold}Congratulations!",
+    "case.win": [
+        "{arg1}.",
+        "{green}Congratulations on your win!"
+    ],
+    "case.gift": "You have given {aqua}{arg1} of keys from the donut case! Next time it will be possible to give the {yellow}after a wipe{reset} server.",
+    "case.nogift": "You can give {aqua}{arg1} of keys from the donut case.",
+    "case.help": [
+        "{yellow}\/case info{gray} - {reset}information about your cases.",
+        "{yellow}\/case spawn{gray} - {reset}teleportation to the case.",
+        "Cases can be bought on the site {aqua}{donate}"
+    ],
+    "case.fly": [
+        "Honest donut cases!",
+        "The chance to knock the privilege {yellow}is the same"
+    ],
+    "sex.prefix": "{pink}Sex",
+    "sex": "You have successfully offered player {aqua}{arg1} to have sex.",
+    "sex.isset": "This player already there are unconfirmed requests for sex.",
+    "sex.isset.you": "Player {aqua}{arg1} tried to give You sex, but could not, because You have an unconfirmed requests.",
+    "sex.gay": "Sex with yourself does not work!",
+    "sex.accept": [
+        "Player {aqua}{arg1} invites You to have sex.",
+        "Enter {green}\/sex accept to accept.",
+        "Enter {green}\/deny sex to pass up.",
+        "The request will be automatically canceled in {green} of{arg2} seconds"
+    ],
+    "sex.deny": "Your request for the cake was ignored and cancelled.",
+    "sex.deny.you": "You have sent a request for a cupcake, but You ignored it. The request was canceled.",
+    "sex.br": "Player {green}{arg1} started with cupcake {aqua}{arg2}.",
+    "sex.offline": "Unfortunately, You can't make love with {aqua}{arg1} because he left the server.",
+    "sex.isaccept": "Currently You have no active requests on a cupcake.",
+    "sex.nodeny": "Player {aqua}{arg1} refused to engage with you or something.",
+    "sex.nodeny.you": "You have successfully rejected a proposal to make love.",
+    "sex.error": "You must specify the name of your sexual partner.",
+    "sex.help": [
+        "{yellow}\/sex send (nick) {gray}- {reset}to request a cupcake.",
+        "{yellow}\/sex accept {gray}- {reset}to accept a request for a cupcake.",
+        "{yellow}\/sex deny {gray}- {reset}reject a request for a cupcake"
+    ],
+    "prefix.prefix": "Prefix",
+    "prefix.set": "You set yourself a prefix {arg1}.",
+    "prefix.remove": "You regained the prefix of your privileges.",
+    "prefix.valid": "You have indicated {red}is forbidden prefix{reset}. try again.",
+    "prefix.hide": "You hid your prefix. Return it at any time :)",
+    "prefix.show": "You include your prefix.",
+    "events.jump": [
+        "{bold}{aqua}hip-Hop!",
+        "Jump more times than the other \nfor {yellow}{arg1} minutes and get a reward!"
+    ],
+    "events.jump.end": [
+        "{bold}{red}the Game is over!",
+        "Player {yellow}{arg1} jumped {yellow}{arg2} times and won {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.sit": [
+        "{bold}{aqua}Oops tweet!",
+        "Sit down more times than others \nfor {yellow}{arg1} minutes and get a reward!"
+    ],
+    "events.sit.end": [
+        "{bold}{red}the Game is over!",
+        "Player {yellow}{arg1} sat down {yellow}{arg2} times and won {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.speed": [
+        "{bold}{aqua}Mode the FLASH is activated!",
+        "Runs more than the other \nfor {yellow}{arg1} minutes and get a reward!"
+    ],
+    "events.speed.end": [
+        "{bold}{red}the Game is over!",
+        "Player {yellow}{arg1} ran {yellow}{arg2} of the blocks and won {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.break": [
+        "{bold}{aqua}Who is the best miner?!",
+        "Break more blocks than the other for {yellow}{arg1} minutes"
+    ],
+    "events.break.end": [
+        "{bold}{red}the Game is over!",
+        "Player {yellow}{arg1} broke {yellow}{arg2} of the blocks and won {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.paste": [
+        "{bold}{aqua}Build-build-build!",
+        "Put more blocks than the other for {yellow}{arg1} minutes"
+    ],
+    "events.paste.end": [
+        "{bold}{red}the Game is over!",
+        "Player {yellow}{arg1} put the {yellow}{arg2} of the blocks and won {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.none": [
+        "{bold}{red}the Game is over!",
+        "Unfortunately no one participated and {yellow}has no winners"
+    ],
+    "prise.register": "Successful registration!",
+    "prise.events": "Hoo! {arg1}{yellow} place!",
+    "prise.parkour": "You completed the parkour!",
+    "prise.parkour.spawn": "You have passed the parkour for {arg1}!",
+    "prise.maze": "Yo-Ho-Ho! You robbed the Bank!",
+    "prise.guide": "You have been trained!",
+    "prise.shooting.easy": "You got {aqua}for light{yellow} the goal!",
+    "prise.shooting.simple": "You hit the {gold}simple{yellow} the goal!",
+    "prise.shooting.hard": "You got {red}difficult{yellow} the goal!",
+    "parkour.endtime": [
+        "{bold}{red}Time is up!",
+        "You were teleported to the starting place"
+    ],
+    "parkour.fall": [
+        "{bold}{red}You fell off the parkour",
+        "and was teleported to the starting place"
+    ],
+    "parkour.fall.spawn": [
+        "{bold}{red}You fell off the parkour",
+        "and was teleported to spawn"
+    ],
+    "parkour.start": [
+        "{bold}{green}come on!",
+        "you have {aqua}{arg1} to complete the parkour"
+    ],
+    "parkour.start.spawn": [
+        "{bold}{green}come on!",
+        "take the parkour faster than others"
+    ],
+    "parkour.nocommands": "You can't {red}use the commands in{reset} during the parkour!",
+    "parkour.prefix": "Parkour",
+    "parkour.nosurv": "To play you must be in {green}survival.",
+    "parkour.title": "{bold}{yellow}Parkour",
+    "parkour.lvl": "{white}You are now {aqua}{arg1} {white}level parkour",
+    "parkour.info": "{yellow}To start, step on the block below",
+    "parkour.easy": "{white}Complexity: {green}easy",
+    "parkour.norm": "{white}Complexity: {gold}OK",
+    "parkour.hard": "{white}Complexity: {red}it is difficult",
+    "parkour.veryhard": "{white}Complexity: {pink}is not feasible",
+    "backpack.prefix": "Backpack",
+    "backpack.survival": "To use the backpack You must be in survival!",
+    "backpack.success": "You have activated your backpack, to open use this item or a command {aqua}\/bp.",
+    "protect.prefix": "Protection",
+    "protect.on": "You included protection in skins.",
+    "protect.off": "You have disabled the protection skins.",
+    "protect.close": [
+        "{bold}{red}Your skin does not match the saved skins!",
+        "{reset}{italic}{aqua}Put the old skin to come"
+    ],
+    "spam.prefix": "Info",
+    "spam.on": "Alerts included!",
+    "spam.off": "Alert is off!",
+    "spam.info": "Specify the action to take on\/off!",
+    "spammer": "You {yellow}spamming{reset} was {red}locked{reset}. Unlock via {yellow}{arg1}.",
+    "broadcast.prefix": "Info",
+    "broadcast.1": [
+        "Tired of the notifications in chat? Enter {aqua}\/spam to disable!"
+    ],
+    "broadcast.2": [
+        "Want to fly but You have little money? Then the privilege {yellow}Gast{reset} is what You need!",
+        "Learn more on our website {aqua}{donate}"
+    ],
+    "broadcast.3": [
+        "Want the ability to fly and to build in creative?",
+        "Suitable privilege {yellow}Ocelot {reset}only {green}99{rouble}{reset} on the website {aqua}{donate}"
+    ],
+    "broadcast.4": [
+        "I do not know what command or how to use it? Enter {aqua}\/help (command)"
+    ],
+    "broadcast.5": [
+        "Build houses and sell them!",
+        "The command for setting the region to sell {aqua}\/rg sell (amount)"
+    ],
+    "broadcast.6": [
+        "Found error or bug in the server? Rather, report it!",
+        "Write the command {green}\/bug (message)"
+    ],
+    "broadcast.7": [
+        "Want the privilege, but You have little money? Not a problem! Open the donut case and will drop the {gold}privilege for{reset}!",
+        "Buy cases on our website {aqua}{donate}"
+    ],
+    "broadcast.8": [
+        "Urgently need a coin? Try to Rob a Bank, passed a difficult maze!",
+        "Write the command {green}\/tp bank"
+    ],
+    "broadcast.9": [
+        "Use the Bank to not lose 5% of coins after death!",
+        "Write the command {green}\/bank set amount{reset} - to put a certain amount into the account"
+    ],
+    "broadcast.10": [
+        "You can get the money, get a job {aqua}\/job (work)",
+        "Or sell unnecessary units to store {aqua}\/shop"
+    ],
+    "broadcast.11": [
+        "Want to quickly teleport to your buildings, houses or something else?",
+        "Create a warp zone by entering the following command {aqua}\/create point (name)"
+    ],
+    "broadcast.12": [
+        "Made friends with someone and want to play with him?",
+        "Add him to my friends team {aqua}\/friend add (nick)"
+    ],
+    "broadcast.13": [
+        "How do you offer to earn with the murders?",
+        "Perfect job killer {aqua}\/job killer"
+    ],
+    "bossbar.balance": "{bold}{yellow}Balance: {reset}{arg1}{currency}",
+    "bossbar.online": "{bold}{yellow}Online: {reset}{arg1}",
+    "bossbar.1": "To change the language of the server - {green}\/lang language",
+    "bossbar.2": "Teleport to PVP Arena - {green}\/pvp",
+    "bossbar.3": "Help on Privat - {green}\/rg help",
+    "bossbar.4": "Information about the command - {green}\/help (command)",
+    "bossbar.5": "Open shop - {green}\/open shop",
+    "bossbar.6": "Buying donation on the website {aqua}{donate}",
+    "bossbar.7": "Join our group {aqua}{group}",
+    "bossbar.8": "To set the point of TP - {green}\/point set (name)",
+    "bossbar.9": "Teleportation to a random location - {green}\/rtp",
+    "bossbar.10": "Teleport to a player - {green}\/tpa (nick)",
+    "bossbar.11": "Start earning with {green}\/job",
+    "bossbar.12": "Write us about bugs - {green}\/bug (message)",
+    "bossbar.13": "Report player - {green}\/report (nick) (complaint)",
+    "bossbar.14": "A list of all vacov - {green}\/warp",
+    "bossbar.15": "Add friend - {green}\/friend add (nick)",
+    "bossbar.16": "Server rules - {green}\/rules",
+    "bossbar.17": "Support group {green}{group}",
+    "guide.prefix": "Training",
+    "guide.finish": "You are already {yellow}trained{reset} and all :)",
+    "guide.title": [
+        "Pass {gold}training{reset} for server",
+        "and get {bold}{aqua}{arg1} coin and {bold}{aqua}{arg2} experience"
+    ],
+    "guide.1": [
+        "This is the spawnpoint - \/spawn",
+        "Here respawn all players located the information stands."
+    ],
+    "guide.2": [
+        "This building Bank \/bank tp",
+        "Here you can use the services of the Bank or to try to Rob him."
+    ],
+    "guide.3": [
+        "It's a statue for the entrance to the PVP arena - \/pvp",
+        "Battle other players and earn a killing!"
+    ],
+    "guide.4": [
+        "This clan chest and the tops of clans - \/c chest",
+        "A chest you can open for victories in clan wars and knock out privilege or doublers."
+    ],
+    "guide.5": [
+        "This store \/shop",
+        "Here you can not only buy necessary things, but also to sell them."
+    ],
+    "guide.6": [
+        "This is an auto-mine \/mine",
+        "It is updated every half hour, have time to pick up the diamonds first!"
+    ],
+    "guide.7": [
+        "This roulette - \/ruletka",
+        "You can increase your balance or to win things!"
+    ],
+    "guide.8": [
+        "This donut-cases \/case tp",
+        "Of them can beat any privilege. Purchase only at {donate}"
+    ],
+    "guide.9": [
+        "This TIR - tir",
+        "Get to the target to earn coins!"
+    ],
+    "guide.10": [
+        "It's a statue for the entrance to the duel - \/duel",
+        "Fight 1 on 1 with the enemy on equal terms and get coins for the win!"
+    ],
+    "guide.11": [
+        "This casino \/casino",
+        "Here you can bet and earn money!"
+    ],
+    "guide.12": [
+        "This TIC TAC toe \/ttt",
+        "Win the other player and get coins!"
+    ],
+    "guide.13": [
+        "This is a parkour \/parkour",
+        "Jump and collect the coins!"
+    ],
+    "guide.14": [
+        "This clicker \/kliker",
+        "Just click and get coins!"
+    ],
+    "pvp.title": [
+        "{bold}{yellow}Pvp arena",
+        "A huge arena where You can show",
+        "how strong amongst",
+        "or Vice versa :)",
+        "{aqua}To log in the arena you can use {bold}\/pvp"
+    ],
+    "pvp.block": [
+        "You can't {yellow}used{reset} the commands for the pvp arena.",
+        "To exit the arena, use {aqua}\/spawn"
+    ],
+    "pvp.off": [
+        "{bold}{red}PvP",
+        "You went out of mode {bold}{red}PvP!"
+    ],
+    "pvp.off.tip": "{red}{bold}PvP over{reset} You can again use the team and leave the game.",
+    "jobs.prefix": "Work",
+    "jobs.help": [
+        "View the list of available works {aqua}\/job \/ list",
+        "To see what You are working on {aqua}\/job info",
+        "Get a job {aqua}\/job join (name)",
+        "Quit your job {aqua}\/job \/ quit (name)"
+    ],
+    "jobs.list": [
+        "{bold}miner{reset}{italic} (miner) {reset}- {green}gets paid for the extraction of sand, earth and stone chance 5%, for the extraction of ore from 20{currency} 100{currency} apiece.",
+        "{bold}Lumberjack{reset}{italic} (woodcutter) {reset}- {green}receives money for srabana trees from 3{currency} to 6{currency} apiece.",
+        "{bold}the Killer{reset}{italic} (killer) {reset}- {green}gets money for killing players from 30{currency} 80{currency} for everyone.",
+        "{bold}the Fisherman{reset}{italic} (fisher) {reset}- {green}receives money for fishing 40{currency} 80{currency} apiece.",
+        "{bold}With {aqua}privilege VIP{white} You can get {yellow}from two{white} working!"
+    ],
+    "jobs.my.not": "You are unemployed.",
+    "jobs.my": "You get a job {aqua} of{arg1}.",
+    "jobs.join.miner": "You got a job {aqua}is a miner.",
+    "jobs.join.woodcutter": "You got a job {aqua}with logger.",
+    "jobs.join.killer": "You got a job {aqua}with the killer.",
+    "jobs.join.fisher": "You got a job {aqua}is a fisherman.",
+    "jobs.join.not": "You didn't specify the job that you want to get!",
+    "jobs.join.two": "Get two jobs at once is possible only with privilege {yellow}{arg1}{reset} and above! Quit with the old!",
+    "jobs.join.max": "You are already running {yellow}on two{reset} the works! Quit with one of the works!",
+    "jobs.quit.miner": "You Evolis job {aqua}miner.",
+    "jobs.quit.woodcutter": "You Evolis job {aqua}woodcutter.",
+    "jobs.quit.killer": "You Evolis job {aqua}is the killer.",
+    "jobs.quit.fisher": "You Evolis job {aqua}fisherman.",
+    "jobs.quit.not": "You did not specify the job that you want to leave!",
+    "jobs.quit.isset": "You are arranged for this work!",
+    "jobs.time.join": "You can change your job through {aqua}{arg1}.",
+    "mine.prefix": "Auto-mine",
+    "mine.change": "Mine has been updated! Go collect ore {aqua}\/mine",
+    "seller.prefix": "{aqua}Fence",
+    "seller.no": "I'm sorry... I can't buy this item {yellow}to offer{reset} something else.",
+    "seller.max": "Uhh.. I ran out of money, I can no longer buy anything from you. Come back tomorrow!",
+    "shop.prefix": "Shop",
+    "shop.seller": "{yellow}Seller",
+    "shop.max": "Items can no longer be sold. Come back tomorrow!",
+    "shop.title.buy": "{bold}{aqua}Number: {arg1} {yellow}Pay: {arg2}{yellow}{currency}.",
+    "shop.title.sell": "{bold}{aqua}Number: {arg1} {yellow}Get: {arg2}{yellow}{currency}.",
+    "shop.creative": "Switch to survival mode.",
+    "shop.nomoney": "Not enough money for the purchase.",
+    "shop.buy": "You bought {green}{arg1} {aqua}{arg2} for {yellow}{arg3} coins.",
+    "shop.sell": "You sold {green}{arg1} {aqua}{arg2} for {yellow}{arg3} coins.",
+    "shop.noitems": "You don't have enough resources for sale.",
+    "shop.noinv": "You have {red}there is no place in the inventory of {reset}for purchase!",
+    "shop.left.count": [
+        "",
+        "{white}to Reduce the number of",
+        "{green}{bold}<<<",
+        ""
+    ],
+    "shop.right.count": [
+        "",
+        "{white}to Increase the number of",
+        "{green}{bold}>>>",
+        ""
+    ],
+    "shop.left.item": [
+        "",
+        "{white}the Previous item",
+        "{pink}{bold}<<<",
+        ""
+    ],
+    "shop.right.item": [
+        "",
+        "{white}the Following subject",
+        "{pink}{bold}>>>",
+        ""
+    ],
+    "shop.top": [
+        "{white}Use signs",
+        "{white}to select the desired",
+        "{yellow}item{white} and {aqua}the number of",
+        ""
+    ],
+    "shop.info": [
+        "{white}, Use the command",
+        "{bold}{yellow}\/shop open",
+        "{white}for quick purchases.",
+        "{bold}{aqua}without Queuing!"
+    ],
+    "shop.mbuy": [
+        "{white}Want {yellow}to buy",
+        "{white}items"
+    ],
+    "shop.msell": [
+        "{white}Want {yellow}to sell",
+        "{white}items"
+    ],
+    "shop.sbuy": [
+        "{yellow}By",
+        "{white}object"
+    ],
+    "shop.ssell": [
+        "{yellow}to Sell",
+        "{white}object"
+    ],
+    "tops.place.title": "The best builders of the server",
+    "tops.place": "blocks",
+    "tops.death.title": "Nuba servers",
+    "tops.death": "deaths",
+    "tops.kills.title": "Top killers of the server",
+    "tops.kills": "murders",
+    "tops.msg.title": "The most sociable",
+    "tops.msg": "messages",
+    "tops.money.title": "The richest",
+    "tops.money": "coins",
+    "tops.clans.title": "The best clans this season",
+    "tops.clans": "points",
+    "tops.clans.help": [
+        "{red}{italic}Kill players{reset} and {yellow}{italic}print",
+        "your family into {bold}{pink}TOP 5"
+    ],
+    "tops.time.title": "Fans of the server",
+    "tops.time": "{arg1}",
+    "tops.break.title": "The best miners server",
+    "tops.break": "blocks",
+    "marry.prefix": "Wedding",
+    "marry.noname": "You have not specified {yellow}name{reset} that you want to propose to marry You.",
+    "marry.help": [
+        "List of commands:.",
+        "{yellow}\/marry send (nick) {gray}- {reset}to offer the player to get married. The cost of a wedding: {aqua}5,000 coins.",
+        "{yellow}\/marry quit {gray}- {reset}to leave his wife\/husband.",
+        "{yellow}\/marry tp {gray}- {reset}teleport to your wife\/husband"
+    ],
+    "marry.nomoney": "Not enough money for the wedding! The cost of a wedding: {aqua}5,000 coins.",
+    "marry.gay": "You can't marry yourself!",
+    "marry.nosend": "You are already married to {yellow} of{arg1}.",
+    "marry.sended": [
+        "Player {aqua}{arg1} offers You his hand and heart!",
+        "To confirm his proposal and marry him, write {aqua}\/marry accept"
+    ],
+    "marry.send": "You have offered the hand and heart of the player {aqua}{arg1}.",
+    "marry.iscouple": "Player {yellow}{arg1} is already married.",
+    "marry.noaccept": "You have no queries on {yellow}wedding.",
+    "marry.accepted": "Player {aqua}{arg1} has accepted your proposal of marriage. You're married {red}{heart}.",
+    "marry.accept": "Now {green}you{reset} and {aqua}{arg1} - {yellow}family.",
+    "marry.br": "Players {aqua}{arg1} and {green}{arg2} got married! {yellow}Congratulate them!",
+    "marry.divorses": "Player {aqua}{arg1} left you.. {red}You are divorced {black}{heart}.",
+    "marry.divorse": "You have successfully divorced {aqua}{arg1}.",
+    "marry.no": "You're not married yet!",
+    "marry.notp": "Your twin flame is not playing on the server.",
+    "marry.tp": "You have successfully {yellow}teleported{reset} his mate {red}{heart}.",
+    "marry.damage": "You {yellow}can't{reset} to beat {pink}your mate.",
+    "marry.login": "Your {yellow}second half{reset} for {red}{heart}.",
+    "marry.quit": "Your {yellow}second half{reset} left the server.",
+    "we.prefix": "Editor",
+    "we.wand": "You got the hoe to select the territory.",
+    "we.noblocks": "Specify the id:meta block or blocks (using a comma).",
+    "we.nofound": "The specified unit is not found.",
+    "we.blocked": "At the moment you cannot make changes.",
+    "we.maxdistance": "You have exceeded the maximum size, select smaller.",
+    "we.set": "The change in area of...",
+    "we.set.success": "The territory is successfully changed.",
+    "we.noarea": [
+        "You are allocated an area or set it incorrectly!",
+        "To change it use the command {aqua}\/pos 1{reset} and {aqua}\/2 pos"
+    ],
+    "we.item.block": "Specified block cannot be used for installation in the world.",
+    "we.nopos": "You do not specify a position number.",
+    "we.pos": "You set {yellow}{arg1} position of the territory.",
+    "we.error": "When you run the command the error occurred, report it {aqua}\/bug",
+    "we.replace": "Replace the blocks in allocated territory...",
+    "we.replace.success": "Replacement of blocks is successful.",
+    "we.undo": "A return to the previous the selected territory...",
+    "we.undo.success": "Return completed successfully.",
+    "we.redo": "Again change the allocated territory...",
+    "we.redo.success": "Repeated change completed successfully.",
+    "we.copy": "The highlighted area is copied.",
+    "we.cut": "The highlighted area is cut out...",
+    "we.paste": "The territory is inserted in the specified place.",
+    "we.guard": "Dedicated territory for other people's privates, You have no access to change them.",
+    "we.spawn": "You cannot edit this area!",
+    "we.biome.select": "You did not specify the biome you wish to change.",
+    "we.biome.change": "You did not specify the biome you want to replace.",
+    "we.biome.replace": "You have successfully changed the biome {arg1} on {arg2}.",
+    "we.biome.set": "You have successfully changed the whole chunk for biome {arg1}.",
+    "we.biome.get": "You are in the biome {arg1} (X: {arg2}, Z: {arg3}).",
+    "hologram.noargs": [
+        "{aqua}\/tag add {gray}- {reset}create flying text in its place",
+        "{aqua}\/remove tag {gray}- {reset}delete the text flying next to him"
+    ],
+    "hologram.error.text": "You have not specified the text to create.",
+    "hologram.error.data": "Error getting data! Please contact the support.",
+    "hologram.error.create": "Error saving text! Please contact the support.",
+    "hologram.maxcount": "You can't create flying text. You were available to create {arg1} EA.",
+    "hologram.create": "Flying text is created successfully! You have to create {arg1} EA.",
+    "hologram.found": "Not found the flying text! Stand next to him and try again.",
+    "hologram.owner": "You are the Creator of this text, select your.",
+    "hologram.remove": "You have successfully removed the flying text.",
+    "hologram.guard": "You can't create a flying text on this site.",
+    "hologram.more": "Near a lot of flying lyrics, get back and try again.",
+    "transform.prefix": "The transformation",
+    "transform.found": "Not found the available mobs for your benefits.",
+    "transform.found.mob": "The specified mob is not found.",
+    "transform.help": [
+        "To make a mob specify a name, for example: {aqua}\/mob cat",
+        "To return to of person write {aqua}\/mob off"
+    ],
+    "transform.real": "You returned to your true form.",
+    "transform.load": "You haven't turned into a mob.",
+    "transform.permission": "You have no right to turn into that mob.",
+    "transform.mob": "You have successfully turned into a mob.",
+    "transform.error": "Error in executing the command, refer to the administration.",
+    "transform.attack": "You can't fight mode mob.",
+    "schematic.prefix": "Schematic",
+    "schematic.load": [
+        "A map of the world beginning sure, it may take some time",
+        "Total blocks: {arg1} ({arg2})"
+    ],
+    "schematic.name": "Enter the name of the file.",
+    "schematic.found": "The specified file was not found.",
+    "schematic.start": "The scheme of the world started to boot...",
+    "schematic.end": "The scheme was successfully added to the world.",
+    "vk.prefix": "{aqua}VK",
+    "vk.map": "{bold}{red}This is your QR code\n{aqua}Take a screenshot and send it to the group {yellow}{group}",
+    "vk.success": [
+        "You have successfully received your QR code.",
+        "Lower your head to the bottom and take a screenshot.",
+        "Then send a screenshot to the group {bold}{aqua}{group}{reset}"
+    ],
+    "vk.isset": "In your inventory have the code, take it in your hand and make a screenshot!"
+}

@@ -1,0 +1,1860 @@
+{
+    "discount": [
+        "{bold}{aqua}Rabat {yellow}{arg1}{yellow}%",
+        "{yellow}do 1 lutego!\n{white}tylko na miejscu {pink}{bold}{donate}"
+    ],
+    "discount.title": [
+        "{bold}{br}{gold} RABATY {yellow}{arg1}{bold}{yellow}%{gold} KUPON {aqua}{arg2} {white}{bl}",
+        "Zdąż kupić ze zniżką {bold}{yellow}{arg3}{yellow}%{reset}, tylko {aqua}do 16 stycznia!",
+        "Przywilej {bold}{red}(Хрюнь){reset} za {green}399{reset} rubli",
+        "Przywilej {bold}{red}(fajne zdjęcia herobrine){reset} za {green}699{reset} rubli",
+        "Przywilej {bold}{aqua}(Ifryt){reset} za {green}1199{reset} rubli",
+        "Kupować na miejscu {pink}{bold}{donate}"
+    ],
+    "tictac.prefix": "Tic",
+    "tictac.lowmoney": "Do gry trzeba {yellow}{arg1} monet!",
+    "tictac.start1": "Dołączył do kolejki, poczekaj na drugiego gracza! (1\/2)",
+    "tictac.start2": "Dołączył do gry z drugim graczem! (2\/2)",
+    "tictac.started": "Już są w kolejce.",
+    "tictac.start": "Licytacja: {aqua} do{arg1}.",
+    "tictac.isgame": "Gra jest już w toku, poczekać do jej zakończenia.",
+    "tictac.nopaste": "Teraz Twoja kolej.",
+    "tictac.noclick": "Nie można tu pójść, wybrać inne miejsce.",
+    "tictac.click": "Zrobił ruch! Teraz chodzi przeciwnik.",
+    "tictac.youclick": "Przeciwnik poszedł! Teraz Twoja kolej.",
+    "tictac.win": [
+        "Pokonał {aqua}{arg1} i otrzymał {yellow}{arg2} monet.",
+        "Chcesz grać w tic-tac-toe? Pisz: {aqua}\/ttt"
+    ],
+    "tictac.nobox": [
+        "U graczy nie ma możliwości ruchów. Remis!",
+        "Gracze {aqua}{arg1} {aqua}{arg2} otrzymują tylko {yellow}80% stawki.",
+        "Chcesz zagrać też? Pisz: {aqua}\/ttt"
+    ],
+    "tictac.notime": [
+        "Gracze minął czas",
+        "Gracze {aqua}{arg1} {aqua}{arg2} otrzymują tylko {yellow}80% stawki.",
+        "Chcesz grać w tic-tac-toe? Pisz: {aqua}\/ttt"
+    ],
+    "tictac.tp": "Z powodzeniem teleport do gry.",
+    "tictac.sign": [
+        "{aqua}{bold}Tic-tac-toe",
+        "{white}Cena: {yellow}{arg1} {yellow}monet",
+        "",
+        "{green}{bold}GRAĆ"
+    ],
+    "duels.prefix": "{aqua}Pojedynku",
+    "duels.join": "Gracz {yellow}{arg1} wszedł na arenę.",
+    "duels.quit": "Gracz {yellow}{arg1} opuścił arenę.",
+    "duels.win": "Użytkownik {green}wygrali{reset} i otrzymałeś {yellow}{arg1} monet i {yellow}{arg2} doświadczenia",
+    "duels.search": "{aqua}Wyszukiwanie areny{arg1}",
+    "duels.find": "Wolna arena znaleziono, teleportacja.",
+    "duels.nofind": "Wszystkie areny są zajęte.",
+    "duels.restart": "Serwer przygotowuje się do ponownego uruchomienia, pojedynki nie są dostępne.",
+    "duels.load.one": "{yellow}Oczekiwanie na przeciwnika.",
+    "duels.load.more": "{yellow}Czekam przeciwników.",
+    "duels.starting": "{aqua}{arg1} do początku",
+    "duels.start": "Bitwa rozpoczęła się, nie umieraj! Walka skończy się przez {aqua}{arg1}",
+    "duels.br": "Gracz {yellow}{arg1} czeka na pojedynkach, dołącz do zespołu {bold}{aqua}\/duel",
+    "duels.bed": "Użytkownik {green}z powodzeniem{reset} opuścili arenę i zostały {yellow}przeniesiony{reset} na спавн.",
+    "duels.command": "Użytkownik {red}nie można{reset} użyj polecenia w pojedynkach.",
+    "duels.draw": "Bitwa zakończyła się {yellow}remisem.",
+    "duels.time": "Do końca walki pozostało {aqua}{arg1}",
+    "duels.info": [
+        "Jesteś zalogowany do trybu {bold}{pink}DUELS {red}{italic}{arg1}",
+        "Mapa: {yellow}{arg2}"
+    ],
+    "duels.title.draw": [
+        "{bold}{red}Remis",
+        "{white}obaj Jesteście dobrzy!"
+    ],
+    "duels.title.fail": [
+        "{bold}{red}Porażka :(",
+        "uda się następnym razem."
+    ],
+    "duels.title.win": [
+        "{bold}{green}Jesteś odnieśli zwycięstwo!",
+        "{yellow}+{arg1}{yellow}{currency} {aqua}+{arg2}{aqua} doświadczenia"
+    ],
+    "duels.title.nofind": [
+        "{bold}{red}Wolnych aren nie ma",
+        "teleportacja na спавн..."
+    ],
+    "duels.title.start": [
+        "{bold}{green}Bitwa rozpoczęła się",
+        "zostań przy życiu"
+    ],
+    "duels.title.bed": [
+        "{bold}{red}Jesteś opuścili arenę",
+        "trochę sił i wracaj!"
+    ],
+    "duels.npc.exit": "{bold}{red}Wyjść",
+    "duels.npc.mode": "Tryb {bold}{italic}{aqua}{arg1}",
+    "duels.npc.online": "Odgrywa {yellow}{arg1}",
+    "obs.prefix": "{green}Inwigilacja",
+    "obs.noargs": "Użyj {green}\/obs see (nick){reset}, aby rozpocząć {yellow}śledzić{reset} za graczem lub {red}\/obs off{reset} do {yellow}wyłączyć{reset} nadzoru",
+    "obs.noname": "Nie podałeś {yellow}nick gracza{reset}, za którym chcesz zacząć śledzić!",
+    "obs.offline": "Gracz z nickiem {yellow}{arg1} nie znajduje się na serwerze!",
+    "obs.noyou": "Nie można śledzić {yellow}same za siebie",
+    "obs.active": "Można już uważać za graczem {aqua} do{arg1}. Wyłączyć nadzoru - {red}\/obs off",
+    "obs.endsee": "Gracz {aqua}{arg1} włączył tryb detektywa, teraz {yellow}nie można{reset} go pilnować.",
+    "obs.see": "Zaczął podążać za graczem {yellow} do{arg1}.",
+    "obs.off": "Został wyłączony nadzoru.",
+    "obs.disconnect": "Gracz {yellow}{arg1} wyszedł z serwera, inwigilacja jest wyłączona.",
+    "obs.nocommand": "Nie można {yellow}użyj polecenia{reset} podczas obserwacji.",
+    "hack.prefix": "Hack",
+    "hack.opened": "Próbowałem wybić {red}donat{reset}, spróbuj {yellow}jeszcze raz{reset} po ponownym uruchomieniu.",
+    "hack.br": "GRACZ {aqua}{arg1} WYBIŁ {bold}{red}ADMINISTRATORA{reset} ZESPOŁEM {pink}{bold}\/hack{reset}! GRATULACJE GO!!!",
+    "hack.no": [
+        "Można próbować szczęścia i {red}przegrali{reset}. Twoja liczba {yellow}{arg1} z {yellow}{arg2}",
+        "Aby {green}wygrać{reset} Musisz {gold}występują{reset} liczba {bold}{pink}{arg3}",
+        "Ostatni gracz, który wybił admina: {bold}{aqua}{arg4}"
+    ],
+    "hack": "{bold}{gold}Gratulacje!{reset} Jesteś wybito przywilej {pink}administrator{reset} zupełnie za darmo!",
+    "sign.info1": [
+        "",
+        "{white}Lista poleceń:",
+        "{pink}\/help",
+        ""
+    ],
+    "sign.info2": [
+        "{white}Pomoc",
+        "{white}prywatne:",
+        "{pink}\/rg help",
+        ""
+    ],
+    "sign.info3": [
+        "{white}Informacje o",
+        "{white}wszystkich przywilejów:",
+        "",
+        "{pink}\/donate"
+    ],
+    "sign.info4": [
+        "",
+        "{white}Otwórz sklep:",
+        "{pink}\/shop",
+        ""
+    ],
+    "sign.info5": [
+        "{white}Tłumaczenie:",
+        "{aqua}{group}",
+        "",
+        ""
+    ],
+    "sign.info6": [
+        "",
+        "{white}Sprzedać privat:",
+        "{pink}\/rg sell (kwota)",
+        ""
+    ],
+    "sign.info7": [
+        "",
+        "{white}Plecak:",
+        "{pink}\/bp",
+        ""
+    ],
+    "sign.info8": [
+        "",
+        "{white}Stworzyć klan:",
+        "{pink}\/c create",
+        "{pink}(tytuł)"
+    ],
+    "sign.info9": [
+        "",
+        "{white}Lista prac:",
+        "{pink}\/job list",
+        ""
+    ],
+    "sign.info10": [
+        "",
+        "{white}Banku:",
+        "{pink}\/bank tp",
+        ""
+    ],
+    "sign.info11": [
+        "{white}Teleportacja w",
+        "{white}losowe miejsce:",
+        "",
+        "{pink}\/rtp"
+    ],
+    "sign.info12": [
+        "",
+        "{white}Варпы serwera:",
+        "{pink}\/warp",
+        ""
+    ],
+    "sign.jail": [
+        "{white}Wyjść z",
+        "{red}więzienia"
+    ],
+    "info.clans": [
+        "Na serwerze są {pink}{bold}KLANY{reset}!",
+        "Można {yellow}utworzyć{reset} swój za {bold}{aqua}500 000 monet.",
+        "Lub {yellow}dołączyć{reset} w istniejący: {yellow}\/c join (id klanu)"
+    ],
+    "info.effect": "{bold}{yellow}Bezpłatny efekt",
+    "info.money": "{bold}{yellow}Darmowe monety",
+    "info.clicker": [
+        "{bold}{pink}Smocze jajo",
+        "Z każdym {yellow}uderzenia{reset} w jaja",
+        "spada {aqua}losowe liczby{reset} monet"
+    ],
+    "bonus.chest.prefix": "Bonus",
+    "bonus.chest.title": [
+        "{bold}{yellow}Bonusowy skrzynię",
+        "Prowokuj losu {pink}każdy dzień",
+        "Ma szansę wybić {bold}{gold}GOLEM{reset} lub {bold}{aqua}ОЦЕЛОТА{reset}!"
+    ],
+    "bonus.chest.creative": "Aby odblokować skrzynię włącz {yellow}tryb przetrwania.",
+    "bonus.chest.game": "Bonusowy skrzynię już otwiera...",
+    "bonus.chest.error": "Podczas próby otwarcia skrzyni wystąpił błąd!",
+    "bonus.chest.win": "Można wypadają z bonusowej skrzyni {bold}{aqua}{arg1}! {bold}Gratulacje!",
+    "bonus.chest.all": "Gracz {aqua}{arg1} wybił z {yellow}bonusowej skrzyni{reset} przywilej {bold}{arg2}! {bold}Подравим go!",
+    "bonus.chest.time": "Już odkrywali dziś {yellow}bonusowy skrzynię{reset}, przyjdź przez {aqua}{arg1}.",
+    "clan.prefix": "Klan",
+    "clan.status.owner": "Rozdział",
+    "clan.status.manager": "Współprzewodniczącą",
+    "clan.status.best": "Wojownik",
+    "clan.status.member": "Konkurent",
+    "clan.chest.title": [
+        "{bold}{yellow}Klanowo skrzynię",
+        "Wygraj w {bold}{red}wojnach klanowych",
+        "I rzuć w {bold}{pink}удвоители{reset} lub {bold}{aqua}donat aktówki{reset}!"
+    ],
+    "clan.chest.noopen": "Klanowo skrzynię teraz {red}otwiera{reset}.",
+    "clan.chest.notime": [
+        "Klanowo skrzynię można otworzyć w ciągu {yellow}dni{reset} po {green}wygranej{reset} klanowy wojny!",
+        "Użytkownik {yellow}koniecznie{reset} muszą uczestniczyć w {aqua}zbiorze punktów{reset} dla swojego klanu, w przeciwnym razie {red}nie dostaniesz{reset} możliwość otworzyć skrzynię!"
+    ],
+    "clan.chest.error": "Błąd podczas otwierania skrzyni... Powiadom nas o tym błędu: {aqua}\/bug.",
+    "clan.chest.money": "Pan powiedział {yellow}{arg1} sztuk {aqua}doubler monet{reset}, teraz gdy otrzymasz monety będą {yellow}pomnożona{reset} o połowę!",
+    "clan.chest.prefix": "Pan powiedział {yellow}{arg1} sztuk {aqua}, teczek z przedrostków{reset}. Aby otworzyć napisz {aqua}\/pr",
+    "clan.chest.case": "Pan powiedział {yellow}bezpłatny donat case{reset}, to rzadka szczęście!",
+    "clan.chest.br": "Gracz {yellow}{arg1} wybił z kolesiów skrzyni {aqua}{arg2}!",
+    "clan.nosetlvl": "Nie podałeś {yellow}poziom{reset}, z którego będzie można dołączyć do waszego klanu..",
+    "clan.setlvlmax": "Podałeś zbyt wysoki poziom, maksymalny zakaz można umieścić na {yellow}{arg1} poziom.",
+    "clan.setlvl": "Teraz w klanu będą mogli dołączyć tylko gracze z poziomem {yellow}{arg1} i wyżej..",
+    "clan.setlvl.reset": "Teraz Twoja klan może wejść {yellow}każdy gracz.",
+    "clan.setlvled": "{aqua}{arg1} zrobił ograniczenia na dołączenie do klanu z {yellow}{arg2} poziomu.",
+    "clan.setlvled.reset": "{aqua}{arg1} usunął ograniczenia na dołączenie do klanu.",
+    "clan.add": "Dodane swój klan jeszcze jedno gniazdo.",
+    "clan.added": "{aqua}{arg1} dodał jedno gniazdo do klanu, możesz zaprosić kogoś do klanu: {yellow}\/c invite nick.",
+    "clan.add.ismax": "W Swoim klanie już maksymalnie slotów.",
+    "clan.nokick": "Nie podałeś nick gracza, którego chcesz usunąć z klanu.",
+    "clan.nokickme": "Nie można pozbyć się samego siebie, aby to zrobić, użyj {aqua}\/c quit",
+    "clan.player": "Gracz o nazwie {aqua}{arg1} nie znaleziono w Swoim klanie..",
+    "clan.kick.status": "Nie możesz wyrzucić rozdział klanu.",
+    "clan.kick": "Jesteś wyrzucony z klanu gracza {aqua} do{arg1}.",
+    "clan.kicked": "{aqua}{arg1} wyrzucił z klanu gracza {yellow}{arg2}.",
+    "clan.up.status": "Nie można zwiększyć rozdział klanu.",
+    "clan.up": "Jesteś awans gracza klanu {aqua} do{arg1}.",
+    "clan.upped": "{aqua}{arg1} podniósł gracza klanu {yellow}{arg2}.",
+    "clan.down.status": "Nie można obniżać rozdział klanu.",
+    "clan.down": "Można obniżali gracza klanu {aqua} do{arg1}.",
+    "clan.downed": "{aqua}{arg1} obniżył gracza klanu {yellow}{arg2}.",
+    "clan.top": "Lista {yellow}najlepszych klanów{reset} w tym sezonie:\n{arg1}",
+    "clan.nohome": "U Twojego klanu jeszcze nie jest zainstalowana baza.",
+    "clan.home": "Z powodzeniem teleport do bazy klanu.",
+    "clan.sethome": "Pomyślnym zainstalowaniu nowej bazy klanu.",
+    "clan.sethomed": "{aqua}{arg1} ustanowił bazę klanu. Teleportować {yellow}\/c home",
+    "clan.nocash.home": [
+        "Za mało pieniędzy {yellow}w skarbcu{reset} klanu do zabudowy klanowy bazy. Koszt: {aqua}{arg1} monet.",
+        "Dodać monet w skarbcu można zespołem {aqua}\/c addcash ilość"
+    ],
+    "clan.nocash.descr": [
+        "Za mało pieniędzy {yellow}w skarbcu{reset} klanu do zabudowy opisu. Koszt: {aqua}{arg1} monet.",
+        "Dodać monet w skarbcu można zespołem {aqua}\/c addcash ilość"
+    ],
+    "clan.nocash.name": [
+        "Za mało pieniędzy {yellow}w skarbcu{reset} гклана do zmiany nazwy. Koszt: {aqua}{arg1} monet.",
+        "Dodać monet w skarbcu można zespołem {aqua}\/c addcash ilość"
+    ],
+    "clan.nocash.add": [
+        "Za mało pieniędzy {yellow}w skarbcu{reset} klanu w celu zwiększenia slotów. Koszt: {aqua}{arg1} monet.",
+        "Dodać monet w skarbcu można zespołem {aqua}\/c addcash ilość"
+    ],
+    "clan.newop": "Gracz {aqua}{arg1} został nowym szefem klanu z powodu jego aktywności, zamiast {yellow}{arg2}.",
+    "clan.noinvites": "Nie ma wniosków o dołączenie do klanu. Zaproś gracza {aqua}\/c invite nick.",
+    "clan.inviteslist": "Lista graczy, którzy opuścili wniosku o wpis:\n{arg1}",
+    "clan.help": "Lista dostępnych poleceń klanu:{arg1}",
+    "clan.nomoney": "Nie można utworzyć klan! Brakuje {aqua}{arg1} monet.",
+    "clan.isset": "Już i tak w klanie! Aby utworzyć lub dołączyć do innego, wyloguj się z сущестувующего {aqua}\/c quit",
+    "clan.not": "Nie są w klanie! Możesz stworzyć swoją drużyną {aqua}\/c create (nazwa){reset} lub dołączyć {aqua}\/c join (id klanu)",
+    "clan.noname": "Nie podałeś nazwę swojego klanu.",
+    "clan.no.username": "Nie podałeś nazwę gracza z klanu.",
+    "clan.valid.name": "Nazwa klanu musi składać się tylko z liter i cyfr, nie zawierać maty lub obelg, być nie więcej niż {yellow}{arg1} znaków.",
+    "clan.valid.descr": "Opis klanu musi składać się tylko z liter i cyfr, nie zawierać kodów koloru tekstu, maty lub obelg, być nie więcej niż {yellow}{arg1} znaków.",
+    "clan.create": "Z powodzeniem stworzył klan {aqua} do{arg1}. Każdy gracz może teraz wejść w niego zespołem {yellow}\/c join {arg2}",
+    "clan.remove": "Można z powodzeniem usunąć swój klan. Cały skład klanu rozwiązana...",
+    "clan.info": "Informacje o {yellow}{bold}{arg1} {reset}{gray}(id: {arg2}{gray}){reset}:\n{arg3}Skarbiec: {bold}{yellow}{arg4} {yellow}monet{reset}\nOgraniczenia na wejście: {bold}{yellow}{arg5}\nTrofea: {bold}{aqua}{arg6}\n{reset}{arg7}{reset} Gracz {gray}{arg8}{reset}\n{arg9}",
+    "clan.war": [
+        "Wojna z {gray}(id: {arg1}{gray}) {yellow}{bold}{arg2}.",
+        "Rachunek bieżący: {aqua}{bold}{arg3}.",
+        "Zakończenie sezonu przez: {aqua}{arg4}"
+    ],
+    "clan.endwar": "Klan wojna się skończyła, swoje punkty онулированы, trofea przyznane! {yellow}Dzięki za grę!",
+    "clan.endwar.title": [
+        "{bold}{red}Koniec sezonu!",
+        "Kolejny sezon wojnach klanowych, {yellow}został pomyślnie zakończony"
+    ],
+    "clan.error": "Wystąpił błąd w czasie wykonywania, poinformuj nas o tym zespołem {yellow}\/bug.",
+    "clan.noid": "Nie podałeś numeru id klanu, aby wyświetlić informacje!",
+    "clan.removed": "Twój klan usunięte, teraz bez drużyny...",
+    "clan.noop": "Nie Masz uprawnień szefa, dla wykonania tego polecenia.",
+    "clan.nofound": "Klan z {yellow}id:{arg1} nie znaleziono!",
+    "clan.invites": "W klanu proszą gracze! Zobacz listę zgłoszeń {aqua}\/c zaproszeń.",
+    "clan.rename": "Udało ci się zmienił nazwę klanu na {yellow} do{arg1}.",
+    "clan.renamed": "Nazwa klanu została zmieniona na {yellow} do{arg1}.",
+    "clan.redescr": "Udało ci się zmienił opis klanu na {yellow} do{arg1}.",
+    "clan.redescred": "Opis klanu została zmieniona na {yellow} do{arg1}.",
+    "clan.nocash": "Wprowadź liczbę monet, które chcesz dodać do skarbu państwa.",
+    "clan.addcash": "Dodane do skarbca klanu {yellow}{arg1} monet.",
+    "clan.addcashed": "{aqua}{arg1} dodaje do skarbca klanu {yellow}{arg2} monet.",
+    "clan.noaddcash": "Masz na koncie nie ma wystarczającej ilości pieniędzy do {yellow}{arg1} monet.",
+    "clan.nosay": "Nie napisałeś ogłoszenie, które chcesz wysłać.",
+    "clan.say": "Wysłany ogłoszenie zawsze соклановцем online!",
+    "clan.sayed": "Ogłoszenie: {red}{bold}{arg1}.",
+    "clan.noinvite": "Nie podałeś {yellow}nick gracza{reset}, którego chcesz zaprosić.",
+    "clan.inviteisclan": "Gracz {yellow}{arg1} już jest w klanie.",
+    "clan.joinmax": "Nie można wejść w ten klan, brak wolnych miejsc.",
+    "clan.invite": "Jesteś zaproszony gracz {aqua}{arg1} w swój klan.",
+    "clan.invited": "Gracz {yellow}{arg1} zaprasza dołączyć do klanu {yellow}{arg2}! Do wejścia napisz polecenie {aqua}\/c join {arg3}.",
+    "clan.invitemax": "Nie możesz zaprosić gracza, Twój klan jest pełny!",
+    "clan.nojoin": "Nie podałeś {yellow}numer (id){reset} klanu, do którego chcesz dołączyć.",
+    "clan.join": "Składasz wniosek o członkostwo, należy się spodziewać zatwierdzenia.",
+    "clan.joined": "Gracz {yellow}{arg1} chce się dodać do klanu. Przyjąć wniosek {green}\/c accept {arg1}{reset}. Odrzucić żądanie {red}\/c decline {arg1}.",
+    "clan.quit": "Pan opuścił klan...",
+    "clan.quited": "{yellow}{arg1} opuścił klan...",
+    "clan.noaccept": "Nie podałeś nick gracza, którego chcesz przyjąć do klanu.",
+    "clan.nodecline": "Nie podałeś nick gracza, na wniosek którego chcesz odrzucić.",
+    "clan.acceptmax": "Nie można brać tego gracza do klanu nie ma wolnych miejsc.",
+    "clan.accept": "Wziął gracza {yellow}{arg1} do klanu.",
+    "clan.accepted": "{yellow}{arg1} dołączył do klanu.",
+    "clan.acceptme": "Przyjęliśmy was do klanu gracza {yellow} do{arg1}.",
+    "clan.acceptnolist": "Od gracza {yellow}{arg1} nie było zgłoszeń do klanu.",
+    "clan.decline": "Wniosek gracza {yellow}{arg1} została odrzucona.",
+    "clan.declineme": "Wniosek o wpis do klanu {yellow}{arg1} została odrzucona.",
+    "arena": [
+        "{bold}{red}PvP Arena",
+        "Ci założone osłony na {aqua}5 sekund"
+    ],
+    "arena.shield": "{aqua}Ten gracz w pancerzu.",
+    "arena.shieldoff": "{red}Twoja tarcza jest wyłączony.",
+    "sheep": [
+        "{bold}{yellow}Aktówki z przedrostków",
+        "Zostań {bold}{italic}{red}do{gold}p{yellow}a{green}o{aqua}o{blue}h{pink}n{red}e{gold}e{reset} innych!"
+    ],
+    "villager.prefix": "Wędrowiec",
+    "villager.title": [
+        "{bold}{yellow}Wędrowiec z uboczu",
+        "Nie chcesz wymieniać?"
+    ],
+    "whois.prefix": "Whois",
+    "whois.noargs": "Nie podałeś {yellow}nick gracza{reset}, którego dane chcesz dowiedzieć się!",
+    "whois.noplayer": "Gracz z nickiem {aqua}{arg1} nie jest zarejestrowany na serwerze!",
+    "whois.online": [
+        "Informacje o graczu {aqua}{arg1} ({green}online{reset}):.",
+        "Poziom gracza: {yellow}{arg2}, doświadczenie: {green}{arg3}{gray}\/{dark_green}{arg4} xp",
+        "Przywilej gracza: {yellow} do{arg5}.",
+        "Ustawiony język: {yellow} do{arg6}.",
+        "Urządzenie: {yellow} do{arg7}.",
+        "Adres IP: {yellow} do{arg8}.",
+        "W trybie boga: {yellow} do{arg9}.",
+        "Włączony lot: {yellow} do{arg10}.",
+        "Włączony creative: {yellow}{arg11}"
+    ],
+    "whois.offline": "Informacje będą dostępne tylko wtedy, gdy gracz będzie {green}online.",
+    "badname": [
+        "Przed grą na serwerze",
+        "przejdź do {yellow}ustawienia{reset} w ciemności",
+        "i wymyśl sobie {green}własny{reset} nick {red}{italic}(zamiast Steve)"
+    ],
+    "rules.prefix": "Zasady",
+    "rules": {
+        "1.1": "Rejestracja nicka z obrazą lub matą.",
+        "1.2": "Rejestracja nicka, podobnego z nickiem administratora.",
+        "1.3": "Przeniesienie konta do innego gracza.",
+        "2.1": "Obelgi osobowości, mat.",
+        "2.2": "Niedoskonałości: ordynarne wyzwiska, nadmierne mat.",
+        "2.3": "Затрагивание krewnych.",
+        "2.4": "Reklama innych zasobów.",
+        "2.5": "Podżeganie do konfliktów, dyskryminacja.",
+        "2.6": "Wprowadzenie administracji w błąd.",
+        "3.1": "Korzystanie z cheatów.",
+        "3.2": "Przeszkodą normalnej grze innych graczy (zabudowa bloków wokół domu, denerwujące teleportacja bez zgody).",
+        "3.3": "Próba uzyskania hasła do konta gracza.",
+        "3.4": "Korzystanie z krytycznych błędów.",
+        "3.5": "Machinacje z walutą w grze, oszustwa.",
+        "3.6": "Zastraszanie, szantaż.",
+        "3.7": "Budowa narządów płciowych, chaotycznie rozstawione klocki.",
+        "4.1": "Гриферство (budowa pułapek, приманивание graczy w celu zabójstwa \"tp приючу\" itp.).",
+        "4.2": "Rozdanie rzeczy w dużych ilościach (więcej niż 64 szt.).",
+        "4.3": "Blokada cudzych kont bez przyczyny określonej w regulaminie lub fałszywy blokada.",
+        "4.4": "Odblokowanie konta, który został zablokowany z przyczyną.",
+        "4.5": "Kick z serwera bez uzasadnionej przyczyny.",
+        "4.6": "Mut czatu innego gracza bez przyczyny, określone w przepisach..",
+        "4.7": "Zwiększony czas bana (na przykład, trzeba było zbanowany na 1 dzień, a bana wydane na 3 dni).",
+        "5.1": "Sprzedaż lub próba sprzedaży konta za każdą walutę.",
+        "5.2": "Sprzedaż lub próba sprzedaży waluty gry na prawdziwe pieniądze."
+    },
+    "cupon.prefix": "Kupon",
+    "cupon.vipend": [
+        "Czas {gold}darmowej przywileje skończyło.",
+        "Możesz zakupić {yellow}{arg1} na zawsze{reset} na stronie {aqua}{donate}"
+    ],
+    "cupon.fail": "Указаный was kupon nie znaleziono.. być Może to pomyłka literą!",
+    "cupon.noargs": "Nie podałeś kupon.",
+    "cupon.notime": "Czas aktywacji kuponu już wyszło.",
+    "cupon.taked": "Już aktywowali kupon.",
+    "cupon.start": [
+        "Kupon {yellow}{arg1}{reset} pomyślnie акивирован!",
+        "Masz przywilej {arg2}{reset} na {arg3} dni {red}za darmo.",
+        "A tak {yellow}{arg4} mnożnik monet.",
+        "I {aqua}{arg5} diamentu{reset} dla szybkiego rozwoju.",
+        "{bold}{gold}Przyjemnej gry :)"
+    ],
+    "cupon.terex": [
+        "Kupon {yellow}{arg1}{reset} pomyślnie акивирован!",
+        "Masz przywilej {arg2}{reset} na {arg3} dni {red}za darmo.",
+        "A tak {yellow}{arg4} mnożnik monet.",
+        "I {aqua}{arg5} diamentu{reset} dla szybkiego rozwoju.",
+        "{bold}{gold}Przyjemnej gry :)"
+    ],
+    "cupon.fish": [
+        "Kupon {yellow}{arg1}{reset} pomyślnie акивирован!",
+        "Masz {yellow}{arg2}{reset} monet",
+        "A tak {yellow}{arg3} mnożnik doświadczenia.",
+        "I {aqua}{arg4} diamentu{reset} dla szybkiego rozwoju.",
+        "{bold}{gold}Przyjemnej gry :)"
+    ],
+    "kalyan.prefix": "Fajki",
+    "kalyan.nomoney": "Aby {yellow}zapalić fajki{reset} musisz {aqua}{arg1} monet.",
+    "kalyan.activate": [
+        "{bold}{pink}Fajki",
+        "Można się zagoiły fajki, uważaj"
+    ],
+    "bonus.effect": "Masz {yellow}losowy{reset} bezpłatny efekt.",
+    "bonus.money": "Masz {yellow}darmowe {arg1} monet.",
+    "bonus.effect.no": "Możesz zabrać {yellow}bezpłatny efekt{reset} jeszcze raz przez {aqua}{arg1}.",
+    "bonus.money.no": "Możesz zabrać {yellow}darmowe monety{reset} jeszcze raz przez {aqua}{arg1}.",
+    "bonus.effect.title": [
+        "{bold}{aqua}Bezpłatny efekt",
+        "na {yellow}{arg1}"
+    ],
+    "bonus.money.title": [
+        "{bold}{aqua}Darmowe monety",
+        "{yellow}+{arg1} monet"
+    ],
+    "cheats": "Nie читери na serwerze :)",
+    "reload.info": [
+        "Serwer zostanie ponownie uruchomiony przez {aqua} do{arg1}.",
+        "Może być również {yellow}nagły restart{reset} serwera z powodu aktualizacji serwera."
+    ],
+    "reload.tick": "Serwer zostanie ponownie uruchomiony przez {aqua} do{arg1}.",
+    "reload": "{bold}{yellow}Serwer restartuje...",
+    "maze.prefix": "Napad",
+    "maze.title": [
+        "{bold}{yellow}Napad",
+        "Masz {aqua}{arg1}{reset}, aby znaleźć wyjście i obrabować bank!",
+        "Nagroda {pink}zmniejsza{reset} z każdej próbie",
+        "Labirynt zmienia się co {yellow}dwie godziny"
+    ],
+    "maze.starting": [
+        "{bold}{green}Pobiegł!",
+        "masz {aqua}{arg1}, aby znaleźć wyjście"
+    ],
+    "maze.status.true": "Status napadu: {green}z powodzeniem{reset}, Wykonane prób: {aqua}{arg1}",
+    "maze.status.false": "Status napadu: {red}nie jest z powodzeniem{reset}, Wykonane prób: {aqua}{arg1}",
+    "maze.nocommands": "Podczas napadu na bank nie {red}użyj polecenia.",
+    "maze.start": "Napad! Masz {aqua} do{arg1}.",
+    "maze.success": "{yellow}Udany napad{reset}, przyjdź przez {aqua}dwie godziny{reset}.",
+    "maze.fail": "{red}Czas minął!{reset} Napad się nie udało, {aqua}spróbuj{reset} następnym razem...",
+    "maze.fail.title": [
+        "{bold}{red}Czas minął!",
+        "Zostałeś przeniesiony z powrotem"
+    ],
+    "maze.nogm": "Do napadu na bank można tylko w {green}przetrwaniu{reset}.",
+    "maze.nostart": "Już {green}okradziony{reset} bank, przyjdź przez {aqua}dwie godziny{reset} :)",
+    "stop": "Serwer zostanie ponownie uruchomiony, na kilka sekund wyśle w okno pobierania.",
+    "time": {
+        "year": [
+            "rok",
+            "roku",
+            "lat"
+        ],
+        "month": [
+            "miesiąc",
+            "miesiące",
+            "miesięcy"
+        ],
+        "week": [
+            "tydzień",
+            "tygodnie",
+            "tygodni"
+        ],
+        "day": [
+            "dzień",
+            "dnia",
+            "dni"
+        ],
+        "hour": [
+            "godzinę",
+            "godziny",
+            "godzin"
+        ],
+        "min": [
+            "minuta",
+            "minuty",
+            "min."
+        ],
+        "sec": [
+            "sekunda",
+            "sekundy",
+            "sekund"
+        ]
+    },
+    "bug": "Dziękuję, że donosili na temat błędu, naprawimy go w najbliższym czasie :)",
+    "bug.noargs": "Nie napisałeś komunikat (błąd).",
+    "hide.prefix": "Bramka",
+    "hide": "Użytkownik {green}zawrzeć{reset} tryb stealth, nikt nie widzi Ciebie!",
+    "hide.off": "Użytkownik {red}wyłączyli{reset} tryb niewidzialności.",
+    "clear.prefix": "Czyszczenie",
+    "clear.drops": "Usunięto {aqua}{arg1} stóp drop na serwerze.",
+    "op": "Masz prawo pomagiera gracz {aqua} do{arg1}.",
+    "op.user": "Ci wydali {green}pomagiera.",
+    "deop": "Zabraliście przywilej gracz {aqua} do{arg1}.",
+    "deop.user": "Zabrali wam przywilej!",
+    "heal": "Można odzyskali zdrowie.",
+    "heal.you": "Ci przywrócił zdrowie {yellow} do{arg1}.",
+    "heal.player": "Pan odzyskał zdrowie gracza {yellow} do{arg1}.",
+    "heal.block": "Przywracać zdrowie innych graczy można z przywilejów {yellow} do{arg1}.",
+    "top": "Zostałeś przeniesiony na górę.",
+    "food": "Pan odzyskał swój głód.",
+    "clearchat": "{green}{arg1} czyściłem czat.",
+    "tpall": "Administrator teleportował Cię do siebie!",
+    "clear": "Szanowny {green}{arg1}, Twój sprzęt jest całkowicie wyczyszczony.",
+    "clear.effect": "Szanowny {green}{arg1}, z Ciebie zdjęte wszystkie efekty.",
+    "sleep": "Z powodzeniem poszedł spać.",
+    "ag.prefix": "Anty-gryf",
+    "ag": "Użytkownik {green}zawrzeć{reset} tryb anty-грифер, zmienił nick na {aqua}{arg1}, nikt nie zobaczy Swoją prawdziwą przywilej!",
+    "ag.off": "Użytkownik {red}wyłączyli{reset} tryb anty-грифер.",
+    "ag.noargs": [
+        "Napisz {yellow}\/ag on (nick){reset}, aby ukryć przywilej i ustawić sobie inny nick.",
+        "I polecenie {yellow}\/ag off{reset}, aby wyłączyć tryb антигрифера"
+    ],
+    "ag.valid": "Nick który napisałeś {red}nie{reset} używać na serwerze!",
+    "dupe": "Z powodzeniem дюпнули {aqua} do{arg1}.",
+    "dupe.noargs": "Дюп przedmiotów jest dozwolone raz w {aqua}ponowne uruchomienie.",
+    "dupe.block": "Ten przedmiot {red}jest zabronione{reset} дюпать.",
+    "dupe.air": "Weź {yellow}w rękę{reset} obiekt, który chcesz дюпнуть.",
+    "dupe.creative": "Można użyć дюп tylko w {yellow}przetrwaniu.",
+    "gamemode": "Z powodzeniem zastąpiły tryb gry.",
+    "gamemode.error": "Tryb gry jest nieprawidłowe.",
+    "gamemode.info": "Należy określić tryb.",
+    "back": "Z powodzeniem wrócili na miejsce śmierci!",
+    "back.error": "Jeszcze nie umierali, również.",
+    "kick.prefix": "Kik",
+    "kick.br": "{green}{arg1} кикнул(a) gracza {green}{arg2} o {aqua}{arg3}.",
+    "kick.close": "Ciebie кикнул {green}{arg1}, powód:\n{red}{arg2}.\n{white}Kochanie gracz, możesz перезайти na serwer.",
+    "kick.reason": "Określ przyczynę kika.",
+    "kick.name": "Wprowadź pseudonim gracza.",
+    "kick.ab": "Gracz {aqua}{arg1} ochrona przed kika.",
+    "speed.on": "Użytkownik {green}zawrzeć{reset} tryb {aqua}суперскорости!",
+    "speed.off": "Użytkownik {red}wyłączyli{reset} tryb {aqua}суперскорости!",
+    "speed.damage": "Możesz zacząć pvp i {aqua}суперскорость{reset} została wyłączona!",
+    "gfly.noname": "Nie podałeś {yellow}nick gracza,{reset} którego chcesz włączyć lot.",
+    "gfly.isset": "Już {yellow}wydali lot{reset} dla jednego z graczy. Następnym razem będzie można po ponownym uruchomieniu.",
+    "gfly.yes": "Gracz {aqua}{arg1} włączył Ci się tryb samolotowy!",
+    "gfly.set": "Można zawrzeć gracz {aqua}{arg1} tryb samolotowy.",
+    "gfly.gm": "Gracz {aqua}{arg1} już może latać!",
+    "command.console": "Ta komenda jest dostępna tylko dla graczy!",
+    "command.noplayer": "Gracz {aqua}{arg1} nie znaleziono lub offline.",
+    "command.noyou": "Nie możesz użyć swój nick.",
+    "command.noperm": "Ta komenda jest dostępna z przywilejów {arg1} i wyżej.",
+    "command.noargs": "Wysłany pusty polecenie, wpisz {aqua}\/help {arg1}, aby dowiedzieć się, jak jej używać.",
+    "command.error": "Podczas wykonywania polecenia wystąpił błąd! Napisz o tym do nas - {aqua}\/bug.",
+    "command.noparams": "Wprowadź parametr polecenia {green}on - włącz, {red}off - wyłączyć.",
+    "command.noname": "Nie podałeś nick gracza!",
+    "warp.prefix": "Warp",
+    "warp.info": "{yellow}\/duel {reset}- teleportacja w lobby pojedynków, {yellow}\/pvp {reset}- teleportacja na arenę PvP, {yellow}\/shop tp {reset}- teleportacja do sklepu, {yellow}\/spawn {reset}- teleportacja na спавн, {yellow}\/wild {reset}- teleportacja w рандомное miejsce, {yellow}\/parkour {reset}- teleportacja do parkour, {yellow}\/tir {reset}- teleportacja do tyru, {yellow}\/mine {reset}- teleportacja do auto-kopalni, {yellow}\/kliker {reset}- teleportacja do кликеру, {yellow}\/casino {reset}- teleportacja do kasyna, {yellow}\/ruletka {reset}- teleportacja do рулеткам.",
+    "warp.spawn": "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony na {yellow}спавн.",
+    "warp.pvp": [
+        "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony na {yellow}arenę PvP.",
+        "Aby powrócić do спавн napisz {green}\/spawn"
+    ],
+    "warp.mine": "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony do {yellow}auto-kopalni.",
+    "warp.shoot": "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony do {yellow}do tyru.",
+    "warp.clicker": "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony do {yellow}кликеру.",
+    "warp.roulette": "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony do {yellow}рулеткам.",
+    "warp.casino": "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony do {yellow}kasyno.",
+    "warp.wild": "Teleportacja w {yellow}losowe miejsce~.",
+    "warp.wild.fail": "Przepraszam, ale nie mogliśmy znaleźć odpowiedniego miejsca do teleportacji.. {yellow}Spróbuj ponownie!",
+    "warp.wild.load": "Poczekaj, teraz idzie {yellow}szukaj miejsca{reset} do teleportacji..",
+    "warp.wild.title": [
+        "{bold}{aqua}Teleportacja{arg1}",
+        "{white}do {yellow}losowe miejsce{reset} na mapie"
+    ],
+    "warp.shop": "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony w {yellow}sklep.",
+    "warp.parkour": "Szanowny {aqua}{arg1}, Można z powodzeniem przeniesiony do {yellow}przez błyskawice.",
+    "jail.prefix": "Więzienie",
+    "jail.user": "Gracz {aqua}{arg1} wsadził do więzienia z powodu: {yellow}{arg2}.",
+    "jail.true": "Zamknęliście gracza {aqua}{arg1} do więzienia z powodu: {yellow}{arg2}.",
+    "jail.nouser": "Gracz {aqua}{arg1} uwolnił się z więzienia.",
+    "jail.notrue": "Uwolniłeś gracza {aqua}{arg1} z więzienia.",
+    "jail.noargs": "Nie podałeś nick gracza, którego chcesz wsadzić do więzienia!",
+    "jail.out": "Z powodzeniem opuścili więzienia, nie daj się złapać ponownie!",
+    "jail.noout": "Można opuszczenia więzienia przez {aqua} do{arg1}.",
+    "jail.sit": "Gracz {aqua}{arg1} już siedzi w więzieniu.",
+    "jail.unsit": "Gracz {aqua}{arg1} nie siedzi w więzieniu.",
+    "jail.nocmd": "Nie można {yellow}użyj polecenia{reset} dopóki siedzisz w {aqua}więzieniu.",
+    "jail.noreason": "Nie podałeś przyczynę, z powodu której wsadźcie gracza do więzienia.",
+    "xp.prefix": "Doświadczenie",
+    "xp": "Masz teraz {aqua}{arg1} poziom, doświadczenie {green}{arg2}{white}\/{dark_green}{arg3}",
+    "info.prefix": "Profil",
+    "info": [
+        "Twoim {yellow}osobiste statystyki{reset}:",
+        "Wysłane wiadomości: {yellow}{arg1}{reset} szt.",
+        "Наиграно czasu: {yellow}{arg2}{reset}.",
+        "Zabitych graczy: {yellow}{arg3}{reset} os.",
+        "Śmierć: {yellow}{arg4}{reset} razem.",
+        "Uszkodzone bloki: {yellow}{arg5}{reset} szt.",
+        "Postawione bloki: {yellow}{arg6}{reset} szt."
+    ],
+    "rain.prefix": "Deszcz",
+    "rain.on": "Z powodzeniem {yellow}zainstalowany{reset} sobie deszcz\/śnieg.",
+    "rain.off": "Z powodzeniem {yellow}usunięto{reset} sobie deszcz\/śnieg.",
+    "rain.noargs": [
+        "Użyj polecenia \/rain on aby włączyć deszcz\/śnieg.",
+        "Użyj polecenia \/rain off aby wyłączyć deszcz\/śnieg."
+    ],
+    "skin.prefix": "Skin",
+    "skin.on": "Z powodzeniem {yellow}zainstalowany{reset} sobie skin gracza {aqua}{arg1}.",
+    "skin.off": "Z powodzeniem {yellow}odzyskali{reset} sobie swój skin.",
+    "skin.noargs": [
+        "Użytkownik {yellow}nie podałeś{reset} parametr polecenia!",
+        "{aqua}\/skin get nick{reset} - ustaw sobie alien skin.",
+        "{aqua}\/skin off{reset} - odzyskać swój skin"
+    ],
+    "skin.noname": "Nie podałeś {yellow}nick gracza{reset}, skin którego chcesz sobie ustawić.",
+    "cgame.prefix": "Czat-gra",
+    "cgame.select": [
+        "Zgadnij liczbę od {yellow}1 do 10.",
+        "Nagroda: {aqua}100 monet"
+    ],
+    "cgame.math": [
+        "Rozwiąż przykład {yellow} do{arg1}.",
+        "Nagroda: {aqua}100 monet"
+    ],
+    "cgame.winner": "Gracz {yellow}{arg1} poprawnie postanowił przykład i otrzymał {aqua}100{reset} monet.",
+    "cgame.win": "Użytkownik {green}poprawnie{reset} odpowiedział i otrzymałeś na swoje konto {aqua}100{reset} monet.",
+    "freeze.prefix": "Mrożenie",
+    "freeze.noargs": "Nie podałeś nick gracza, którego chcesz zablokować.",
+    "freeze.send": "Z powodzeniem zamarzł gracza {aqua} do{arg1}.",
+    "freeze.title": [
+        "{bold}{aqua}Ciebie zamarzł!",
+        "{white}Do rozmrażania wystarczy {yellow}перезайти na serwer."
+    ],
+    "freeze.helper": "Nie można zamrażać administracji",
+    "freeze.pvp": "Nie można zamrażać gracza gdy jest on w trybie pvp.",
+    "burn.prefix": "Podpalił",
+    "burn.noargs": "Nie podałeś nick gracza, którego chcesz podpalić.",
+    "burn.send": "Z powodzeniem podpalili gracza {aqua} do{arg1}.",
+    "burn.title": [
+        "{bold}{aqua}Ciebie podpalili!",
+        "{white}przestaniecie {yellow}świecić{reset} przez {arg1} sekund."
+    ],
+    "sethomde.prefix": "Dom",
+    "sethome": "Punkt domu z powodzeniem {green}jest zainstalowany.",
+    "sethome.update": "Punkt domu z powodzeniem {aqua}przeglad zrobiono.",
+    "sethome.spawn": "{red}Nie można stawiać{reset} punkt domu na спавне!",
+    "sethome.pvp": "{red}Nie można stawiać{reset} punkt domu na pvp arenie!",
+    "home.prefix": "Dom",
+    "home.on": [
+        "{bold}{aqua}Jesteś przeniesiony do domu",
+        "Dom, słodki dom~"
+    ],
+    "home.off": "Jeszcze nie ustalili punkt swojego domu.",
+    "home.open.all": "Teraz {yellow}gracz {reset}będzie mógł teleportować się do Ciebie w gości!",
+    "home.open.friends": "Teraz {yellow}Twoi przyjaciele {reset}będą mogli teleportować się do Ciebie w gości!",
+    "home.open.me": "Teraz {red}nikt {reset}nie jest w stanie teleportować się do Ciebie w gości!",
+    "home.mode": "Wprowadź jedno z tych ustawień - {aqua}me, friends, all.",
+    "home.mode.error": "Wprowadź {yellow}parametr dostępu{reset} do twojego domu!",
+    "home.tp.me": "Gracz {aqua}{arg1} dom {red}jest zamknięty{reset} do teleportacji!",
+    "home.tp.friends": [
+        "{bold}{aqua}Jesteś przeniesiony.",
+        "Do kumpla {yellow}{arg1}"
+    ],
+    "home.tp.friends.error": "Teleportacja do domu gracza {aqua}{arg1}, jest dostępna {yellow}tylko znajomych{reset}.",
+    "home.tp.all": [
+        "{bold}{aqua}Jesteś przeniesiony.",
+        "W goście do gracza {yellow}{arg1}"
+    ],
+    "home.tp.error": "U tego gracza nie ma w domu :(.",
+    "lang.prefix": "Język",
+    "lang": [
+        "Ustawiony język {aqua}polski.",
+        "Zmienić język {green}\/lang {aqua}(język)"
+    ],
+    "lang.select": "Wybierz język, który chcesz sobie zainstalować!",
+    "lang.set": "Zainstalowałeś {aqua}język polski.",
+    "lang.register": [
+        "Zainstalowana {aqua}język polski,{reset} jak standardowy.",
+        "Zmienić można go wpisując polecenie {aqua}\/lang (język)"
+    ],
+    "guard.prefix": "Prywatne",
+    "guard.spawn": "Nie można приватить na спавне!",
+    "guard.noworld": "W tym świecie nie można приватить!",
+    "guard.list": "Lista Twoich приватов: \n{arg1}",
+    "guard.nolist": "Nie Masz приватов! Zaznacz pierwszy punkt zespołem {aqua}\/rg pos1",
+    "guard.help": "Lista dostępnych poleceń rozmowę:{arg1}",
+    "guard.one": [
+        "Pomyślnie zainstalowany pierwszy punkt rozmowę!",
+        "{green}Teraz zainstalować drugi punkt zespołem {aqua}\/rg pos2"
+    ],
+    "guard.two": [
+        "Drugi punkt jest już zainstalowany!",
+        "{green}Teraz możesz zapisać swoje prywatne zespołem {aqua}\/rg create {blue}(tytuł)"
+    ],
+    "guard.noargs": "Określ pierwszy punkt swojego rozmowę {aqua}\/rg pos1",
+    "guard.noparam": "Nie podałeś parametry polecenia!",
+    "guard.nocreate": [
+        "Zainstalowano już dwa punkty rozmowę!",
+        "{green}Zapisz prywatne zespołem {aqua}\/rg create {blue}(tytuł)"
+    ],
+    "guard.noone": [
+        "Nie zainstalowano pierwszy punkt twojej rozmowę!",
+        "{green}Zaznacz pierwszy punkt rozmowę zespołem {aqua}\/rg pos1"
+    ],
+    "guard.nodots": [
+        "Nie zainstalowano dwa punkty Swojego rozmowę!",
+        "{green}Zaznacz pierwszy punkt rozmowę zespołem {aqua}\/rg pos1"
+    ],
+    "guard.noname": "Nie podałeś {yellow}nazwa{reset} swojego regionu!",
+    "guard.noowner": "Nie Masz uprawnień {yellow}gospodarza{reset} na edycja tego regionu!",
+    "guard.no": "Jesteś na terytorium {yellow}bez regionów.",
+    "guard.info": [
+        "Informacje o prywatnych wiadomościach {aqua}{arg1}:",
+        "Gospodarze: {green} do{arg2}.",
+        "Goście: {green} do{arg3}.",
+        "Zawarte flagi: {yellow}{arg4}"
+    ],
+    "guard.isset": "Region o nazwie {aqua}{arg1} już istnieje! Wymyśl inną nazwę.",
+    "guard.nocorrect": "Nazwa regionu może składać się tylko z liter alfabetu angielskiego i cyfry!",
+    "guard.create": "Z powodzeniem stworzyli prywatne {aqua}{arg1}! Aby zobaczyć go jeszcze raz, napisz {yellow}\/rg show.",
+    "guard.remove": "Można z powodzeniem usunąć swoje prywatne {aqua} do{arg1}.",
+    "guard.nofind": "Podałeś nazwę {yellow}nie istniejącego{reset} regionu!",
+    "guard.tp": "Z powodzeniem teleport do prywatne {yellow}{arg1}",
+    "guard.noisset": "Region nie znaleziono! Musisz {yellow}stanąć{reset} w swoim regionie!",
+    "guard.issetown": "Gracz {aqua}{arg1} jest {yellow}mistrzem{reset} tego regionu!",
+    "guard.issetmem": "Gracz {aqua}{arg1} jest {yellow}gościem{reset} tego regionu!",
+    "guard.noissetown": "Gracz {aqua}{arg1} nie jest {yellow}mistrzem{reset} tego regionu!",
+    "guard.noissetmem": "Gracz {aqua}{arg1} nie jest {yellow}gościem{reset} tego regionu!",
+    "guard.noflag": "Nie podałeś {yellow}nazwa flagi{reset}, który chcesz zmienić!",
+    "guard.nomode": "Nie podałeś {yellow}parametr flagi{reset}, który chcesz zainstalować! {green}true{reset} - włączyć \/ {red}false{reset} - wyłączyć.",
+    "guard.flagisset": "Flagi {yellow}{arg1} nie istnieje!",
+    "guard.rflag": "Flaga {aqua}{arg1} już {red}jest wyłączony.",
+    "guard.sflag": "Flaga {aqua}{arg1} już {green}jest włączony.",
+    "guard.flagset": "Z powodzeniem {yellow}aktualizowane {reset}flagi regionu!",
+    "guard.users": "Z powodzeniem {yellow}aktualizowane {reset}użytkowników regionu!",
+    "guard.vector": "Twoja wydzielony obszar przecina {yellow}obcym{reset} prywatne.",
+    "guard.maxsize": [
+        "Twoje приваты mogą być {red}nie więcej niż {yellow}{arg1}{gold}x{yellow}{arg1} bloków, zaznacz obszar na nowo!",
+        "Jeśli chcesz приватить terenie więcej, kup przywilej na stronie: {aqua}{donate}"
+    ],
+    "guard.minsize": "Twoje приваты mogą być {red}nie mniej {yellow}{arg1}{gold}x{yellow}{arg1} bloków, zaznacz obszar na nowo!",
+    "guard.maxcount": [
+        "Nie można tworzyć więcej {aqua}{arg1} приватов!",
+        "Jeśli chcesz приватить więcej terytoriów, kup przywilej na stronie: {aqua}{donate}"
+    ],
+    "guard.flag.info": "Zabronione {yellow}zobacz informacje na{reset} o tym regionie!",
+    "guard.flag.paste": "Zabronione {yellow}stawiać bloki{reset} w tym regionie!",
+    "guard.flag.break": "Zabronione {yellow}puzzle klocki{reset} w tym regionie!",
+    "guard.flag.chat": "Zabronione {yellow}korzystać z czatu{reset} w tym regionie!",
+    "guard.flag.pvp": "Zabronione {yellow}walczyć{reset} w tym regionie!",
+    "guard.flag.chest": "Zabronione {yellow}otwierać skrzynię{reset} w tym regionie!",
+    "guard.sell": [
+        "Pani wystawiła na sprzedaż swój region {aqua}{arg1} o wartości {green}{arg2} monet.",
+        "Jeśli {yellow}zdanie sprzedawać{reset} terytorium, po prostu {red}zabierz tabliczkę{reset} do zakupu.",
+        "Pieniądze ze sprzedaży zostaną {red}dzieli się równo{reset} między {yellow}wszystkimi panami{reset} regionu.",
+        "Pieniądze zostaną przyznane {green}nie na równowagę{reset}, a na Twój {aqua}konto w banku"
+    ],
+    "guard.buyed": "Gracz {aqua}{arg1} kupiłem prywatne {green}{arg2} na {yellow}konto w banku{reset} zasilone {green}{arg3} monet.",
+    "guard.buyed.title": [
+        "{bold}{aqua}Udana sprzedaż.",
+        "{white}Region {green}{arg1} kupił gracz {yellow}{arg2}"
+    ],
+    "guard.buy": "Z powodzeniem {yellow}kupili{reset} i {yellow}stały się właścicielem{reset} rozmowę {aqua}{arg1} o wartości {green}{arg2} monet.",
+    "guard.buy.title": [
+        "{bold}{aqua}Udany zakup.",
+        "{white}Region {green}{arg1} teraz Twój"
+    ],
+    "guard.nobuy": "Nie można kupić {yellow}sami u siebie{reset} region.",
+    "guard.sell.remove": "Użytkownik {yellow}usunięto{reset} region ze sprzedaży.",
+    "guard.sell.nomoney": "Nie wystarczy {aqua}{arg1} monet do {yellow}zakupu{reset} tego regionu.",
+    "guard.sell.noparam": "Nie podałeś kwotę, za którą chcesz {yellow}sprzedać{reset} swoje terytorium.",
+    "guard.noint": "Określona wartość {yellow}nie jest{reset} liczbą.",
+    "guard.sell.isset": "Region ten jest {yellow}już sprzedawane{reset}, dla zabudowy tabliczki w nowym miejscu {red}złamać starą.",
+    "guard.blockbreak": "Gracz {aqua}{arg1} sprawia, że zmiany w twoim regionie {yellow}{arg2}.",
+    "list": "Gracze online ({arg1}):\n{arg2}.",
+    "list.helper": "Pomocnik online ({arg1}):\n{arg2}.",
+    "list.admin": "Admini online ({arg1}):\n{arg2}.",
+    "list.creative": "Gracze z kreatywności online ({arg1}):\n{arg2}.",
+    "list.ag": "Gracze z fałszywymi danymi online ({arg1}):\n{arg2}.",
+    "list.zero": "Na serwerze nie ma graczy.",
+    "money": "Masz na koncie {green}{arg1} monet.",
+    "repair": "Z powodzeniem udało się rzecz w ręku!",
+    "friend.prefix": "Przyjaźń",
+    "friend.join": [
+        "{bold}{green}Przyjaciel w sieci",
+        "{arg1}"
+    ],
+    "friend.error.name": "Nie podałeś nick gracza!",
+    "friend.error.you": "Nie można dodać siebie do znajomych!",
+    "friend.error.online": "Wskazany gracz nie jest online!",
+    "friend.error.accept": "Nie ma zgłoszeń do znajomych!",
+    "friend.true": "Można z graczem {aqua}{arg1} już przyjaciele!",
+    "friend.false": "Można z graczem {aqua}{arg1} nie byli przyjaciółmi!",
+    "friend.tp": "Z powodzeniem teleport do siebie {aqua} do{arg1}.",
+    "friend.tp.toyou": "Do Ciebie teleportuje się Twój przyjaciel {aqua} do{arg1}.",
+    "friend.send": "Wniosek do znajomych pomyślnie wysłana gracz {aqua} do{arg1}.",
+    "friend.send.me": [
+        "Gracz {aqua}{arg1} chce dodać Cię do znajomych!",
+        "Aby przyjąć jego propozycję, napisz {aqua}\/friend accept"
+    ],
+    "friend.accept": "Gracz {aqua}{arg1} przyjął wniosek do znajomych!",
+    "friend.accept.me": "Teraz gracz {aqua}{arg1} Twój przyjaciel :)",
+    "friend.list": "Lista znajomych: {arg1}.",
+    "friend.damage": "Nie można {yellow}walczyć{reset} ze sobą.",
+    "friend.list.not": [
+        "Nie Masz żadnych przyjaciół.",
+        "Wyślij wniosek do znajomych - {green}\/friend {aqua}nick"
+    ],
+    "friend.remove": "Usunięto z przyjaciół gracza {aqua} do{arg1}.",
+    "friend.remove.me": "Pan usunął ze znajomych gracz {aqua} do{arg1}.",
+    "mute": "Gracz {aqua}{arg1} został zablokowany czat na {arg2} min z powodu: {red}{arg3}.",
+    "mute.noargs": "Nie podałeś nick gracza, którego chcesz zablokować czat.",
+    "mute.noreason": "Nie podałeś przyczynę blokady czatu.",
+    "mute.you": "{aqua}{arg1} zablokował Cię na czacie na {yellow}{arg2} min z powodu: {red}{arg3}.",
+    "mute.time": "Wprowadź czas muta {arg1}!",
+    "addmoney": "Wprowadź nazwę gracza i ilość pieniędzy.",
+    "addmoney.add": "Dałeś {green}{arg1} monet gracz {green}{arg2}.",
+    "addmoney.adduser": "Na saldo umieścić {green}{arg1} monet.",
+    "addmoney.noargs": "Wprowadź nazwę gracza i ilość pieniędzy.",
+    "addmoney.nomoney": "Nie podałeś ilość pieniędzy!",
+    "addmoney.noint": "Jeśli poprawnie wpisałeś ilość!",
+    "addmoney.nomax": "Na koncie gracza {aqua}{arg1} już wystarczająco dużo monet :)",
+    "addmoney.noadd": "Dajesz zbyt wiele monet gracz {aqua} do{arg1}.",
+    "addmoney.max": "Nie można kłaść na balans więcej niż {aqua}{arg1} monet.",
+    "addmoney.min": "Nie można wskazywać kwotę niż {aqua}{arg1} monet.",
+    "pay": "Dałeś {green}{arg1} monet gracz {green}{arg2}.",
+    "pay.you": "Gracz {green}{arg1} dał Ci {green}{arg2} monet.",
+    "pay.nomoney": "Nie można oddać {green}{arg1} monet, Masz tylko {aqua}{arg2}.",
+    "pay.min": "Nie można wskazywać kwotę niż {aqua}1{currency}.",
+    "pay.me": "Nie możesz wydawać pieniądze samemu sobie!",
+    "pay.int": "Jeśli poprawnie wpisałeś ilość!",
+    "pay.money": "Nie podałeś ilość pieniędzy!",
+    "pay.noargs": "Wprowadź nazwę gracza i ilość pieniędzy!",
+    "group.prefix": "{pink}Donat",
+    "group": "Jesteś wydali grupę {aqua}{arg1} gracz {green}{arg2}.",
+    "group.noargs": "Nie podałeś parametry polecenia.",
+    "group.you": "Gratulacje! Masz grupę {aqua}{arg1}!",
+    "group.no": "Taka grupa nie istnieje!",
+    "group.noname": "Wpisz nick gracza!",
+    "group.nogroup": "Wprowadź nazwę grupy!",
+    "group.get": "Grupa gracza {aqua}{arg1} - {green}{arg2}.",
+    "group.buy": "Gracz {yellow}{arg1} kupiłem przywilej {arg2} na stronie {aqua}{bold}{donate}",
+    "give.prefix": "Give",
+    "give": "Jesteś wydali {arg1} ({arg2} szt.) gracz {aqua}{arg3}.",
+    "give.noargs": "Nie podałeś {yellow}nick gracza{reset}, którego chcesz wystawić przedmioty.",
+    "give.block": "Do dziś wydali maksymalnie przedmiotów.",
+    "give.noid": "Wprowadź id przedmiotu.",
+    "give.maxsize": "Nie możesz wystawić ten przedmiot jest większy niż {arg1} szt.",
+    "give.offline": "Tego gracza nie ma na serwerze.",
+    "give.tag": "Błąd tagu!",
+    "give.noitem": "Przedmiot z takim id nie znaleziono.",
+    "give.blocked": "Przedmiot ten jest zabroniony do wydania.",
+    "point.prefix": "Point",
+    "point.spawn": "Nie można postawić kropkę teleportacji {yellow}na спавне.",
+    "point.noargs": [
+        "Dostępne polecenia:",
+        "{yellow}\/create point (name) {gray}- {reset}utworzyć punkt teleportacji.",
+        "{yellow}\/remove point (name) {gray}- {reset}usuń punkt teleportacji.",
+        "{yellow}\/point open (name) {gray}- {reset}otwórz punkt dla wszystkich.",
+        "{yellow}\/point close (name) {gray}- {reset}zamknąć punkt od innych.",
+        "{yellow}\/point tp (name) {gray}- {reset}teleportować się na określony punkt.",
+        "{yellow}\/point list {gray}- {reset}lista twoich punktow"
+    ],
+    "point.pvp": "Nie można postawić kropkę teleportacji na {yellow}pvp arenie.",
+    "point.noname": "Nie podałeś {yellow}nazwa punktu.",
+    "point.max": [
+        "Osiągnąłeś swój {yellow}maksymalna liczba{reset} punktów!",
+        "Aby tworzyć więcej, kup przywilej na miejscu {aqua} do{donate}.",
+        "Lub usuń jedną z twoich punktów zespołem - {green}\/remove point (nazwa)"
+    ],
+    "point.create": [
+        "Utworzono nowy punkt teleportacji z назаванием {green}{arg1}!",
+        "Aby zezwolić na teleportację do wszystkich graczy wpisz - {aqua}\/point open {arg1}"
+    ],
+    "point.maxcount": [
+        "Nie można utworzyć więcej niż {yellow}{arg1} punktów teleportacji!",
+        "Można {red}usuń{reset} stare punkty lub {yellow}kup{reset} przywilej na stronie: {aqua}{donate}"
+    ],
+    "point.isset": "Punkt teleportacji z tej nazwie już istnieje, wymyśl inną!",
+    "point.nofind": "Punkty o takiej nazwie nie istnieje!",
+    "point.isyou": "Ten punkt nie należy do Ciebie!",
+    "point.null": "Masz {yellow}nie{reset} punktów teleportacji...",
+    "point.list": "Lista punktów teleportacji:\n{yellow}{arg1}.",
+    "point.remove": "Punkt {green}{arg1} został usunięty!",
+    "point.opend": "Punkt {aqua}{arg1} pomyślnie otwarty {yellow}wszystkie{reset} graczy!",
+    "point.closed": "Punkt {aqua}{arg1} pomyślnie zamknięta {yellow}ze wszystkich{reset} graczy!",
+    "point.tp": "Z powodzeniem teleport do punktu {green} do{arg1}.",
+    "point.tp.closed": "Ten punkt {yellow}jest zamknięty{reset} do teleportacji!",
+    "point.tp.error": "Wystąpił błąd! Nie możemy Was teleportować :(.",
+    "size.info": [
+        "Do zmiany rozmiaru wybierz jedną z opcji:.",
+        "{yellow}1 - krasnal, 2 - normal, 3 - olbrzym"
+    ],
+    "size.big": "Zainstalowałeś sobie wzrost {yellow}olbrzyma.",
+    "size.norm": "Zainstalowałeś sobie {yellow}normalny{reset} wzrost.",
+    "size.little": "Zainstalowałeś sobie wzrost {yellow}karła.",
+    "report": "Skarga wysłana administracji, dziękuję za informację!",
+    "report.noargs": "Nie podałeś nick gracza na którego chcesz złożyć skargę.",
+    "report.error": "Podaj przyczynę reklamacji.",
+    "report.you": "Nie można wysłać skargę na samego siebie!",
+    "warn": "Twoje ostrzeżenie wysłane gracz {aqua} do{arg1}.",
+    "warn.noargs": "Nie podałeś nick gracza na którego chcesz wysłać ostrzeżenie.",
+    "warn.error": "Wprowadź ostrzeżenie.",
+    "warn.you": "Nie można wysłać предупредление samemu sobie!",
+    "warn.title": [
+        "{gold}{bold}Ostrzeżenie:.",
+        "{red}{arg1}"
+    ],
+    "god.prefix": "Bóg",
+    "god.on": "Użytkownik {green}zawrzeć{reset} tryb boga!",
+    "god.off": "Użytkownik {red}wyłączony{reset} tryb boga!",
+    "god.damage": "Gracz {aqua}{arg1} w trybie boga! Nie można go pokonać!",
+    "god.pickup": "Nie możesz odebrać {green}przedmiotów w trybie boga!",
+    "god.pvp": "Nie można {yellow}walczyć{reset} w trybie boga!",
+    "seemoney": "Gracz {aqua}{arg1} w bilansie {green}{arg2} monet.",
+    "seemoney.noargs": "Nie podałeś nick gracza, balans który chcesz obejrzeć.",
+    "setmoney": "Zainstalowałeś {aqua}{arg1} monet gracz {green}{arg2}.",
+    "setmoney.you": "Saldo zmieniły, teraz Masz na koncie {green}{arg1} monet.",
+    "setmoney.noargs": "Wprowadź nazwę gracza i ilość pieniędzy!",
+    "setmoney.nomoney": "Nie podałeś ilość pieniędzy!",
+    "setmoney.noint": "Ilość pieniędzy musi być liczbą!",
+    "setmoney.max": "Nie można ustawić balans więcej niż {aqua}{arg1} monet.",
+    "setmoney.min": "Nie można wskazywać kwotę niż {aqua}{arg1} monet.",
+    "setmoney.isset": "Na koncie gracza {aqua}{arg1} już wystarczająco dużo monet.",
+    "ban.prefix": "Ban",
+    "ban": "Wprowadź powód bana.",
+    "ban.admin": "Nie można zbanowany twórcy serwera!",
+    "ban.time": "Korzystałeś już z tego bana. Jeszcze raz będzie można korzystać przez {aqua} do{arg1}.",
+    "ban.notime": "Nie podałeś czas bana!",
+    "ban.badtime": "Jeśli poprawnie wpisałeś czas bana!",
+    "ban.noname": "Wpisz nick gracza, którego chcesz zbanowany.",
+    "ban.broadcast": "{green}{arg1} забанил(a) gracza {aqua}{arg2} za {aqua}{arg3} {green}{arg4}.",
+    "ban.close": [
+        "{gold}{bold}[{server}] {aqua}{arg1} забанил do {bold}{red}{arg2}.",
+        "Z powodu: {bold}{green}{arg3}.",
+        "Można kupić разбан na miejscu: {bold}{pink}{donate}"
+    ],
+    "ban.close.never": "{aqua}{arg1} забанил Ciebie na zawsze z powodu:\n{red}{arg2}.",
+    "ban.max": "Nie można banowac więcej niż {aqua}{arg1}",
+    "ban.un": "{green}{arg1} разбанил(a) gracza {aqua}{arg2}.",
+    "ban.no": "Gracz {aqua}{arg1} już zakazany!",
+    "ban.no.un": "Gracz {aqua}{arg1} nie jest zarejestrowany!",
+    "ban.ab": "Gracza {aqua}{arg1} nie zbanowany, ma {yellow}ochrona od blokady.",
+    "banlist.prefix": "Ban",
+    "banlist": "Lista wszystkich забаненых graczy:\n{arg1}",
+    "banlist.none": "Lista забаненых graczy jest pusty.",
+    "donate.prefix": "Donat",
+    "donate.amount": "{arg1} - {arg2} rubli, zobacz możliwości {aqua}\/donate {arg3}",
+    "donate.exclusive": "{arg1} - {pink}{bold}EXCLUSIVE{reset}, zobacz możliwości {aqua}\/donate {arg2}",
+    "donate": [
+        "Lista donatów na serwerze:{arg1}",
+        "Każdy donat można kupić na miejscu {aqua}{donate}",
+        "Donat jest wydawana na zawsze i zapisywane po вайпа!"
+    ],
+    "donate.descr": [
+        "Możliwości przywileje {arg1}:\n{arg2}",
+        "Każdy donat można kupić na miejscu {aqua}{donate}"
+    ],
+    "me": "Napisz co robisz jednym słowem i to pojawi się na czacie!",
+    "suicide": "Popełnisz samobójstwo. Po samobójstwa rzeczy nie są zapisywane.",
+    "kill.prefix": "Egzekucja",
+    "kill.noargs": "Nie podałeś nick gracza, którego chcesz zabić.",
+    "kill.send": "Zabił gracza {green} do{arg1}.",
+    "kill.user": "Ciebie zabił gracza {green} do{arg1}.",
+    "near": [
+        "Gracze w okolicy:.",
+        "{white}{arg1}"
+    ],
+    "near.isset": "Graczy w sąsiedztwie nie ma.",
+    "tell": "Twoja wiadomość została pomyślnie wysłana {aqua} do{arg1}.",
+    "tell.nomsg": "Nie wpisz wiadomość, którą chcesz wysłać!",
+    "tell.error": "Nie możesz wysłać wiadomość do samego siebie!",
+    "tell.noargs": "Nie podałeś nick gracza, którego chcesz wysłać wiadomość.",
+    "tell.ignore.noargs": "Nie podałeś nick gracza, którego chcesz zablokować korespondencji.",
+    "tell.ignore.error": "Nie można zablokować do siebie.",
+    "tell.ignore.add": [
+        "Dodał gracza {yellow}{arg1}{reset} na czarną listę. Teraz on już nie jest w stanie napisać!",
+        "Żeby usunąć go z czarnej listy napisz ponownie {aqua}\/tellignore {arg1}"
+    ],
+    "tell.ignore.remove": "Usunąłeś gracza {yellow}{arg1}{reset} z czarnej listy.",
+    "tell.ignore.you": "Gracz {yellow}{arg1}{reset} dodał Cię do czarnej listy.",
+    "time.day": "Zainstalowałeś na serwerze dzień!",
+    "time.night": "Zainstalowałeś na serwerze noc!",
+    "time.sunset": "Zainstalowałeś na serwerze zachód słońca!",
+    "time.error": "Wprowadź tryb czasu!",
+    "notp.prefix": "Teleport",
+    "notp.on": "Wyłączyłeś teleportację do siebie.",
+    "notp.off": "Można zawrzeć teleportację do siebie.",
+    "notp.try": [
+        "Gracz {aqua}{arg1} jest włączona ochrona przed teleportacji.",
+        "Z grupy operator i wyżej{reset}, Będziesz mógł teleportować się {green}zawsze{reset} dla każdego gracza!"
+    ],
+    "notp.parkour": "Nie możesz się teleportować do gracza {aqua}{arg1}, przechodzi parkour!",
+    "notp.pvp": "Nie możesz się teleportować do gracza {aqua}{arg1}, walczy na pvp!",
+    "notp.maze": "Nie możesz się teleportować do gracza {aqua}{arg1}, napadł na bank!",
+    "notp.duel": "Nie możesz się teleportować do gracza {aqua}{arg1}, gra w pojedynkach!",
+    "enchant.prefix": "Чаровальня",
+    "enchant.nogm": "Чарить rzeczy można tylko w {yellow}przetrwaniu.",
+    "enchant.true": "Można зачаровали {arg1}.",
+    "enchant.nomoney": "Brakuje ci {yellow}{arg1} monet dla зачара.",
+    "enchant.gold": "Nie Masz {yellow}{arg1} {yellow}лазурита{reset} dla зачара, można go wykopać pod ziemią.",
+    "enchant.noid": "Weź broń, zbroję lub narzędzie {yellow}w rękę{reset} dla зачара.",
+    "enchant.maxlvl": "Już зачаровали ten przedmiot do {yellow}maksimum.",
+    "anvil.prefix": "Kowadło",
+    "anvil.nogm": "Naprawiać rzeczy można tylko w {yellow}przetrwaniu.",
+    "anvil.true": "Z powodzeniem {yellow}naprawili{reset} przedmiot w ręku.",
+    "anvil.metal": "Nie Masz {yellow}{arg1} {yellow}żelaznych sztabek{reset} dla зачара, można je kupić w sklepie lub dostać się pod ziemią.",
+    "anvil.noid": "Weź broń, zbroję lub narzędzie {yellow}w rękę{reset} do naprawy.",
+    "tp.prefix": "Teleport",
+    "tp": "Z powodzeniem {yellow}teleport{reset} gracz {green}{arg1}.",
+    "tp.noargs": "Nie podałeś {yellow}nick gracza{reset} lub {yellow}współrzędne{reset}, na które chcesz się teleportować.",
+    "tphere.noargs": "Nie podałeś {yellow}nick gracza{reset} którego chcesz teleportować do siebie.",
+    "tphere": "Z powodzeniem {yellow}teleportowany{reset} gracz {aqua}{arg1} do siebie!",
+    "tphere.me": "Gracz {aqua}{arg1} teleportował Cię do siebie!",
+    "tp.error": "Nie można {yellow}teleportować{reset} sami do siebie!",
+    "tp.coord": "Z powodzeniem {yellow}teleport{reset} na współrzędne {aqua}{arg1}{aqua}, {arg2}{aqua}, {arg3}.",
+    "tp.nocoord": "Współrzędna {aqua}{arg1} nie jest liczba!",
+    "tpto": "Można teleportowany gracza {aqua}{arg1} gracz {green}{arg2}.",
+    "tptome": "Gracz {aqua}{arg1} teleportował Cię do gracza {yellow}{arg2}.",
+    "tptoyou": "Gracz {aqua}{arg1} teleportował do gracza {yellow}{arg2}.",
+    "tp.block.player": "Teleportować się do innych graczy można z przywilejów {yellow} do{arg1}.",
+    "tp.block.players": "Nie można teleportować graczy do siebie.",
+    "xyz": "Twoje współrzędne: {arg1}, {arg2}, {arg3}.",
+    "tpa.prefix": "Teleport",
+    "tpa": "Zapytanie wysłane do gracza {aqua} do{arg1}.",
+    "tpa.noargs": "Nie podałeś nick gracza, którego chcesz wysłać zapytanie.",
+    "tpa.you": [
+        "Gracz {green}{arg1} chce teleportować się do Ciebie.",
+        "Zaakceptować wniosek na teleportację - {aqua}\/tpaccept (nick)"
+    ],
+    "tpa.here": [
+        "Gracz {green}{arg1} chce teleportować Cię do siebie.",
+        "Zaakceptować wniosek na teleportację - {aqua}\/tpaccept (nick)"
+    ],
+    "tpa.error": "Nie możesz wysłać zapytanie samego siebie!",
+    "tpaccept.prefix": "Teleport",
+    "tpaccept": "Wziął zapytanie na teleportację od {green} do{arg1}.",
+    "tpaccept.noargs": "Nie podałeś nick gracza, którego wniosek zaakceptować.",
+    "tpaccept.you": "{green}{arg1} przyjął wniosek na teleportację.",
+    "tpaccept.error": "Mylisz się, gracz {green}{arg1} nie wysłałem Ci zapytanie!",
+    "tpaccept.here": "{green}{arg1} przyjął wniosek na teleportację do siebie.",
+    "fakeop.noargs": "Nie podałeś nick gracza.",
+    "fakeop.send": "Z powodzeniem wydali fake опку gracz {green} do{arg1}.",
+    "beta.close": "{red}Serwer jest dostępny tylko beta testerów.",
+    "spawn.prefix": "Serwer",
+    "spawn.void": "Odpadłeś z karty i zostały przeniesiony na спавн.",
+    "spawn.info.texts": [
+        "{bold}{red}{br} {reset}Na naszym serwerze istnieje {pink}latające teksty{bold}{red} {bl}",
+        "Oni sami {yellow}znikają{reset}, gdy od nich {gold}odejdźcie",
+        "I sami {yellow}występują{reset}, gdy do nich {gold}dopasować",
+        "{aqua}Zrobiono to specjalnie{reset} - aby nie лагал serwer :)"
+    ],
+    "spawn.info.lang": [
+        "Masz zainstalowany {yellow}język polski",
+        "Zmienić go można za pomocą polecenia {aqua}\/lang język"
+    ],
+    "block.color": "Korzystać z {yellow}kolorowy tekst{reset} na czacie i na tabliczkach można z przywilejów {arg1} i wyżej!",
+    "block.pickup": "Zbierać drop można tylko {yellow}w przetrwaniu.",
+    "block.flowing": "Ten przedmiot {yellow}można użyć{reset} tylko z przywilejem {arg1} i wyżej.",
+    "block.damage.creative": "Walczyć można {yellow}tylko w przetrwaniu.",
+    "block.damage.spawn": "Nie można walczyć {yellow}na спавне.",
+    "block.spawn": "Aby zacząć budować pisz {aqua}\/wild.",
+    "block.drop.spawn": "Nie wolno niczego wyrzucać {yellow}na спавне.",
+    "block.pvp": "W trybie {bold}{red}PvP{reset}, nie wychodzić z gry {bold}{aqua}{arg1} sekund.",
+    "block.pvp.commands": "Nie można {yellow}użyj polecenia{reset} podczas trybu {bold}{red}PvP.",
+    "block.fish": "Łowić ryby {yellow}na спавне{reset} nie można.",
+    "block.arrow": "Стреллять z łuku {yellow}na спавне{reset} nie można.",
+    "block.snow": "Стреллять śnieżkami {yellow}na спавне{reset} nie można.",
+    "bottle.spice": "Jesteś na haju {aqua}спайсом.",
+    "bottle.geroin": "Jesteś na haju {aqua}heroiną.",
+    "bottle.amfetamin": "Jesteś na haju {aqua}amfetaminy.",
+    "bottle.cocain": "Jesteś na haju {aqua}kokainy.",
+    "bottle.big": "Pan wypił eliksir i stały wzrost olbrzyma!",
+    "bottle.min": "Pan wypił eliksir i stały wzrost z krasnoludem!",
+    "horse.prefix": "Koń",
+    "horse.title": [
+        "{bold}{br}{gold} NOWOŚĆ! KONIE! {white}{bl}",
+        "Graj na serwerze {yellow}trzy dni{reset} i uzyskać {bold}{aqua}konia",
+        "{yellow}Niech wszystkie обзавидуются!",
+        "{bold}<{reset} {green}Drużyna {bold}\/hs{reset}{green} do szczegółów{reset} {bold}>"
+    ],
+    "horse.no": [
+        "Do użytku konia trzeba grać na serwerze {yellow}3 dni{reset}.",
+        "Pozostało jeszcze {yellow}{arg1}"
+    ],
+    "horse.spawn": [
+        "Z powodzeniem {yellow}заспавнили{reset} konia, możesz siada i jechać na zachód słońca!",
+        "Aby wsiąść na konia {yellow}przytrzymaj palec trzymając na niej{reset} lub {yellow}kliknij prawym przyciskiem myszy na nim{reset}, jeśli z komputera"
+    ],
+    "horse.self": "To nie twój koń!",
+    "pig.prefix": "Świnka",
+    "pig.title": [
+        "{bold}{br}{gold} NOWOŚĆ! ŚWINKI! {white}{bl}",
+        "Graj na serwerze {yellow}tygodniu{reset} i uzyskać {bold}{aqua}świnkę",
+        "{yellow}Niech wszystkie обзавидуются!",
+        "{bold}<{reset} {green}Drużyna {bold}\/pig{reset}{green} do szczegółów{reset} {bold}>"
+    ],
+    "pig.no": [
+        "Do użytku świnie trzeba grać na serwerze {yellow}tygodniu{reset}.",
+        "Pozostało jeszcze {yellow}{arg1}"
+    ],
+    "pig.spawn": [
+        "Z powodzeniem {yellow}заспавнили{reset} swoją świnkę, można usiąść i jechać na zachód słońca!",
+        "Aby usiąść na świnkę {yellow}przytrzymaj palec trzymając na niej{reset} lub {yellow}kliknij prawym przyciskiem myszy na nim{reset}, jeśli z komputera"
+    ],
+    "pig.self": "To nie twoja świnka!",
+    "chat.prefix": "Czat",
+    "chat.password": "Uważaj! Nie wolno udostępniać swojego hasła nikomu!",
+    "chat.muted": "Ci zablokowali czat. Odblokowywanie przez {aqua} do{arg1}.",
+    "chat.radius.off": "Użytkownik {red}wyłączony{reset} promień swoich wiadomości.",
+    "chat.radius.set": [
+        "Użytkownik {green}zawrzeć{reset} ograniczenie {yellow}swoich wiadomości{reset} dla graczy.",
+        "Teraz twoje posty {yellow}będą widzieć{reset} tylko gracze w promieniu {aqua}{arg1} bloków od Ciebie"
+    ],
+    "chat.radius.no": "Jeśli poprawnie wpisałeś promień, spróbuj ponownie.",
+    "fly.prefix": "Lot",
+    "fly.on": "Tryb samolotowy jest włączony!",
+    "fly.off": "Tryb samolotowy jest wyłączony!",
+    "fly.info": "Wybierz działanie on\/off!",
+    "ads.close": [
+        "{red}public relations na serwerze zabronione!",
+        "Były кикнуты za reklamę {aqua}{arg1}"
+    ],
+    "kit.prefix": "Wieloryby",
+    "kit.noargs": [
+        "Dostępne polecenia:",
+        "{yellow}\/kit start {gray}- {reset}początkowy zestaw zasobów.",
+        "{yellow}\/kit vip {gray}- {reset}vip zestaw zasobów.",
+        "{yellow}\/kit premium {gray}- {reset}premium zestaw zasobów."
+    ],
+    "kit.start": "Masz {yellow}kit start{reset}, sprawdź inwentarz :)",
+    "kit.vip": "Masz {gold}kit vip{reset}, sprawdź inwentarz :)",
+    "kit.premium": "Masz {pink}kit premium{reset}, sprawdź inwentarz :)",
+    "kit.time.start": "Możesz zabrać {yellow}kit start{reset} jeszcze raz przez {aqua}{arg1}.",
+    "kit.time.vip": "Możesz zabrać {gold}kit vip{reset} jeszcze raz przez {aqua}{arg1}.",
+    "kit.time.premium": "Możesz zabrać {pink}kit premium{reset} jeszcze raz przez {aqua}{arg1}.",
+    "auth.prefix": "Wejście",
+    "auth.title": [
+        "{bold}{pink}{donate} {reset}#{arg1}",
+        "{white}witamy {aqua}{arg2}\n{white}Online {green}{arg3}"
+    ],
+    "auth.login": "{green}{arg1}, ten nick jest już zarejestrowany. Wpisz hasło do konta w czat",
+    "auth.login.on": "Udało się wzięłaś. Miłej gry :)",
+    "auth.login.on.ip": "Zostaniesz automatycznie zalogowany. Przyjemnej gry!",
+    "auth.login.error": "Wprowadzono nieprawidłowe hasło, spróbuj jeszcze raz.",
+    "auth.login.close": "{bold}{red}przekroczono liczbę prób wprowadzenia hasła.",
+    "auth.login.max": [
+        "{red}zarejestrowałeś już {bold}{arg1}{red} kont.",
+        "{yellow}W projekcie nie mogą tworzyć więcej {arg2}{yellow} kont!"
+    ],
+    "auth.login.title": [
+        "{yellow}Autoryzacja!",
+        "{green}Wprowadź swoje hasło do czatu"
+    ],
+    "auth.register": "Drogi {green}{arg1}, wymyśl sobie hasło i wpisz go w czat do rejestracji.",
+    "auth.register.on": [
+        "\nUżytkownik {green}z powodzeniem{reset} zarejestrowany na serwerze!",
+        "Hasło: {red} do{arg1}. Nie zapomnij go i nikomu nie mów!",
+        "Ustawić ochronę skóry: {aqua}\/cid on",
+        "Wziąć {yellow}kit start{reset} i rozpocząć przetrwać: {yellow}\/start"
+    ],
+    "auth.register.title": [
+        "{yellow}Zarejestruj się!",
+        "{green}Wymyśl hasło i wprowadź je w czat"
+    ],
+    "auth.register.price": "Za rejestrację na serwerze {yellow}w prezencie{reset} Masz {green}{arg1} monet i {aqua}{arg2} doświadczenia.\n",
+    "auth.error": "Nie авторизированы!",
+    "auth.error.cmd": "Nie wolno używać polecenia, dopóki nie авторизируешься.",
+    "auth.error.simbol": "Wprowadzono nieprawidłowe znaki. Używaj tylko angielskie litery i cyfry.",
+    "auth.error.count.max": "Hasło powinno być nie więcej niż {arg1} znaków!",
+    "auth.error.count.min": "Hasło musi być nie mniejsza niż {arg1} znaków!",
+    "auth.error.name": "Nie wolno używać swój nick w postaci hasła w celu zapewnienia bezpieczeństwa!",
+    "auth.error.lowpass": "Napisałeś to samo hasło, które Masz w tej chwili jest już zainstalowany.",
+    "auth.changepass": "Pomyślnie zmienił hasło na {green}{arg1}!",
+    "auth.changepass.no": "Wpisz hasło, które chcesz ustawić!",
+    "auth.protect": [
+        "{red}Gracz wszedł na serwer!",
+        "{aqua}Jeśli to Twoje konto, to po prostu poczekaj."
+    ],
+    "lvl.up": [
+        "{bold}{red}Nowy poziom!",
+        "Dotarłeś do {green}{arg1}{green} poziom"
+    ],
+    "bank.noargs": [
+        "\/bank info - {green}informacje o rachunku w banku",
+        "\/bank set - {green}umieścić pieniądze w banku pod %",
+        "\/bank tp - {green}teleportacja w budynku banku"
+    ],
+    "bank.prefix": "Bank",
+    "bank.get": "Z powodzeniem wystartował z konta banku {green}{arg1} monet.",
+    "bank.set": "Można z powodzeniem umieścić na konto w banku {green}{arg1} monet.",
+    "bank.numeric": "Należy określić liczbę!",
+    "bank.two": "Nie podałeś liczbę.",
+    "bank.empty": "Konto w banku jest puste.",
+    "bank.empty.get": "Nie Masz na rachunku {green}{arg1} monet.",
+    "bank.empty.set": "Nie Masz na koncie {green}{arg1} monet.",
+    "bank.nomoney": "Masz na koncie {yellow}nie ma monet.",
+    "bank.all": "Z powodzeniem zrealizowane swoje konto w banku.",
+    "bank.alls": "Można z powodzeniem umieścić w banku {yellow}{arg1} monet.",
+    "bank.info": "Masz na rachunku banku leży {green}{arg1} monet.",
+    "bank.death": [
+        "Możesz umieścić swoje pieniądze na przechowanie w banku i nie tracić {green}{arg1}% po śmierci!",
+        "Umieścić pieniądze w banku - {aqua}\/bank set (liczba)"
+    ],
+    "bank.title": [
+        "{bold}{pink}Bank",
+        "Zostaw swoje pieniądze w bezpieczny!",
+        "Bezpłatna obsługa! Wypłaty bez prowizji!"
+    ],
+    "bank.sign.get": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}Usunąć",
+        "{aqua}{bold}{arg1}"
+    ],
+    "bank.sign.set": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}Zainwestować",
+        "{aqua}{bold}{arg1}"
+    ],
+    "bank.sign.getall": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}Usunąć wszystkie z",
+        "{white}swego {yellow}konta"
+    ],
+    "bank.sign.info": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}Nauczyć się równowagi",
+        "{white}na swojej {yellow}rachunku"
+    ],
+    "bank.sign.setall": [
+        "{gold}{bold}BANK",
+        "",
+        "{white}Dołączyć wszystkie z",
+        "{white}swego {yellow}równowagi"
+    ],
+    "roulette.prefix": "Ruletka",
+    "roulette.need": "Aby ją uruchomić, należy nacisnąć zakupionej cechą.",
+    "roulette.started": "Poczekaj, aż ruletka докрутится!",
+    "roulette.spin": "Teraz kręci {yellow}{arg1}, proszę czekać!",
+    "roulette.need.money": "Za mało monet do zakupu tej żetony.",
+    "roulette.buy.money": "Z powodzeniem kupili kawałek dla monetarna ruletki.",
+    "roulette.buy.item": "Aby ją uruchomić, należy nacisnąć cechą.",
+    "roulette.error": "Błąd! Nie znaleziono ramka! Poinformuj o tym w {yellow}\/błąd!",
+    "roulette.start": [
+        "{green}Ruletka uruchomiona!",
+        "czekaj jej zatrzymać..."
+    ],
+    "roulette.win": "Wygrałeś {green}{arg1}",
+    "roulette.gamemode": "Dla испольльзования ruletki musi być w {green}przetrwaniu",
+    "roulette.sign.item": [
+        "",
+        "{white}Cechą {green}przedmiotów",
+        "{white}Cena: {yellow}{arg1}{yellow}{currency}",
+        ""
+    ],
+    "roulette.sign.money": [
+        "",
+        "{white}Cechą {green}pieniędzy",
+        "{white}Cena: {yellow}{arg1}{yellow}{currency}",
+        ""
+    ],
+    "casino.prefix": "Kasyno",
+    "casino.win": "Można pokonali kasyna i otrzymałeś {green}+{arg1} monet.",
+    "casino.fail": "Przegrałeś zakład i stracił {green}{arg1} monet.",
+    "casino.nomoney": "Nie wystarczy {yellow}{arg1} monet do zakładu.",
+    "casino.sign.set": [
+        "",
+        "{white}Postawić",
+        "{aqua}{bold}{arg1}",
+        ""
+    ],
+    "casino.sign.win": [
+        "",
+        "{white}Spróbuj pokonać",
+        "{white}naszej {yellow}kasyno",
+        ""
+    ],
+    "casino.sign.info": [
+        "{white}Наведись na przedmiot",
+        "{white}aby zobaczyć",
+        "{white}ostatniego",
+        "{yellow}gracz{white} i {aqua}zakład"
+    ],
+    "case.prefix": "Aktówki",
+    "case.title": "{bold}{yellow}case Donat",
+    "case.chance": "{bold}{yellow}Szanse utraty uprawnień",
+    "case.lowname": "Nie można przekazać aktówki samemu sobie!",
+    "case.info": "Masz {green}{arg1}, teczek!",
+    "case.info.by": "Kupić aktówki można na stronie internetowej: {green}{donate}",
+    "case.add": "Z powodzeniem wydane {green}{arg1} donat, teczek gracz z nickiem {aqua}{arg2}.",
+    "case.add.br": "Gracz {green}{arg1} kupiłem {aqua}{arg2} donat pojemnikach.",
+    "case.add.nokey": "Wprowadź liczbę wydawanych donat pojemnikach.",
+    "case.add.nocount": "Nie można wydać {aqua}{arg1} donat, teczek, Masz tylko {aqua}{arg2}.",
+    "case.add.nonick": "Wpisz nick gracza, któremu chcesz przekazać swoje donat aktówki.",
+    "case.remove": "Skutecznie wyrwane aktówki u gracza z nickiem {aqua} do{arg1}.",
+    "case.remove.error.key": "Wprowadź liczbę забираемых pojemnikach.",
+    "case.remove.error.nick": "Wprowadź imię tego, kogo trzeba zabrać aktówki.",
+    "case.pay": "Gracz {aqua}{arg1} przetłumaczył Ci {yellow}{arg2} swoich donat pojemnikach.",
+    "case.payto": "Zlecona {yellow}{arg2} swoich donat, teczek gracz {aqua}{arg1}.",
+    "case.open": "Można выйграли przywilej {green}{arg1} z szansą na wypadanie {aqua}{arg2}!",
+    "case.open.min": [
+        "Przywilej, na który trzeba wybito była mniejsza niż to, co Masz teraz.",
+        "Dlatego też, twoja stara przywilej zachował {bold}:)"
+    ],
+    "case.open.no": "Nie ma przypadków, kup je na stronie: {aqua}{donate}",
+    "case.prefix.info": "Masz {green}{arg1} prefiks teczek!",
+    "case.prefix.info.by": "Kupić prefiks aktówki można na stronie internetowej: {green}{donate}",
+    "case.prefix.set": "Pan powiedział prefiks {arg1}! Gratulacje :)",
+    "case.prefix.br": "Gracz {green}{arg1} kupiłem {aqua}{arg2} prefiks pojemnikach.",
+    "case.prefix.add": "Z powodzeniem wydane {green}{arg1} prefiks teczek gracz z nickiem {aqua}{arg2}.",
+    "case.prefix.add.nokey": "Wprowadź liczbę wydawanych prefiks pojemnikach.",
+    "case.prefix.add.nocount": "Nie można wydać {aqua}{arg1} prefiks, teczek, Masz tylko {aqua}{arg2}.",
+    "case.prefix.add.nonick": "Wpisz nick gracza, któremu chcesz przekazać swoje prefiks aktówki.",
+    "case.prefix.pay": "Gracz {aqua}{arg1} przetłumaczył Ci {yellow}{arg2} swoich prefiks pojemnikach.",
+    "case.prefix.payto": "Zlecona {yellow}{arg2} swoich prefiks teczek gracz {aqua}{arg1}.",
+    "case.error": "Teraz walizka otwiera {aqua} do{arg1}.",
+    "case.error.open": "Walizka teraz otwiera!!!",
+    "case.br": "Gracz {aqua}{arg1} wygrał donat {arg2}! {bold}Gratulacje!",
+    "case.win": [
+        "{arg1}.",
+        "{green}Gratulacje z выйгрышем!"
+    ],
+    "case.gift": "Już wydali {aqua}{arg1} kluczy od donat, teczek! Następnym razem będzie można wydać {yellow}po вайпа{reset} serwera.",
+    "case.nogift": "Można wydać {aqua}{arg1} kluczy od donat pojemnikach.",
+    "case.help": [
+        "{yellow}\/case info{gray} - {reset}informacje o swoich кейсах.",
+        "{yellow}\/case spawn{gray} - {reset}teleportacja do aktówce.",
+        "Woreczki można kupić na miejscu {aqua}{donate}"
+    ],
+    "case.fly": [
+        "Uczciwi donat aktówki.",
+        "Szansę wybić przywilej {yellow}taki sam"
+    ],
+    "sex.prefix": "{pink}Sex",
+    "sex": "Z powodzeniem oferowane graczowi {aqua}{arg1} uprawiać seks.",
+    "sex.isset": "U tego gracza już istnieją niepotwierdzone wnioski na seks.",
+    "sex.isset.you": "Gracz {aqua}{arg1} próbował zaoferować Ci seks, ale nie mógł, ponieważ masz niepotwierdzone zapytania.",
+    "sex.gay": "Przespać się ze sobą nie uda!",
+    "sex.accept": [
+        "Gracz {aqua}{arg1} oferuje Ci seks.",
+        "Wpisz {green}\/sex accept aby się zgodzić.",
+        "Wpisz {green}\/sex deny aby zrezygnować.",
+        "Zapytanie zostanie automatycznie anulowane przez {green}{arg2} sekund"
+    ],
+    "sex.deny": "Zapytanie na ciastko został zignorowany i anulowane.",
+    "sex.deny.you": "Ci wysłał zapytanie na ciastko, ale go zignorował. Wniosek został odwołany.",
+    "sex.br": "Gracz {green}{arg1} zajął кексом z {aqua}{arg2}.",
+    "sex.offline": "Niestety, nie można robić кексом z {aqua}{arg1}, ponieważ opuścił serwer.",
+    "sex.isaccept": "W tej chwili nie ma aktywnych zapytań na ciastko.",
+    "sex.nodeny": "Gracz {aqua}{arg1} nie chciał uprawiać z tobą кексом.",
+    "sex.nodeny.you": "Z powodzeniem odrzucili propozycję zrobienia кексом.",
+    "sex.error": "Musisz podać nazwę swojego partnera seksualnego.",
+    "sex.help": [
+        "{yellow}\/sex send (nick) {gray}- {reset}wyślij zapytanie na ciastko.",
+        "{yellow}\/sex accept {gray}- {reset}przyjąć wniosek na ciastko.",
+        "{yellow}\/sex deny {gray}- {reset}odrzucić wniosek na ciastko"
+    ],
+    "prefix.prefix": "Prefiks",
+    "prefix.set": "Zainstalowałeś sobie przedrostek {arg1}.",
+    "prefix.remove": "Zwrócono sobie przedrostek swojego uprawnienia.",
+    "prefix.valid": "Podałeś {red}nielegalny prefiks{reset}, spróbuj ponownie.",
+    "prefix.hide": "Ukrył swój prefiks. Zwrócić można go w każdej chwili :)",
+    "prefix.show": "Można zawrzeć swój prefiks.",
+    "events.jump": [
+        "{bold}{aqua}hop hop hop!",
+        "Podskocz większą ilość razy niż inne \nw ciągu {yellow}{arg1} min i odbierz nagrodę!"
+    ],
+    "events.jump.end": [
+        "{bold}{red}Gra jest skończona!",
+        "Gracz {yellow}{arg1} podskoczył {yellow}{arg2} razy i wygrał {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.sit": [
+        "{bold}{aqua}Proszę чирик!",
+        "Usiądź większą ilość razy niż inne \nw ciągu {yellow}{arg1} min i odbierz nagrodę!"
+    ],
+    "events.sit.end": [
+        "{bold}{red}Gra jest skończona!",
+        "Gracz {yellow}{arg1} usiadł {yellow}{arg2} razy i wygrał {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.speed": [
+        "{bold}{aqua}Tryb lampy błyskowej jest aktywny!",
+        "Przebiegi więcej niż inni \nw ciągu {yellow}{arg1} min i odbierz nagrodę!"
+    ],
+    "events.speed.end": [
+        "{bold}{red}Gra jest skończona!",
+        "Gracz {yellow}{arg1} przebiegł {yellow}{arg2} bloków i wygrał {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.break": [
+        "{bold}{aqua}Kto z nas jest najlepszy górnik?!",
+        "Złam więcej bloków niż inni w ciągu {yellow}{arg1} min."
+    ],
+    "events.break.end": [
+        "{bold}{red}Gra jest skończona!",
+        "Gracz {yellow}{arg1} złamał {yellow}{arg2} bloków i wygrał {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.paste": [
+        "{bold}{aqua}Budujemy-budujemy-budujemy!",
+        "Połóż więcej bloków niż inni w ciągu {yellow}{arg1} min."
+    ],
+    "events.paste.end": [
+        "{bold}{red}Gra jest skończona!",
+        "Gracz {yellow}{arg1} postawił {yellow}{arg2} bloków i wygrał {bold}{aqua}{arg3}{aqua}{currency}"
+    ],
+    "events.none": [
+        "{bold}{red}Gra jest skończona!",
+        "Niestety nikt nie uczestniczył i {yellow}nie ma zwycięzców"
+    ],
+    "prise.register": "Pomyślna rejestracja!",
+    "prise.events": "-Zrób to! {arg1}{yellow} miejsce!",
+    "prise.parkour": "Przeszliście parkour!",
+    "prise.parkour.spawn": "Przeszliście parkour za {arg1}!",
+    "prise.maze": "Yo-ho-ho! Można okradł bank!",
+    "prise.guide": "Przeszedł szkolenie!",
+    "prise.shooting.easy": "Trafiłeś w {aqua}lekką{yellow} cel!",
+    "prise.shooting.simple": "Trafiłeś w {gold}prostą{yellow} cel!",
+    "prise.shooting.hard": "Trafiłeś w {red}skomplikowaną{yellow} cel!",
+    "parkour.endtime": [
+        "{bold}{red}Czas minął!",
+        "Zostałeś przeniesiony na miejsce startu"
+    ],
+    "parkour.fall": [
+        "{bold}{red}spadł z parkour",
+        "i zostały przeniesiony na miejsce startu"
+    ],
+    "parkour.fall.spawn": [
+        "{bold}{red}spadł z parkour",
+        "i zostały przeniesiony na спавн"
+    ],
+    "parkour.start": [
+        "{bold}{green}Pobiegł!",
+        "masz {aqua}{arg1}, aby przejść parkour"
+    ],
+    "parkour.start.spawn": [
+        "{bold}{green}Pobiegł!",
+        "przejdź parkour szybciej od innych"
+    ],
+    "parkour.nocommands": "Nie można {red}użyj polecenia{reset} podczas parkour!",
+    "parkour.prefix": "Parkour",
+    "parkour.nosurv": "Do gry trzeba być w {green}przetrwaniu.",
+    "parkour.title": "{bold}{yellow}Parkour",
+    "parkour.lvl": "{white}Jesteś teraz na {aqua}{arg1} {white}poziomie parkour",
+    "parkour.info": "{yellow}Dla startu nadepnąć na blok poniżej",
+    "parkour.easy": "{white}poziom Trudności: {green}łatwo",
+    "parkour.norm": "{white}poziom Trudności: {gold}w porządku",
+    "parkour.hard": "{white}poziom Trudności: {red}trudno",
+    "parkour.veryhard": "{white}poziom Trudności: {pink}nie wykonalne",
+    "backpack.prefix": "Plecak",
+    "backpack.survival": "Do użytku plecaka powinny być w przetrwaniu!",
+    "backpack.success": "Aktywowałeś swój plecak, aby otworzyć użyj tego przedmiotu lub polecenie {aqua}\/bp.",
+    "protect.prefix": "Ochrona",
+    "protect.on": "Masz włączoną ochronę dla skóry.",
+    "protect.off": "Wyłączono ochronę dla skóry.",
+    "protect.close": [
+        "{bold}{red}Twój skin nie pasuje do zapisanego zrzucić.",
+        "{reset}{italic}{aqua}Umieść stary skin, aby wejść"
+    ],
+    "spam.prefix": "Info",
+    "spam.on": "Powiadomienia są włączone!",
+    "spam.off": "Alarmy są wyłączone!",
+    "spam.info": "Wybierz działanie on\/off!",
+    "spammer": "Użytkownik {yellow}спамили{reset} i zostały {red}zablokowane{reset}. Odblokowywanie przez {yellow}{arg1}.",
+    "broadcast.prefix": "Info",
+    "broadcast.1": [
+        "Dość powiadomienia na czacie? Wpisz {aqua}\/spam, aby wyłączyć!"
+    ],
+    "broadcast.2": [
+        "Chcesz latać, ale Masz mało pieniędzy? Wtedy przywilej {yellow}Gast{reset} - to, czego potrzebujesz!",
+        "Więcej szczegółów na naszej stronie internetowej {aqua}{donate}"
+    ],
+    "broadcast.3": [
+        "Chcesz możliwość latania i budować w креативе?",
+        "Nadaje przywilej {yellow}Ocelot {reset}za {green}99{rouble}{reset} na miejscu {aqua}{donate}"
+    ],
+    "broadcast.4": [
+        "Nie wiesz do czego zespół lub jak jej używać? Wpisz {aqua}\/help (zespół)"
+    ],
+    "broadcast.5": [
+        "Budować domy i sprzedać je!",
+        "Zespół do wystawienia regionu na sprzedaż {aqua}\/rg sell (kwota)"
+    ],
+    "broadcast.6": [
+        "Znalazłeś błąd lub błąd na serwerze? Raczej o poinformowanie o tym!",
+        "Napisz polecenie {green}\/błąd (komunikat)"
+    ],
+    "broadcast.7": [
+        "Chcesz przywilej, ale Masz mało pieniędzy? Nie ma znaczenia! Otwórz donat walizkę i na pewno wypadnie {gold}przywilej{reset}!",
+        "Zakup teczek na naszej stronie internetowej {aqua}{donate}"
+    ],
+    "broadcast.8": [
+        "Pilnie potrzebne są monety? Spróbuj obrabować bank, przechodząc przez skomplikowany labirynt!",
+        "Napisz polecenie {green}\/bank tp"
+    ],
+    "broadcast.9": [
+        "Użyj bank, aby nie stracić 5% monet po śmierci!",
+        "Napisz polecenie {green}\/bank set suma{reset} - aby umieścić określoną kwotę na konto"
+    ],
+    "broadcast.10": [
+        "Możesz otrzymywać pieniądze, siedząc w pracy {aqua}\/job (praca)",
+        "Lub sprzedawać niepotrzebne bloki w sklepie {aqua}\/shop"
+    ],
+    "broadcast.11": [
+        "Chcesz szybko teleportować się do swoich budynków, domów lub czegoś innego?",
+        "Stwórz swój punkt teleportacji, wpisując polecenie {aqua}\/point create (nazwa)"
+    ],
+    "broadcast.12": [
+        "Zaprzyjaźnił się z kimś i chcesz z nim grać?",
+        "Dodaj go do siebie do znajomych zespołem {aqua}\/add friend (nick)"
+    ],
+    "broadcast.13": [
+        "Jak państwu ofertę zarabiać z zabijania?",
+        "Idealna praca zabójcą {aqua}\/job killer"
+    ],
+    "bossbar.balance": "{bold}{yellow}Równowagę: {reset}{arg1}{currency}",
+    "bossbar.online": "{bold}{yellow}Online: {reset}{arg1}",
+    "bossbar.1": "Zmień język serwera - {green}\/lang język",
+    "bossbar.2": "Teleportować się na PVP-Areny - {green}\/pvp",
+    "bossbar.3": "Pomoc na prywatne - {green}\/rg help",
+    "bossbar.4": "Informacje o drużynie - {green}\/help (zespół)",
+    "bossbar.5": "Otwórz sklep - {green}\/shop open",
+    "bossbar.6": "Zakup darowizny na miejscu {aqua}{donate}",
+    "bossbar.7": "Dołącz do naszej grupy {aqua}{group}",
+    "bossbar.8": "Ustawić punkt tp - {green}\/set point (nazwa)",
+    "bossbar.9": "Teleport w losowe miejsce - {green}\/rtp",
+    "bossbar.10": "Teleport do gracza - {green}\/tpa (nick)",
+    "bossbar.11": "Zacznij zarabiać z {green}\/job",
+    "bossbar.12": "Napisz nam o bagach - {green}\/błąd (komunikat)",
+    "bossbar.13": "Skarga na gracza - {green}\/report (nick) (skarga)",
+    "bossbar.14": "Lista wszystkich варпов - {green}\/warp",
+    "bossbar.15": "Dodaj znajomego - {green}\/add friend (nick)",
+    "bossbar.16": "Regulamin serwera - {green}\/rules",
+    "bossbar.17": "Wsparcie w grupie {green}{group}",
+    "guide.prefix": "Szkolenia",
+    "guide.finish": "Już {yellow}szkolenie{reset} i wszystko wiesz :)",
+    "guide.title": [
+        "Przejdź {gold}szkolenie{reset} z serwerem",
+        "i uzyskać {bold}{aqua}{arg1} monet i {bold}{aqua}{arg2} doświadczenia"
+    ],
+    "guide.1": [
+        "To punkt респавна - \/spawn",
+        "Tutaj wszyscy gracze odradzają się i znajdują się stoiska informacji."
+    ],
+    "guide.2": [
+        "Jest to budynek banku \/bank tp",
+        "Tutaj można skorzystać z usług banku lub spróbuj obrobić go."
+    ],
+    "guide.3": [
+        "To pomnik dla wejścia na PVP-areny - \/pvp",
+        "Walcz z innymi graczami i zarobić na zabijaniu!"
+    ],
+    "guide.4": [
+        "To klanowo skrzynię i topy klanów - \/c chest",
+        "Skrzynię można otworzyć za zwycięstwa w wojnach klanowych i wybić przywilej lub удвоители."
+    ],
+    "guide.5": [
+        "To sklep \/shop",
+        "Można tu nie tylko kupić potrzebne rzeczy, ale również i je sprzedać."
+    ],
+    "guide.6": [
+        "To auto-kopalnia - \/mine",
+        "Jest aktualizowany co pół godziny, czas zabrać diamenty pierwszy!"
+    ],
+    "guide.7": [
+        "To ruletka - \/ruletka",
+        "Można zwiększyć swój bilans lub wygrać rzeczy!"
+    ],
+    "guide.8": [
+        "To donat-aktówki - \/case tp",
+        "Z nich można się wybić dowolny przywilej. Zakup tylko na {donate}"
+    ],
+    "guide.9": [
+        "To strzelnica - \/tir",
+        "Dostaje w celu i zdobądź monety!"
+    ],
+    "guide.10": [
+        "To pomnik dla wejścia w pojedynku - \/duel",
+        "Walka 1 na 1 z przeciwnikiem na równych warunkach i wirtualne monety za zwycięstwo!"
+    ],
+    "guide.11": [
+        "To kasyno \/casino",
+        "Tutaj możesz licytować i zarabiać pieniądze!"
+    ],
+    "guide.12": [
+        "To tic-tac-toe - \/ttt",
+        "Wygraj innego gracza i uzyskać monety!"
+    ],
+    "guide.13": [
+        "To parkour - \/parkour",
+        "Skacz i zbieraj monety!"
+    ],
+    "guide.14": [
+        "To zatrzaskowe - \/kliker",
+        "Po prostu klikaj i wygrywaj monety!"
+    ],
+    "pvp.title": [
+        "{bold}{yellow}Pvp-arena",
+        "Wielka arena, na której można pokazać",
+        "jak silne są wśród innych",
+        "lub odwrotnie :)",
+        "{aqua}Do wejścia na arenę można użyć {bold}\/pvp"
+    ],
+    "pvp.block": [
+        "Nie można {yellow}korzystać z{reset} drużyny na pvp-arena.",
+        "Aby wyjść z areny użyj {aqua}\/spawn"
+    ],
+    "pvp.off": [
+        "{bold}{red}PvP",
+        "Wyszedł z trybu {bold}{red}PvP!"
+    ],
+    "pvp.off.tip": "{red}{bold}PvP skończone{reset}, można użyć polecenia i wychodzić z gry!",
+    "jobs.prefix": "Pracy",
+    "jobs.help": [
+        "Zobacz listę dostępnych prac {aqua}\/job list",
+        "Zobacz kim pracujesz {aqua}\/job info",
+        "Aby ubiegać się o pracę {aqua}\/job join (nazwa)",
+        "Odejść z pracy {aqua}\/job quit (nazwa)"
+    ],
+    "jobs.list": [
+        "{bold}Górnik{reset}{italic} (miner) {reset}- {green}dostaje pieniądze za wydobycie piasku, ziemi i kamienia z szansą na 5%, za wydobycie rudy od 20{currency} 100{currency} za sztukę.",
+        "{bold}Drwal{reset}{italic} (woodcutter) {reset}- {green}dostaje pieniądze za срубание drzew od 3{currency} do 6{currency} za sztukę.",
+        "{bold}Zabójca{reset}{italic} (killer) {reset}- {green}dostaje pieniądze za zabijanie graczy od 30{currency} do 80{currency} dla każdego.",
+        "{bold}Rybak{reset}{italic} (fisher) {reset}- {green}dostaje pieniądze za łowienie ryb od 40{currency} do 80{currency} za sztukę.",
+        "{bold}Z {aqua}przywileje VIP{white} Można rozliczyć {yellow}raz na dwa{white} pracy!"
+    ],
+    "jobs.my.not": "Jesteś bezrobotny.",
+    "jobs.my": "Jesteś ułożone na pracę {aqua} do{arg1}.",
+    "jobs.join.miner": "Pan dostał pracę {aqua}górnikiem.",
+    "jobs.join.woodcutter": "Pan dostał pracę {aqua}, drwalem.",
+    "jobs.join.killer": "Pan dostał pracę {aqua}zabójcą.",
+    "jobs.join.fisher": "Pan dostał pracę {aqua}rybakiem.",
+    "jobs.join.not": "Nie podałeś pracę, na którą chcesz dostać!",
+    "jobs.join.two": "Znaleźć dwie prace na raz można tylko z przywilejów {yellow}{arg1}{reset} i wyżej! Masz żonę ze starym!",
+    "jobs.join.max": "Ty już pracujesz {yellow}raz na dwa{reset} pracach! Masz żonę z jednej z prac!",
+    "jobs.quit.miner": "Można увоились z pracy {aqua}górnika.",
+    "jobs.quit.woodcutter": "Można увоились z pracy {aqua}drwala.",
+    "jobs.quit.killer": "Można увоились z pracy {aqua}hitman.",
+    "jobs.quit.fisher": "Można увоились z pracy {aqua}rybaka.",
+    "jobs.quit.not": "Nie podałeś prace, z których chcesz zrezygnować.",
+    "jobs.quit.isset": "Nie działają na tej pracy!",
+    "jobs.time.join": "Możesz zmienić swoją pracę przez {aqua} do{arg1}.",
+    "mine.prefix": "Auto-kopalnia",
+    "mine.change": "Kopalnia została zaktualizowana! Raczej uciekaj zbierać rudę {aqua}\/mine",
+    "seller.prefix": "{aqua}Paser",
+    "seller.no": "Przepraszam... nie mogę kupić ten przedmiot, {yellow}zaproponuj{reset} coś innego.",
+    "seller.max": "Uhh.. skończyły mi się pieniądze, nie mogę już kupić od ciebie czegokolwiek. Przyjdź jutro!",
+    "shop.prefix": "Sklep",
+    "shop.seller": "{yellow}Sprzedawca",
+    "shop.max": "Przedmiotów nie można sprzedać. Przyjdź jutro!",
+    "shop.title.buy": "{bold}{aqua}Liczba: {arg1} {yellow}Zapłacisz: {arg2}{yellow}{currency}.",
+    "shop.title.sell": "{bold}{aqua}Liczba: {arg1} {yellow}Dostaniesz: {arg2}{yellow}{currency}.",
+    "shop.creative": "Przełącz się w tryb przetrwania.",
+    "shop.nomoney": "Za mało pieniędzy na zakupy.",
+    "shop.buy": "Kupiłeś {green}{arg1} {aqua}{arg2} za {yellow}{arg3} monet.",
+    "shop.sell": "Sprzedałeś {green}{arg1} {aqua}{arg2} za {yellow}{arg3} monet.",
+    "shop.noitems": "Nie Masz wystarczających zasobów do sprzedaży.",
+    "shop.noinv": "Masz {red}nie ma miejsca w ekwipunku {reset}do zakupu!",
+    "shop.left.count": [
+        "",
+        "{white}Zmniejszyć ilość",
+        "{green}{bold}<<<",
+        ""
+    ],
+    "shop.right.count": [
+        "",
+        "{white}Zwiększyć ilość",
+        "{green}{bold}>>>",
+        ""
+    ],
+    "shop.left.item": [
+        "",
+        "{white}Poprzedni przedmiot",
+        "{pink}{bold}<<<",
+        ""
+    ],
+    "shop.right.item": [
+        "",
+        "{white}Następny przedmiot",
+        "{pink}{bold}>>>",
+        ""
+    ],
+    "shop.top": [
+        "{white}Użyj tabliczki",
+        "{white}, aby wybrać żądany",
+        "{yellow}towaru{white} i {aqua}liczba wa",
+        ""
+    ],
+    "shop.info": [
+        "{white}Użyj polecenia",
+        "{bold}{yellow}\/shop open",
+        "{white}dla szybkich zakupów.",
+        "{bold}{aqua}bez kolejek!"
+    ],
+    "shop.mbuy": [
+        "{white}Chcę {yellow}kupować",
+        "{white}przedmioty"
+    ],
+    "shop.msell": [
+        "{white}Chcę {yellow}sprzedawać",
+        "{white}przedmioty"
+    ],
+    "shop.sbuy": [
+        "{yellow}Kupić",
+        "{white}przedmiot"
+    ],
+    "shop.ssell": [
+        "{yellow}Sprzedać",
+        "{white}przedmiot"
+    ],
+    "tops.place.title": "Najlepsi budowniczowie serwera",
+    "tops.place": "bloki",
+    "tops.death.title": "Slowa serwera",
+    "tops.death": "śmierć",
+    "tops.kills.title": "Top zabójców serwera",
+    "tops.kills": "zabójstw",
+    "tops.msg.title": "Najbardziej towarzyskie",
+    "tops.msg": "wiadomości",
+    "tops.money.title": "Najbogatsi",
+    "tops.money": "monet",
+    "tops.clans.title": "Najlepsze klany w tym sezonie",
+    "tops.clans": "punktów",
+    "tops.clans.help": [
+        "{red}{italic}Zabijaj graczy{reset} a {yellow}{italic}wycofać",
+        "swój klan w {bold}{pink}TOP 5"
+    ],
+    "tops.time.title": "Fani serwera",
+    "tops.time": "{arg1}",
+    "tops.break.title": "Najlepsze górnicy serwera",
+    "tops.break": "bloki",
+    "marry.prefix": "Wesela",
+    "marry.noname": "Nie podałeś {yellow}nick gracza{reset}, którego ma poślubić Ciebie.",
+    "marry.help": [
+        "Lista poleceń:.",
+        "{yellow}\/marry send (nick) {gray}- {reset}zaoferować graczowi wziąć ślub. Koszt wesela: {aqua}5 000 monet.",
+        "{yellow}\/marry quit {gray}- {reset}rzucić żonę\/męża.",
+        "{yellow}\/marry tp {gray}- {reset}teleportacja do żony\/męża"
+    ],
+    "marry.nomoney": "Brakuje pieniędzy na ślub! Koszt wesela: {aqua}5 000 monet.",
+    "marry.gay": "Nie możesz ożenić się samym sobie!",
+    "marry.nosend": "Już małżeństwem na {yellow} do{arg1}.",
+    "marry.sended": [
+        "Gracz {aqua}{arg1} oferuje Ci swoją rękę i serce!",
+        "Aby potwierdzić jego oświadczyny i ślub z nim, napisz {aqua}\/marry accept"
+    ],
+    "marry.send": "Zaproponowano rękę i serce gracza {aqua} do{arg1}.",
+    "marry.iscouple": "Gracz {yellow}{arg1} jest już żonaty.",
+    "marry.noaccept": "Nie masz żądań {yellow}ślub.",
+    "marry.accepted": "Gracz {aqua}{arg1} przyjęła twoje oświadczyny. Jesteście małżeństwem {red}{heart}.",
+    "marry.accept": "Teraz {green}jesteś{reset} i {aqua}{arg1} - {yellow}rodzina.",
+    "marry.br": "Gracze {aqua}{arg1} i {green}{arg2} ślub! {yellow}Pogratulować ich!",
+    "marry.divorses": "Gracz {aqua}{arg1} cię zostawił.. {red}Jesteś rozwiedziony {black}{heart}.",
+    "marry.divorse": "Z powodzeniem rozwiedli się od {aqua} do{arg1}.",
+    "marry.no": "Jeszcze nie jesteśmy małżeństwem!",
+    "marry.notp": "Twoja bratnia dusza teraz nie gra na serwerze.",
+    "marry.tp": "Z powodzeniem {yellow}teleport{reset} do swojej połówce {red}{heart}.",
+    "marry.damage": "Użytkownik {yellow}nie można{reset} pokonać {pink}bratnią duszę.",
+    "marry.login": "Twoja {yellow}druga połowa{reset} weszłam na serwer {red}{heart}.",
+    "marry.quit": "Twoja {yellow}druga połowa{reset} opuścił serwer.",
+    "we.prefix": "Edytor",
+    "we.wand": "Masz kilof do zaznaczania terytorium.",
+    "we.noblocks": "Wprowadź id:meta bloku lub bloków (za pomocą przecinka).",
+    "we.nofound": "Podany blok nie znaleziono.",
+    "we.blocked": "W tej chwili nie można wprowadzać żadnych zmian.",
+    "we.maxdistance": "Przekroczono maksymalny rozmiar terenie, wybierz mniejszy.",
+    "we.set": "Zmiana terenie...",
+    "we.set.success": "Teren pomyślnie zmienione.",
+    "we.noarea": [
+        "Nie przeznaczyły na terytorium lub podkreślali jej nieprawidłowo!",
+        "Aby ją zmienić, należy użyć polecenia {aqua}\/pos 1{reset} i {aqua}\/pos 2"
+    ],
+    "we.item.block": "Указаный blok nie można używać do instalowania w świat.",
+    "we.nopos": "Nie podałeś numeru pozycji.",
+    "we.pos": "Zainstalowałeś {yellow}{arg1} pozycję terenie.",
+    "we.error": "Podczas wykonywania polecenia wystąpił błąd, zgłoś to {aqua}\/bug",
+    "we.replace": "Zastępuję bloki na zaznaczonym terenie...",
+    "we.replace.success": "Wymiana bloków przebiegła pomyślnie.",
+    "we.undo": "Powrót do dawnej выделеной terenie...",
+    "we.undo.success": "Zwrot został zakończony pomyślnie.",
+    "we.redo": "Ponownie zdradzam wydzielonej teren...",
+    "we.redo.success": "Ponowne zmiana zakończona pomyślnie.",
+    "we.copy": "Zaznaczony teren skopiowany.",
+    "we.cut": "Zaznaczony teren wycina...",
+    "we.paste": "Teren jest wstawiany w wskazane miejsce.",
+    "we.guard": "Wydzielony teren do obcych приватов, nie Masz dostępu do ich zmiany.",
+    "we.spawn": "Nie można edytować ten teren!",
+    "we.biome.select": "Nie podałeś биом który chcesz zmienić.",
+    "we.biome.change": "Nie podałeś биом na który chcesz dokonać wymiany.",
+    "we.biome.replace": "Udało ci się zmienił биом {arg1} do {arg2}.",
+    "we.biome.set": "Udało ci się zmienił cały kawałek na биом {arg1}.",
+    "we.biome.get": "Jesteś w биоме {arg1} (X: {arg2}, Z: {arg3}).",
+    "hologram.noargs": [
+        "{aqua}\/tag add {gray}- {reset}stworzyć latający tekst na swoim miejscu",
+        "{aqua}\/tag remove {gray}- {reset}usuń latający tekst obok siebie"
+    ],
+    "hologram.error.text": "Nie podałeś tekst do tworzenia.",
+    "hologram.error.data": "Błąd podczas pobierania danych! Zobacz wsparcie.",
+    "hologram.error.create": "Błąd podczas zapisywania tekstu! Zobacz wsparcie.",
+    "hologram.maxcount": "Nie można już tworzyć latające teksty. Trzeba było dostępne dla tworzenia {arg1} szt.",
+    "hologram.create": "Latający tekst utworzony pomyślnie! Dostępne dla tworzenia {arg1} szt.",
+    "hologram.found": "Nie znaleziono latający tekst! Zostań przy nim i spróbuj ponownie.",
+    "hologram.owner": "Nie twórca tego tekstu, wybierz swój.",
+    "hologram.remove": "Można z powodzeniem usunąć latający tekst.",
+    "hologram.guard": "Nie można tworzyć latający tekst na tym terenie.",
+    "hologram.more": "W pobliżu znajduje się wiele latających tekstów, odsuń się i spróbuj ponownie.",
+    "transform.prefix": "Przerobka",
+    "transform.found": "Nie znaleziono dostępne moby dla swojej korzyści.",
+    "transform.found.mob": "Podany mob nie znaleziono.",
+    "transform.help": [
+        "Do przekształcenia się w moba podać nazwę, na przykład: {aqua}\/mob cat",
+        "Na powrót w człowieka pisz {aqua}\/mob off"
+    ],
+    "transform.real": "Oddałeś swój prawdziwy wygląd.",
+    "transform.load": "Jeszcze nie zamieniły się w moba.",
+    "transform.permission": "Nie Masz zezwolenia na przekształcenie w tego moba.",
+    "transform.mob": "Z powodzeniem zamieniła się w moba.",
+    "transform.error": "Błąd w wykonaniu zespołu, skontaktuj się z administracją.",
+    "transform.attack": "Nie możesz walczyć w trybie moba.",
+    "schematic.prefix": "Schematic",
+    "schematic.load": [
+        "Schemat świata początku загружатся, to może trochę potrwać",
+        "Tylko bloki: {arg1} ({arg2})"
+    ],
+    "schematic.name": "Wprowadź nazwę pliku.",
+    "schematic.found": "Podany plik nie został znaleziony.",
+    "schematic.start": "Schemat świata zaczęła się uruchamiać...",
+    "schematic.end": "Schemat pomyślnie dodano w świat.",
+    "vk.prefix": "{aqua}VK",
+    "vk.map": "{bold}{red}To twój kod QR\n{aqua}Zrób zrzut ekranu i wyślij go do grupy {yellow}{group}",
+    "vk.success": [
+        "Z powodzeniem otrzymałeś swój kod QR.",
+        "Opuść głowę do samego dołu i zrób zrzut ekranu.",
+        "Wtedy zrzut ekranu prześlij do grupy {bold}{aqua}{group}{reset}"
+    ],
+    "vk.isset": "Masz w ekwipunku masz już kod, weź go w rękę i zrób zrzut ekranu!"
+}
